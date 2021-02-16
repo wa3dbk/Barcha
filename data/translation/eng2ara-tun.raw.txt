@@ -1075,7 +1075,7 @@ That was such a long time ago.
 هذاكا صار من بكري. / يا حسرة.
 
 Please provide me with a list of your services.
-باللاهي قلّي شنوما les services متاعهم. / من فظلك اعطيني ليستة الخدمات متاعهم. 
+باللاهي قلّي شنوما les services متاعهم. / من فضلك اعطيني ليستة الخدمات متاعهم. 
 
 You’re a good friend.
 صاب باهي انتي والله. / انتي صاحب باهي. / صاحبة باهية انتي.
@@ -1213,3 +1213,397 @@ You’re right, I want to go back there.
 
 Just lead the way and I’ll follow.
 يلّا هاني وراك. / يلّا هاني نتبّع فيك. / إمشي هاني نتبّع فيك.
+
+I feel awkward in these social gatherings.
+
+I understand how you feel.
+نعرفك شنوه حاسس. / نعرفك شنوه حاسّة. 
+
+Whether in big groups or small groups, I always feel a little shy at first.
+سواءً في ڤروبات كبيرة ولا صغيرة، ديما نبدا حاشم شوية مالأوّل. / سواءً في ڤروبات كبيرة ولا صغيرة، ديما نبدا حاشمة شوية مالأوّل. 
+
+Looking back, I knew I was always an introvert.
+كي نغزر للماضي متاعي نلقى روحي إلّي طول عمري كنت إنطوائي. / كي نغزر للماضي متاعي نلقى روحي إلّي طول عمري كنت إنطوائيّة. 
+
+They’re together now.
+مع بعضهم توّ. / مرتبطين هوما توّ ولّاو. / ولّاو كوبل.
+
+I’ll follow you home.
+تو نتبّعك للدار. / هاني وراك حتى توصل للدار.
+
+Every parent is trying hard and doing their best.
+الوالدين لكل قاعدين يحاولوا ويعملوا في أقصى مجهودهم.
+
+You are only allowed to go out today.
+ما عندك الpremission بش تخرج كان اليوم. / ماهو مسموحلك بش تخرج كان اليوم.
+
+Please stop that.
+يزي باللاهي. / آقف يعيّشك. / باللاهي يزي. / كهو آقف يعيشك. 
+
+Why is your face so red?
+علاش وجهك أحمر هكّا. 
+
+You can ask me for anything.
+تنجم تسئلني أيّ حاجة. / تنجّم تسئلني على أيّ حاجة.
+
+Did you create that presentation? It was so good.
+إنتي إلّي عملتها الprésentation هاذيكا ؟ ياسر هايلة. / إنتي إلّي عملتها الprésentation هاكي ؟ ياسر هايلة.
+
+This is public property.
+هذا ملك عام.
+
+I already asked him to resend his report.
+ديجا قلتلو بش يعاود يبعث الرابور متاعو. / طلبت منّو déjà بش يعاود يبعث الrapport متاعه.
+
+Could you speak a little louder?
+تنجّم تحكي بصوت ما أعلى شوية. /  تنجّم تعلّي صوتك شوية؟
+
+The others haven’t arrived yet.
+الآخرين مازالوا ما وصلوش. / الآخرين مازالوا ما جاوش. 
+
+I read somewhere that this house is haunted.
+قريت ندرافين إلّي الدار هاذي مسكونة.
+
+What level are you in that game?
+في أنو niveau وصلت في اللعبة هاذيكا؟  / في أنو level وصلت في الjeu هاكي؟
+
+Do you allow your kids to play outside the house?
+تخلّي أولادك يلعبوا خارج الدار؟  / تخلّي أولادك يلعبوا لبرّا مالدار؟ 
+
+Is it okay if we add a bit of sugar to the tea?
+ميسالش كان نزيدو شوية سكّر للتاي؟ / انّجّمو نزيدو شوية سكّر للتاي؟ / ميسالش كان نزيدولو شوية سكّر التاي؟ / انّجّمو نزيدولو شوية سكّر التاي؟
+
+Welcome to my office.
+مرحبا بيك في بيرويا.
+
+How much did you spend on your last shopping spree?
+قداش صرفت على الshopping المرّة لخّرة؟
+
+You left the door open.
+خليت الباب مصكّر.
+
+You must take good care of your health.
+لازم تردّ بالك على صحّتك.  / لازم تسايس على صحّتك.  / لازم تتلهى بصحّتك بالباهي.
+
+You are a good person.
+انتي شخص باهي.
+
+This is a work of art.
+هاذي تحفة.  / تحفة هاذي. / تحفة فنّية هاذي.  / خدمة معلّم هاذي.
+ 
+Are you sure you want to do this alone?
+متأكّد تحب تعملها وحدك الحكاية هاذي؟
+
+The war has finally ended.
+الحرب وفات أخيرا. /   أخيرا، الحرب وفات.
+
+She is my history professor.
+هي بروفة التاريخ متاعي. / أستاذة التاريخ متاعي هي.
+
+Are you going to her party tonight?
+ماشي للحفلة متاعها الليلة؟ / ماشية للحفلة متاعها اليوم في الليل؟ / ماشية للحفلة متاعها اليوم الليلة هاذي؟
+
+We support everyone within our small community.
+نساندو العباد لكل في الcommunauté الصغيرة متاعنا. /  في الcommunauté الصغيرة متاعنا، نساندو العباد لكل. / نساندو الناس لكل في الcommunauté الصغيرة متاعنا. /  في الcommunauté الصغيرة متاعنا، نساندو الناس لكل.
+
+We want everyone to grow and thrive in their careers.
+نحبّو الناس لكل تقدّم وتنجح في الكاريار متاعها.  / نحبّو الناس لكل تقدّم وتنجح في الcarrière متاعها. 
+
+Are you open to teaching on weekends?
+تقبل تقرّي في الويكاند؟ / ميسالش تقرّي في les weekend ؟  / تقبل تقرّي في الويكاند؟ / ميسالش تقرّي weekend ؟  /  ميسالش تقرّي بالويكاند ؟
+
+Where can we change her diaper?
+فين انّجمو نبدّلولها كوشها ؟ / فين ننجّمو نبدّلو الcouche متاعها ؟
+
+It’s such a beautiful morning today!
+محلاه الطقس اليوم الصباح! / محلاه الصباح هذا! / صباح يهبّل اليوم!
+
+Come take a walk with me.
+إيجا تمشّى معايا. / ايجا ونّسني في الدورة متاعي.
+
+You are the reason I came home.
+على خاطرك جيت للدار. /  على خاطرك إنتي رجعت للدار.
+
+Her blood pressure has gotten really low.
+الpression متاع الدم متاعها طاحت برشا. / ضغط الدم متاعها طاح برشا.
+
+We can win this match if we work together.
+انجّمو نربحوه الماتش هذا كان نعاونو بعضنا. /  انجّمو نربحوه الماتش هذا كان نخدمو مع بعضنا. 
+
+How is your research going?
+قاعدة تقدّم الrecherche متاعك  ؟ / شعامل في الروشارش متاعك ؟ / شعاملة في الروشارش متاعك؟
+
+That girl is in my class.
+الطفلة هاذيكا تقرى معايا. / الطفلة هاكي معايا في نفس الclasse.
+
+I’ve seen that guy in school before.
+ريتو الشخص هذاكا في المدرسة قبل.  / ريت الراجل هذاكا في المدرسة قبل.
+
+I come to work so early every day.
+نجي نخدم بكري كلّ يوم. / نجي للخدمة بكري كلّ يوم. / النهارات لكل نجي للخدمة بكري. 
+
+Let’s buy some food, I’m hungry!
+هيّا نشريو شوية ماكلة، جعت! / هيا نشريو غلّة، أنا جيعان! / هيّا نشريو شوية ماكلة، جعت! / هيا نشريو غلّة، جعت أنا!
+
+Can I talk to you before you go home?
+انجّم نحكي معاك قبل ما تروّح للدار ؟  / ننجّم نحكي معاك قبل ما تمشي للدار ؟  / انجّم نحكي معاك قبل ما ترجع للدار ؟ 
+
+He cooked this chiken himself.
+طيّبها وحدو الدجاجة. / وحدو طيّبها الدجاجة. 
+
+You are the best teacher ever.
+إنتي أحسن أستاذ في التاريخ. / أحسن أستاذ انتي.  / إنتي أحسن أستاذة في التاريخ.  / أحسن أستاذة انتي. 
+
+Don’t force him to play with other kids.
+ما تقلّوش إلعب بالسيف مع الصغار الآخرين. / ما تفورسيهش بش يلعب مع الصغار الآخرين. 
+
+Can I offer you a ride home?
+انجّم نوصّلك معايا للدار ؟  / انجّم نوصّلك في طريقي للدار ؟ 
+
+Boys, that’s enough playing for today.
+الأولاد، كهو يزي ماللعب اليوم.  / الأولاد، كهو يزيو ماللعب اليوم.  / الأولاد، كهو وفى اللعب اليوم. 
+
+You both need to change into your sleep clothes now.
+لازمكم إنتوما الاثنين تلبسوا حوايج النوم توّ. / لازمكم إنتوما الاثنين تلبسوا دبش النوم توّ. 
+
+I just want you to get the best education.
+نحبّك تقرى أحسن قراية وكهو.
+
+Although she felt tired, she still couldn’t sleep.
+بالرغم ملّي تاعبة، ما نجّمتش ترقد. / ماهيش منجّمة ترقد بالرغم إلّي تاعبة. 
+
+Do you think she will still remember me after ten years?
+تتصوّرها مازالت بش تتذكرني بعد بعشرة سنين؟ / تتصوّرها تتذكرني بعد بعشرة سنين؟
+
+Her foot got caught in one of the ropes.
+ساقها تشربكت في واحد مالحبولة.
+
+This is the second time she came late this month.
+ثاني مرّة الشهر هذا توصل مخّر. / ثاني مرّة الشهر هذا تجي مخّر. 
+
+There’s a boy in her class who keeps pulling her hair.
+فما طفل في الclasse قاعد ديما يجبدلها في شعرها.  / فما طفل في الكلاس قاعد ديما يجبد فيها من شعرها. 
+
+Maybe we can have ice cream for dessert.
+ممكن ننجمو ناكهو glace في الdessert. 
+
+He took a step toward her.
+قدّم خطوة تجاهها. 
+
+Will you be able to send me your report today?
+بش تنجّم تبعثلي الرابور متاعك اليوم؟ / بش تبعثلي الرابور متاعك اليوم؟ 
+
+The cat ran off with the dog.
+القطّوس هرب مع الكلب.
+
+You gave yourself a haircut?
+قصّيت شعرك وحدك؟ / شعرك قصّيتو وحدك ؟ / وحدك قصّيتو شعرك؟
+
+He talks a lot.
+يحكي برشا. / ياسر يحكي. / ياسر حدّاث.  / حدّاث. 
+
+In theory, that’s a good plan.
+نظريّا، plan باهي هذا. / نظريّا الplan هذا باهي.
+
+I need to charge my phone.
+لازمني نشرجي تاليفوني. / لازم نشرجي البورتابل متاعي.
+
+That’s a popular restaurant.
+الريستو هاذاكا معروف. 
+
+They serve traditional Italian food there.
+يسربيو ماكلة طليانيّة تقليدية لهنا. / يسربيو لنّا ماكلة italienne traditionnelle. 
+
+Jump onto the boat and we’ll go fishing.
+اركب في البطّو وهيّا نمشيو نصطادو. / اركب في الفلوكة وهيّا نمشيو نصطادو. / اركب في الفلوكة بش نمشيو نصطادو.
+
+Washing off the dirt revealed the boy’s skinned knee.
+
+What direction is the city from here?
+من أنو جهة نمشي للمدينة من هنا ؟ / وسط المدينة في أنو جهة؟
+
+No weapons are allowed in government buildings.
+الأسلحة ممنوعة في البنايات الحكوميّة.  / الأسلحة ممنوعة في البنايات إلّي تابعة الحكومة. 
+
+That store only has three employees.
+الحانوت فيه ثلاثة خدّامة. / ثلاثة مالنّاس يخدموا فيه الحانوت. 
+
+There is cultural significance to those old ruins.
+
+World leaders gathered for peace talks.
+ زعماء العالم إجتمعوا لمحادثات سلام. 
+
+My head hurts.
+راسي يوجع. / راسي يوجع فيّا. / يوجع فيّا راسي. 
+
+Keep control of the car.
+اتحكّم في الكرهبة. / خلّيك مسيطر على الكرهبة.
+
+I have chest pain.
+عندي  وجيعة في صدري. 
+
+Maria applied for the job.
+ماريا صبّت فيها الخدمة. 
+
+The children play at the park.
+الصغار يلعبوا في البارك. / الصغار يلعبوا في الparc. 
+
+Measure twice, cut once.
+قيس مرّتين، قصّ مرّة وحدة. 
+
+Don’t shake the can of soda.
+ما تخضّش الcannette.
+
+We can fly to France next year.
+ننجّمو نسافرو لفرانسا عام الجاي.  / ننجّمو نمشيو لفرانسا العام الجاي. 
+
+My job interview went well.
+الانترفيو متاعي تعدّى هايل. / الانترفيو متاعي تعدّى بالباهي. / الانترفيو متاعي تعدّى باهي. / الانترفيو متاعي تعدّى بالڤدا. / الinterview متاعي تعدّى هايل. / الinterview متاعي تعدّى بالباهي. / الinterview متاعي تعدّى باهي. / الinterview متاعي تعدّى بالڤدا.
+
+Did you manage to find the keys?
+نجّمت تلقى المفاتح؟ /  لقيت المفاتح؟
+
+I don’t enjoy eating fish.
+ما نحبش ناكلو الحوت. 
+
+That particular style looks good on you.
+الستيل هذاكا يخرج عليك. / الستيل هاذاكا يواتيك. / ياسر مزيان عليك الستيل هاذاكا.
+
+I use the camera on my phone.
+نستعمل الكاميرا متاع بورتابلويا. / كاميرا البورتابل نستعملها.
+
+The building’s structure is solid.
+الstructure متاع البنية صحيحة.  / البنية شادّة روحها.
+
+He was very active in politics.
+كان actif برشا في السياسة. / كان متسيّس برشا. / كان يخدم برشا سياسة.
+
+The singer will perform tonight.
+المطرب بش يغنّي الليلة. / المغنّي الليلة بش يغنّي. 
+
+It rained a little bit last night.
+صبّت شوية شتاء اللّيلة إلّي فاتت.  / صبّت شوية مطر اللّيلة إلّي فاتت. / صبّت شوية اللّيلة إلّي فاتت. / صبّت شوية شتاء البارح في اللّيل. 
+
+Keep track of your cat's weight.
+إصبر وتفقّد الوزن متاع القطّوس متاعك. / تابع الوزن متاع قطّوسك. / تابع الوزن متاع القطّوس متاعك. / إصبر واتفقّد الوزن متاع قطّوسك. / قطّوسك تفقّدلو الوزن متاعو كل مدّة
+
+You’ll discover treasures at that shop. 
+تو تكتشف كنوز فيه الحانوت هذاكا.
+
+There are ten candidates for the position.
+فما عشرة كانديداوات للposte هذا. / فمّا dix candidats للposte هذا.
+
+The flag flies on the top of that building.
+العلم يرفرف فوق البنية هاذيكا. / العلم يرفرف فوق البنية هاكي. 
+
+Factory production has improved over the summer.
+الproduction متاع المعمل تحسّنت في الصيف. / إنتاجيّة المعمل تحسّنت في الصيف.
+
+Give yourself a treat for a job well done.
+كافئ روحك مادامك خدمت خدمة باهية.  / كافئ روحك على خدمتك الباهية. 
+
+We are taking a trip to Florida in January.
+ماشين لفلوريدا في جانفي. / بش نعملو voyage لفلوريدا في جانفي. 
+
+I’m staying home this evening.
+بش نقعد في الدار العشية هاذي. /  بش نقعد في الدار العشويّة هاذي. / بش نشدّ الدار العشية هاذي. /  بش نشدّ الدار العشويّة هاذي. 
+
+The cat stays inside.
+القطّوس يقعد الداخل. / القطّوس يقعد لداخل. /  يقعد لداخل القطّوس .
+ 
+There will experts presenting at the conference.
+بش يكونوا فما des expert يقدّموا في الconférence. 
+
+A foot is a unit of measure.
+القدم وحدة قيس.
+
+Those are the best glasses to buy.
+هاذوكم أحسن ليناتات يتشراو. 
+
+My dress is out of style.
+الروبة متاعي dépassée. / روبتي ستيلها قديم.
+
+Adults pay full price, but children are free.
+الكبار يخلّصوا سوم كامل أما الصغار بلاش. / الكبار يخلّصوا كل شي أما الغشاشر بلاش.  / الكبار يخلّصوا أما الصغار لا. /  الكبار يخلّصوا أما الغشاشر لا.
+
+Don’t worry about tomorrow.
+ما تقلّقش روحك في ما يخصّ غدوة. / في خصوص غدوة من غير ما تقلّق روحك. 
+
+My doctor offered me a range of options.
+الطبيب متاعي عطاني برشا أوبسيونات.  / طبيبي إقترح عليّا برشا أوبسيونات. / طبيبي إقترح عليّا plusieurs options. 
+
+Can you mention me in your story?
+تنجّم تذكريني في قصّتك. / تنجم تجبدني في حكايتك؟ / تنجّم تدخّلني في قصّتك؟
+
+Rather than focusing on the bad things, let’s be grateful for the good things.
+في عوض ما نركّزو على الحاجات الخايبة، خلّي نحمدو ربّي على الحاجات الباهية. / في عوض ما نركّزو على الخايب،  خلّي نحمدو ربّي على الباهي.
+
+I don’t want to move far from my family.
+ما نحبّش ننقّل بعيد على عايلتي. / ما نحبّش انّقّل بعيد على عائلتي.  / ما نحبّش نبعد على عائلتي.
+
+That poem about life is deep.
+ياسر عميقة القصيدة هاذيكا إلّي تحكي على الحياة. / القصيدة إلّي تحكي على الحياة ياسر عميقة. 
+
+Please face front.
+اغزر لقدام من فضلك. /  قبّل لقدام يعيشك. / قبل القدّام باللاهي. 
+
+Please do not stand so close to the edge.
+يعيّشك إبعد على الحافة.  / إبعد على الحافة من فضلك. / ابعد على الحافة باللاهي. 
+
+Could you be more specific?
+تنجم تكون أوضح شوية؟ / تنجّم تزيد توضّح؟
+
+You are a good writer.
+ياسر تعرف تكتب. / تعرف تكتب بالباهي. / تكتب بالباهي إنتي. / هايلة الكتيبة متاعك. 
+
+Stay out of trouble.
+أقعد بعيد على المشاكل. / أقعد بعيدة على المشاكل. / خليك بعيد على المشاكل. / خليك بعيدة على المشاكل.
+
+It is necessary to sleep.
+لازم منّو النوم. / النوم لازم منّو. / النوم ضروري. 
+
+Throughout my life I have always enjoyed reading.
+طول عمري نحبّ القراية. / طول عمري نحبّ نقرى. / طول عمري نحبّ المطالعة. / طول عمري نعمل جوّ على المطالعة. 
+
+I challenge you to do better.
+نتحدّاك كان تنجّم تعمل ما خير. 
+
+You are beautiful.
+محلاك. / مزينك. / ماحلاك. / قداكش مزيانة.
+
+Do you have any fears?
+عندك حاجات تخاف منها ؟ / من شنوه تخاف؟ / شنوه يخوّفك؟
+
+You do not have to shoulder all the work on your own.
+ماكش obligé هزّ الخدمة لكل على ضهرك.  / ماكش مطالب تهزّ الخدمة لكل على ضهرك. / ماكش مطالب تهزّ وحدك الخدمة لكلها على ضهرك. 
+
+I am a middle child with one older brother and one younger sister.
+أنا الخو الوسطاني، عندي خو أكبر  منّي وأخت صغيرة. / أنا الأخت الوسطانية مع خو أكبر وأخت أصغر مني. / أنا الأخت الوسطانية، زيد عندي خو كبير وأخت صغيرة. 
+
+I want to sail the seven seas.
+نحبّ ندور البحور السبعة.  / نحبّ نبحر في البحور السبعة. 
+
+I have a dream.
+عندي حلمة. / عندي حلم.
+
+A bar is a place where alcohol is served.
+البار هو بلاصة يتسربى فيها الآلكول. /  البار بلاصة يتسربى فيها الشراب. 
+
+You are so beautiful.
+محلاك. / مزينك. / ماحلاك. / قداكش مزيانة.
+
+Do you own property, like a house?
+عندك ملك، كيما دار مثلا؟ / عندك ملك، دار مثلا؟
+
+Instead of eating cake I will have fruit.
+في عوض ما ناكل gâteau تو ناخو غلّة. / في عوض ناكل ڤطّو تو ناخذ غلّة. / في عوض ناكل ڤطّو بش ناكل غلّة.
+
+I am always looking for ways to improve.
+ديما قاعد نلوّج كيفاش انجّم نتحسّن.  / ديما قاعد نشوف كيفاش نحسّن روحي. 
+
+When I moved, I realized I have a lot of stuff!
+وقتلّي جيت ننقّل لقيت روحي عندي برشا دبش ! / وقتلّي جيت ننقّل لقيت روحي عندي برشا ڤربج ! / وقتلّي جيت ننقّل لقيت روحي عندي برشا حاجات ! 
+
+I claim to be a fast reader, but actually I am average.
+نقول إلّي أنا نقرى فيسع، أمّا في الحقيقة نقرى بسرعة عادية.
+
