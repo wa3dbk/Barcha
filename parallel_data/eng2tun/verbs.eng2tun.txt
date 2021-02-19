@@ -1,0 +1,385 @@
+Accept  قبل يقبل
+Accuse  إتّهم يتّهم
+Achieve  عمل يعمل
+Acquire  دبّر يدبّر خذا ياخذ
+Adapt  تأقلم يتأقلم آدابتا يادابتي
+Add  زاد يزيد ضمّ يضمّ
+Adjust  عدّل يعدّل ريڤل يريڤل
+Admire  أعجب يعجب
+Admit  اعترف يعترف
+Adopt  اتبنّى يتبنّى
+Adore  عشق يعشق
+Advise  نصح ينصح
+Afford  تحمّل يتحمّل عطى يعطي وفّر يوفّر
+Agree  وافق يوافق
+Aim  ڤمّر يڤمّر 
+Allow  خلّى يخلّي سمح يسمح
+Announce  أعلن يعلن
+Anticipate  توقّع يتوقّع
+Apologize  إعتذر يعتذر
+Appear  ظهر يظهر
+Apply  طبّق يطبّق
+Appreciate  قدّر يقدّر
+Approach  قرب يقرب
+Approve  وافق يوافق
+Argue  جادل يجادل
+Arise  نشأ ينشأ طلع يطلع
+Arrange  رتّب يرتّب نظّم ينظّم
+Arrive  وصل يوصل خلط يخلط
+Ask  سئل يسئل طلب يطلب
+Assume  افترض يفترض
+Assure  أكّد يأكّد
+Attach  ربط يربط
+Attempt  حاول يحاول
+Attend  حضر يحضر
+Attract  جذب يجذب 
+Avoid  تجنّب يتجنّب
+Awake  فاق يفيق قام يقوم استيقظ يستيقظ
+Bake  طيّب يطيّب خبز يخبز
+Bathe  عام يعوم دوّش يدوّش استحمّ يستحمّ
+Be  كان يكون
+Bear  تحمّل يتحمّل حمل يحمل
+Beat  غلب يغلب
+Become  ولّى يولّي صار يصير
+Beg  ترجّى يترجّى توسّل يتوسّل تسوّل يتسوّل
+Begin  بدا يبدا
+Behave  تصرّف يتصرّف
+Believe  إعتقد يعتقد
+Belong  إنتمى ينتمي
+Bend  إنحنى ينحني عوّج يعوّج
+Bet  راهن يراهن خاطر يخاطر
+Bind  ربط يربط
+Bite  ڤدم يڤدم عضّ يعضّ
+Blow  نفخ ينفخ
+Boil  غلى يغلي
+Borrow  دبّر يدبّر تسلّف يتسلّف
+Bounce  قفز يقفز نڤّز ينڤّز
+Bow  إنحنى ينحني
+Break  خرق يخرق قسم يقسم
+Breed  تكاثر يتكاثر
+Bring  جاب يجيب
+Broadcast  بثّ يبثّ نشر ينشر
+Build  بنى يبني
+Burn  حرق يحرق
+Burst  إنفجر ينفجر
+Buy  شرى يشري
+Calculate  حسب يحسب كلكل يكلكل
+Can نجّم ينجّم  
+Care  إعتنى يعتني تلهى يتلهى
+Carry  هزّ يهزّ حمل يحمل
+Catch  شدّ يشدّ
+Celebrate  إحتفل يحتفل
+Change  بدّل يبدّل
+Choose  إختار يختار
+Chop  قصّ يقصّ
+Claim  طالب يطالب
+Climb  تسلّق يتسلّق تشعبط يتشعبط
+Cling  تشبّث يتشبّث كبّش يكبّش
+Come  جاء يجي
+Commit  إرتكب يرتكب إلتزم يلتزم
+Communicate  تواصل يتواصل تعامل يتعامل
+Compare  قارن يقارن
+Compete  سابق يسابق
+Complain  تشكّى يتشكّى ڤنڤن يڤنڤن 
+Complete  كمّل يكمّل تمّ يتمّ
+Concern  خصّ يخصّ
+Confirm  وافق يوافق كونفيرما يكونفيرمي
+Consent  شاور يشاور وافق يوافق
+Consider  إعتبر يعتبر
+Consist  تمثّل يتمثّل
+Consult  شاور يشاور
+Contain  إحتوى يحتوي
+Continue  استمرّ يستمرّ كمّل يكمّل
+Convince  أقنع يقنع اقتنع يقتنع
+Cook  طيّب يطيّب
+Cost  سوى يسوى تكلّف يتكلّف
+Count  حسب يحسب
+Crawl  زحف يزحف
+Create  خلق يخلق صنع يصنع عمل يعمل
+Creep  زحف يزحف تسلّل يتسلّل
+Criticize  إنتقد ينتقد
+Cry  بكى يبكي
+Cut  قصّ يقصّ قطع يقطع
+Dance  شطح يشطح
+Dare  جرأ يجرؤ
+Deal  تعامل يتعامل
+Decide  قرّر يقرّر
+Delay  وخّر يوخّر أخّر يوخّر
+Deliver  وصّل يوصّل
+Demand  طلب يطلب
+Deny  رفض يرفض
+Depend  تربط يتربط
+Describe  وصف يوصف
+Deserve  إستاهل يستاهل
+Desire  حبّ يحبّ 
+Destroy  دمّر يكمّر هدّ يهدّ دڤدڤ يدڤدڤ
+Develop  طوّر يطوّر
+Differ  اختلف يختلف
+Disagree  خالف يخالف
+Discover  إكتشف يكتشف
+Discuss  ناقش يناقش
+Dislike  كره يكره
+Distribute  وزّع يوزّع
+Dive  غطس يغطس
+Do  عمل يعمل
+Doubt  شكّ يشكّ
+Drag  كركر يكركر
+Dream  حلم يحلم
+Drill  حفر يحفر نقب ينقب
+Drink  شرب يشرب
+Drive  ساق يسوق
+Drop  طيّح يطيّح
+Dry  شاح يشيح
+Earn  دخّل يدخّل
+Eat  كلى ياكل
+Emphasize  أكّد يأكّد
+Enable  سمح يسمح خلّى يخلّي
+Encourage  شجّع يشجّع
+Ensure  أكّد يأكّد
+Enter  دخل يدخل
+Exist  توجد يتوجد
+Expand  انتشر ينتشر تمدّ يتمدّ 
+Expect  انتظر ينتظر
+Experiment  اختبر يختبر
+Explain  فسّر يفسّر
+Explore  إكتشف يكتشف
+Fail  خسر يخسر 
+Fall  طاح يطيح
+Feed  وكّل يوكّل
+Feel  حسّ يحسّ
+Fight  تعارك يتعارك عارك يعارك
+Find  لقى يلقى
+Finish  كمّل يكمّل وفى يوفى
+Fly  طار يطير
+Fold  طوى يطوي
+Follow  تبّع يتبّع
+Forbid  حرّم يحرّم منع يمنع
+Forget  نسى ينسى
+Forgive  سامح يسامح
+Freeze  جمّد يجمّد تجمّد يتجمّد ڤلّص يڤلّص
+Fry  قلى يقلي سمط يسمط
+Generate  جينيرا يجينيري
+Get  خذا ياخو دبّر يدبّر
+Give  عطى يعطي
+Go  مشى يمشي
+Grow  كبر يكبر نمى يمنو نبت ينبت
+Hang  شنق يشنق
+Happen  صار يصير
+Hate  كره يكره
+Have  ملك يملك
+Hear  سمع يسمع
+Hesitate  تردّد يتردّد
+Hide  خبّى يخبّي
+Hit  ضرب يضرب
+Hold  شدّ يشدّ
+Hope  أمل يأمل
+Hug  عنّق يعنّق
+Hurry زرب يزرب 
+Hurt  وجع يوجع
+Ignore  طفّى يطفّي تجاهل يتجاهل
+Imagine  تخيّل يتخيّل
+Improve  حسّن يحسّن
+Inform  أعلم يعلم
+Insist  كبّش يكبّش
+Insist شدّ-صحيح يشدّ-صحيح
+Install  صبّ يصبّ
+Intend  نوى ينوي
+Introduce  قدّم يقدّم
+Invest  استثمر يستثمر
+Investigate  حقّق يحقّق
+Iron  حدّد يحدّد
+Jog  جرى يجري
+Jump  نڤّز ينڤّز
+Justify  برّر يبرّر
+Kick  ضرب يضرب ركل يركل 
+Kiss  باس يبوس
+Kneel  ركع يركع
+Know  عرف يعرف علم يعلم
+Lack  نقص ينقص
+Laugh  ضحك يضحك
+Lay  تمدّ يتمدّ اتكّى يتكّى
+Lead  قاد يقود
+Lean  اتكّى يتكّى
+Leap  نطّ ينطّ نڤّز ينڤّز
+Learn  تعلّم يتعلّم
+Leave  هجر يهجر مشى يمشي هجّ يهجّ
+Lend  عطى يعطي سلّف يسلّف
+Lie كذب يكذب اتكّى يتكّى
+Lift  هزّ يهزّ
+Light  شعّل يشعّل
+Like  عجب يعجب
+Listen  سمع يسمع
+Look  شاف يشوف
+Lose  خسر يخسر
+Love  حبّ يحبّ
+Maintain  حافظ يحافظ خلّى يخلّي
+Make  عمل يعمل صنع يصنع
+Manage  تصرّف يتصرّف
+May  نجّم ينجّم
+Mean  قصد يقصد
+Measure  قاس يقيس
+Meet  لاقى يلاقي
+Melt  ذاب يذوب
+Mention  ذكر يذكر
+Might  نجم ينجم  أمكن يمكن
+Miss  تواحش يتواحش استاحش يستاحش نسى ينسى
+Mix  خلّط يخلّط
+Mow  معوى يمعوي
+Must  لزم يلزم
+Nag ڤنڤن يڤنڤن 
+Need  استحق يستحق
+Neglect  طفّى يطفّي
+Observe  شاف يشوف
+Obtain  خذا ياخذ
+Occur  حدث يحدث صار يصير
+Offer  عطى يعطي
+Open  حلّ يحلّ
+Operate  قاد يقود استعمل يستعمل
+Order  أمر يؤمر
+Organize  نظّم ينظّم
+Overcome  قاوم يقاوم
+Owe  سال يسال
+Own  ملك يملك
+Paint  صوّر يصوّر
+Participate  شارك يشارك
+Pay  خلّص يخلّص
+Peel  قشّر يقشّر
+Perform  عمل يعمل
+Persuade  أقنع يقنع
+Pinch  قرص يقرص
+Plan  خطّط خطّط
+Play  لعب يلعب
+Point  شار يشير
+Possess  ملك يملك
+Postpone  أجّل يأجّل
+Pour  صبّ يصبّ
+Practice  طبّق يطبّق
+Prefer  خيّر يخيّر
+Prepare   حضّر يحضّر
+Pretend  فلّم يفلّم
+Prevent  منع ينمع
+Promise  وعد يوعد عاهد يعاهد
+Propose  إقترح يقترح
+Protect  حمى يحمي
+Prove  أثبت يثبت
+Pull  جبد يجبد
+Punch  ضرب يضرب
+Push  دزّ يدزّ
+Put  حطّ يحطّ
+React  تفاعل يتفاعل
+Read  قرى يقرى
+Recall  تذكّر يتذكّر
+Receive  خذا ياخذ
+Recommend  نصح ينصح
+Reduce  نقّص ينقّص
+Refuse  رفض يرفض
+Regret  ندم يندم
+Relax  رولاكسا يرولاكسي
+Relieve  إعتقد يعتقد
+Rely  عمّل يعمّل
+Remain  قعد يقعد
+Remember  تذكّر يتذكّر
+Remind  ذكّر يذكّر
+Repair  صلّح يصلّح
+Replace  عوّض يعوّض
+Represent  مثّل يمثّل
+Require  اتطلّب يتطلّب
+Resent  كره يكره
+Resist  قاوم يقاوم
+Retain  شدّ يشدّ حفظ يحفظ ميموريزا يميموريزي
+Retire  روتراتا يروتراتي
+Rid  خلّص يخلّص تخلّص يتخلّص
+Ride  ركب يركب
+Ring  طلب يطلب كلّم يكلّم نوقز ينوقز
+Rise  طلع يطلع
+Risk  ريسكا يريسكي
+Roast  نبّر ينبّر
+Run  جرى يجري
+Say  قال يقول
+Scrub  قرقش يقرقش
+See  شاف يشوف خزر يخزر غزر يغزر
+Seem  ضهر يضهر
+Sell  باع يبيع
+Send  بعث يبعث
+Serve  خدم يخدم
+Set  حطّ يحطّ عمل يعمل
+Settle  قبل يقبل
+Shake  خلخل يخلخل خضخض يخضخض
+Shed  نحّى ينحّي
+Shine  لمع يلمع
+Shoot  ضرب يضرب 
+Show  ورّى يورّي
+Shrink  صغار يصغار
+Shut  سكت يسكت
+Sing  غنّى يغنّي
+Sink  غرق يغرق غطس يغطس
+Sit  قعد يقعد
+Sleep  رقد يرقد
+Slice  قصّ يقصّ
+Slide  زلق يزلق
+Slip  زلق يزلق
+Smell  شمّ يشمّ
+Snore  شخر يشخر
+Solve  حلّ يحلّ
+Speak  تكلّم يتكلّم
+Specify  حدّد يحدّد
+Spell  سحر يسحر
+Spend  عدّى يعدّي قضّى يقضّي
+Spill  صبّ يصبّ بزّع يبزّع
+Spit  قسم يقسم
+Spread  وزّع يوزّع نشر ينشر
+Squat  ڤعمز يڤعمز
+Stack  رصّ يرصّ رصّف يرصّف
+Stand  وقف ياقف قام يقوم
+Start  بدا يبدا
+Steal  سرق يسرق نشل ينشل
+Stick   حشى يحشي دكّ يدكّ
+Sting  قرص يقرص
+Stink  حشى يحشي 
+Stir  حرّك يحرّك خلّط يخلّط
+Stop  وقف ياقف
+Stretch  جبد يجبد شرول يشرول شرمط يشرمط
+Strike  ضرب يضرب
+Study  قرى يقرى درس يدرس
+Succeed  نجح ينجح
+Suffer  توجع يتوجع تألّم يتألّم
+Suggest  إقترح يقترح
+Suppose  إفترض يفترض
+Surprise  فاجئ يفاجئ
+Survive  عاش يعيش
+Swear  حلف يحلف سبّ يسبّ
+Swim  عام يعوم غطس يغطس بحبح يبحبح
+Take  خذا ياخذ 
+Talk  حكى يحكي
+Taste  ذاق يذوق
+Teach  علّم يعلّم قرّى يقرّي
+Tear  دمّع يدمّع
+Tell  قال يقول
+Think  خمّم يخمّم
+Threaten  هدّد يهدّد
+Throw  طيّش يطيّش
+Tiptoe  تسرّق يتسرّق
+Tolerate  سمح يسمح خلّى يخلّي
+Translate  ترجم يترجم
+Try  جرّب يجرّب
+Understand  فهم يفهم
+Vacuum  مسح يمسح
+Value  قيّم يقيّم
+Vary  بدّل يبدّل تبدّل يتبدّل
+Volunteer  تطوّع يتطوّع
+Wait  استنّى يستنّى
+Wake  فاق يفيق قام يقوم
+Walk  مشى يمشي
+Want  حبّ يحبّ
+Warn  حذّر يحذّر
+Wash  غسل يغسل
+Watch  تفرّج يتفرّج
+Wave  بيبا يبيبي بيبع يبيبع
+Wear  لبس يلبس
+Weep  بكى يبكي 
+Whip  ضرب يضرب خلّط يخلّط
+Whisper وشوش يوشوش
+Will  نوى ينوي
+Win  ربح يربح
+Wish  تمنّى يتمنّى
+Write كتب يكتب
