@@ -1,6 +1,6 @@
 # Barcha
 
-Open source speech and natural language processing resources for the Tunisian arabic dialect.
+Open source speech and natural language processing resources for the Tunisian arabic dialect (work in progress).
 
 ### Todo : 
 
