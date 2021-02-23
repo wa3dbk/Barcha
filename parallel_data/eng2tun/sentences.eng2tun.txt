@@ -1849,8 +1849,10 @@ Rather than focusing on the bad things, let's be grateful for the good things.
 I don't want to move far from my family.
 ما نحبّش ننقّل بعيد على عايلتي. / ما نحبّش انّقّل بعيد على عائلتي.  / ما نحبّش نبعد على عائلتي.
 
+
 He is very religious, he goes to the mosque every day.
 متديّن برشا هو، يمشي للجامع كل يوم. / متديّن برشا هو، يمشي  كل يوم للجامع. / هو ياسر متديّن، يمشي للجامع كل يوم. / هو ياسر متديّن، يمشي  كل يوم للجامع.
+
 
 That poem about life is deep.
 ياسر عميقة القصيدة هاذيكا إلّي تحكي على الحياة. / القصيدة إلّي تحكي على الحياة ياسر عميقة. 
@@ -2087,6 +2089,8 @@ Please leave some space to write down your phone number.
 The ground is shaking.
 القاعة قاعدة ترڤل. / القاعة قاعدة ترڤل. / الأرض قاعدة ترڤل.
 
+A new island was formed after that big earthquake.
+
 I need your support for this project.
 حاشتي بالدّعم متاعك للprojet هذا. / حاشتي بالدّعم متاعك في الprojet هذا. / نستحقّ الدّعم متاعك  في الprojet هذا. / حاشتي بيك تعاونّي في الprojet هذا. / نستحقّك معايا في الprojet هذا. / نستحقّك معايا في الprojet هذا. 
 
@@ -2119,9 +2123,6 @@ This project is due tomorrow.
 He hit the burglar with a bat.
 ضرب السرّاق بعصى. 
 
-My son can draw a star!
-ولدي ينجّم يصوّر نجمة !
-
 There's a basketball court near our house.
 فمّا terrain متاع باسكات قريب من دارنا. / فمّا terrain متاع باسكات مش بعيد على دارنا.
 
@@ -2139,6 +2140,30 @@ Just half a liter please.
 
 The situation is getting out of hand.
 الوضعية قاعدة تفلت من يديا. / الوضعية قاعدة تفلت مابين يديا. / الوضعية قاعدة تفلت مني . / الوضعية قاعدة تدخل بعضها. / الوضعية بش تدخل في حيط. 
+
+What area do you work in?
+في أنو zone تخدم؟ / في أنو partie تخدم؟
+
+Well, let's see.
+خنشوفو. / خلّي نشوفو. / هيا نشوفو. / تو نشوفو.
+
+Bye-bye. 
+باباي. /  باي باي. / بالسلامة. / فيلامان. / في أمان الله.  
+
+Let's catch up soon, please!
+نعاودو نتقابلو قريب إن شاء الله. / نعاودو نتقابلو قريب بقدرة ربي.
+
+Watch your step.
+ردّ بالك فين تمشي.
+
+Right, right.
+ايه ايه.
+
+Uh Uh.
+آه آه.
+
+Okay.
+باهي. / OK. / أوكي.
 
 I'll buy window curtains next week.
 توّ نشري ريدوات الجمعة الجاية. /   توّ نشري des rideaux الجمعة الجاية. 
@@ -2208,3 +2233,34 @@ I will take this up with the administration.
 
 I am headed south.
 هابط للجنوب. / ماشي للجنوب أنا. / أنا ماشي للجنوب. 
+
+That test was very hard.
+التاست هاذاكا ياسر صعيب. / التاست كان صعيب برشا.
+
+The library has many online resources.
+الbibliothèque عندها برشا حاجات accessible en ligne. / الbibliothèque عندها برشا حاجات accessible مالانترنات.
+
+I can't identify that plant.
+ما نعرفش شنية الplante هاذي.
+
+The door is on your left.
+الباب على يسارك.
+
+Right.
+ايه. / صحيح.
+
+Set the oven to 300 degrees.
+حطّ الfour يسخن في 300 درجة.
+
+The army will attack at dawn.
+الجيش بش ياتاكي في الفجر. / الجيش بش يزدم في الفجر. / الجيش بش ياتاكي مع الفجر. / الجيش بش يزدم مع الفجر.
+
+Well, I work in HR, so we have to dress kind of nice.
+نخدم في الRH ، معناها لازمي نلبس بالباهي. / نخدم في الressources humaines ، معناها لازمي نلبس بالباهي. / نخدم في الRH ، يعني لازمي نلبس بالباهي. / نخدم في الressources humaines ، يعني لازمي نلبس بالباهي. / نخدم في الRH ، معناها لازمي نلبس بلڤدا. /  نخدم RH ، معناها لازمي نلبس بلڤدا. / نخدم في الressources humaines ، معناها لازمي نلبس بلڤدا. / نخدم في الRH ، يعني لازمي نلبس بلڤدا. / نخدم في الressources humaines ، يعني لازمي نلبس بلڤدا.
+
+She bought herself a new coat.
+شرات لروحها كبّوط جديد.
+
+What internet providers are in your region?
+شنوما les fournisseurs d'accés إلّي موجودين في جهتك؟
+
