@@ -23,8 +23,10 @@ List of named entities :
 - [List of Tunisian trade unionists](named_entities/tunisian_trade_unionists.txt)
 - [List of Tunisian writers](named_entities/tunisian_writers.txt)
 
-#### Associations and companies
+#### Institutions, associations and companies
 - [List of Tunisian associations](named_entities/tunisian_associations.txt)
+- [List of Tunisian companies](named_entities/tunisian_companies.txt)
+- [List of Tunisian governmental institutions](named_entities/tunisian_gov-institutions.txt)
 
 #### Places
 - [List of Tunisian cities](named_entities/tunisian_cities.txt)

@@ -1,2266 +1,2451 @@
-Be careful.
+# Be careful.
 ردّ بالك.
 
-Be careful driving.
+# Be careful driving.
 ردّ بالك وانتي تسوق.
 
-Can you translate this for me?
+# Can you translate this for me?
 تنجمشي تترجملي هاذي ؟
 
-Don't worry.
+# Don't worry.
 مش مشكل. / ما تحط شي في بالك.
 
-Everyone knows it.
+# Everyone knows it.
 الناس لكل تعرفها.
 
-Everything is ready.
+# Everything is ready.
 كل شي حاضر. / كل شي مريقل.
 
-Excellent.
+# Excellent.
 هايل.
 
-From time to time.
+# From time to time.
 ساعات.
 
-Good idea.
+# Good idea.
 فكرة باهية. / فكرة هايلة.
 
-He likes it very much.
+# He likes it very much.
 يحبها برشا. / يحبو برشا. / يموت عليه. / يموت عليها.
 
-Help!
+# Help!
 ايجا عاوني !
 
-He's coming soon.
+# He's coming soon.
 هاو جاي قريب. / هاو قريب يجي. / قريب يوصل.
 
-He's right.
+# He's right.
 عندو حقّ.
 
-He's very annoying.
+# He's very annoying.
 ياسر مقلق. / ياسر يمرج. / ملا مقلق.
 
-He's very famous.
+# He's very famous.
 مشهور برشا. / هو ياسر مشهور.
 
-How are you?
+# How are you?
 شحالك ؟ / شنحوالك ؟ / شنية أحوالك؟ / لاباس ؟ / لاباس عليك ؟
 
-How's work going?
+# How's work going?
 شنحوال الخدمة ؟ / شعامل في الخدمة ؟ / شعاملة في الخدمة ؟ / ماشية الخدمة ؟
 
-Hurry!
+# Hurry!
 إزرب ! / إزرب روحك ! / خفّ روحك ! 
 
-I ate already.
+# I ate already.
 ديجا كليت.
 
-I can't hear you.
+# I can't hear you.
 مانيش نسمع فيك. / ما ننجمش نسمع. / مانيش نسمع في شي. / ماني نسمع في شي. / مش نسمع فيك.
 
-I'd like to go for a walk.
+# I'd like to go for a walk.
 نحب نمشي نعمل دورة. / نحب نتمشى شوية. 
 
-I don't know how to use it.
+# I don't know how to use it.
 ما نعرفش كيفاش نستعملو. / ما نعرفش كيفاش نستعملها.
 
-I don't like him.
+# I don't like him.
 ما نحبوش. / ما نهضموش.
 
-I don't like it.
+# I don't like it.
 ما نحبهاش. 
 
-I don't speak very well.
+# I don't speak very well.
 ما نحكيش بالباهي. 
 
-I don't understand.
+# I don't understand.
 ما فهمتش. 
 
-I don't want it.
+# I don't want it.
 ما حاشتيش بيها. / ما حاشتيش بيه.
 
 
-I don't want to bother you.
+# I don't want to bother you.
 ما نحبّش نقلّقك.
 
-I feel good.
+# I feel good.
 عامل كيف. / عامل جوّ. / شايخ.
 
-If you need my help, please let me know.
+# If you need my help, please let me know.
 كان تستحق حاجة قلّي. / كان تستحق معاونة قلّي.
 
-I get off of work at 6.
+# I get off of work at 6.
 نكمّل الخدمة الستّة.
 
-I have a headache.
+# I have a headache.
 راسي يوجع.
 
-I know.
+# I know.
 فيبالي. / نعرف.
 
-I like her.
+# I like her.
   تعجبني هي. / تعجبني.
 
-I'll call you when I leave.
+# I'll call you when I leave.
 تو نكلّمك كي نخرج.
 
-I'll come back later.
+# I'll come back later.
 تو نرجع مبعد.
 
-I'll pay.
+# I'll pay.
 تو ندفع أنا.
 
-I'll take it.
+# I'll take it.
 تو ناخوها. / تو نهزّها.
 
-I'll take you to the bus stop.
+# I'll take you to the bus stop.
 تو نهزك للarrêt / تو نهزّك للمحطّة.
 
-I lost my watch.
+# I lost my watch.
 ضيّعت منڤالتي.
 
-I love you.
+# I love you.
 نحبّك.
 
-I'm an American.
+# I'm an American.
 أنا أمريكاني.
 
-I'm cleaning my room.
+# I'm cleaning my room.
 هاني ننظّف في بيتي. / قاعد ننظّف في بيتي.
 
-I'm cold.
+# I'm cold.
 ڤرسان. / ڤلّصت. 
 
-I'm coming to pick you up.
+# I'm coming to pick you up.
 هاني جاي بش نهزّك معايا.
 
-I'm going to leave.
+# I'm going to leave.
 بش نخرج. / بش نمشي.
 
-I'm good, and you?
+# I'm good, and you?
 الحمد لله لاباس، وانتي ؟ / لاباس عليا، وإنتي؟
 
-I'm happy.
+# I'm happy.
 فرحان. / فرحت.
 
-I'm hungry.
+# I'm hungry.
 جعت.
 
-I'm married.
+# I'm married.
 معرّس أنا. / أنا معرّس.
 
-I'm not busy.
+# I'm not busy.
 مانيش لاهي.
 
-I'm not married.
+# I'm not married.
 مانيش معرّس.
 
-I'm not ready yet.
+# I'm not ready yet.
 مازلت مانيش حاضر.
 
-I'm not sure.
+# I'm not sure.
 مانيش متأكّد.
 
-I'm thirsty.
+# I'm thirsty.
 عطشان. / عطشت.
 
-I'm very busy. I don't have time now.
+# I'm very busy. I don't have time now.
 لاهي برشا. ما عنديش وقت توّ. / ياسر لاهي. ما عنديش وقت توّ.
 
-I need to change clothes.
+# I need to change clothes.
 لازمني نبدّل حوايجي. / لازمني نبدّل دبشي. / لازم نبدّل حوايجي. / لازم نبدّل دبشي.
 
-I need to go home.
+# I need to go home.
 لازمني نروّح. / لازم نروّح. / لازمني نروّح للدار. / لازم نروّح للدار.
 
-I only want a snack.
+# I only want a snack.
 حاشتي بتحريشة كهو. / نحبّ نعمل تحريشة وأكهو.
 
-Is that enough?
+# Is that enough?
 هذاكا كافي ؟ / يكفي هكاكا ؟
 
-I think it tastes good.
+# I think it tastes good.
 مطعمها هايل. / هايل المطعم. / بنين. / بنينة.
 
-I thought the clothes were cheaper.
+# I thought the clothes were cheaper.
 جاوني رخاص الحوايج. / جاني رخيص الدبش.
 
-It's longer than 2 kilometers.
+# It's longer than 2 kilometers.
 أطول من زوز كيلوماتر.
 
-I've been here for two days.
+# I've been here for two days.
 عندي نهارين لهنا.
 
-I've heard Texas is a beautiful place.
+# I've heard Texas is a beautiful place.
 سمعت الي تكساس بلاصة مزيانة.
 
-I've never seen that before.
+# I've never seen that before.
 عمري ما ريتها الحكاية هاذي. / عمري ما ريتها هاذي.
 
-I was about to leave the restaurant when my friends arrived.
+# I was about to leave the restaurant when my friends arrived.
 كنت بش نخرج مالريستو ياخي جاو صحابي.
 
-Just a little.
+# Just a little.
 شوية برك.
 
-Just a moment.
+# Just a moment.
 لحظة. / دقيقة.
 
-Let me check.
+# Let me check.
 لحظة نثبت. / خلي نثبّت.
 
-Let me think about it.
+# Let me think about it.
 خليني نخمم شويّة.
 
-Let's go have a look.
+# Let's go have a look.
 هيا نمشيو نعملو طلّة.
 
-Let's practice English.
+# Let's practice English.
 هيا نبراتيكيو شوية anglais. 
 
-May I speak to her please?
+# May I speak to her please?
 ننجّم نحكي معاها باللاهي ؟ / ننجّم نحكي معاها من فضلك ؟
 
-More than that.
+# More than that.
 أكثر من هكاكا.
 
-Never mind.
+# Never mind.
 لا علينا.
 
-Next time.
+# Next time.
 المرة الجاية.
 
-No.
+# No.
 لا.
 
-Nonsense.
+# Nonsense.
 لا. 
 
-No, thank you.
+# No, thank you.
 لا، شكرا.
 
-Nothing else.
+# Nothing else.
 حتى شي آخر. / كهو.
 
-Not yet.
+# Not yet.
 لا مازال. / لا مازلت.
 
-Of course.
+# Of course.
 بالطبيعة.
 
-Okay.
+# Okay.
 أوكي. / OK.
 
-Please fill out this form.
+# Please fill out this form.
 باللاهي عبّي الformulaire هذا.
 
-Please take me to this address.
+# Please take me to this address.
 باللاهي هزّني للأدريسة هاذي.
 
-Please write it down.
+# Please write it down.
 باللاهي إكتبها. / إكتبها يعيّشك.
 
-Really?
+# Really?
 بالحقّ ؟ / بالرّسمي ؟ 
 
-Right here.
+# Right here.
 لهنا. / هنا.
 
-Right there.
+# Right there.
 غادي. / غاديكا.
 
-See you later.
+# See you later.
 نتقابلو مبعد.
 
-See you tomorrow.
+# See you tomorrow.
 نتقابلو غدوة. / نشوفك غدوة. / يلّا à demain.
 
-See you tonight.
+# See you tonight.
 نشوفك الليلة. / نتقابلو الليلة.
 
-She's pretty.
+# She's pretty.
 مزيانة. / محلاها.
 
-Sorry to bother you.
+# Sorry to bother you.
 سامحني عالقلق.
 
-Stop!
+# Stop!
 آقف! / ستوب !
 
-Take it outside.
+# Take it outside.
 هزّها لبرّا. / خرّجها لبرّا. / هزّو لبرّا. / خرّجو لبرّا.
 
-Tell me.
+# Tell me.
 قلّي.
 
-Thanks for everything.
+# Thanks for everything.
 يعيشك على كل شي. / بارك الله فيك على كل شي.
 
-Thanks for your help.
+# Thanks for your help.
 يعيشك على  خاطر عاونتني.
 
-Thank you.
+# Thank you.
 يعيّشك. / ربي يباركلك. / بارك الله فيك.
 
-Thank you miss.
+# Thank you miss.
 يعيّشك للا. / يعيّشك madame.  /  يعيّشك مادام.
 
-Thank you sir.
+# Thank you sir.
 يعيّشك سيدي. / يعيّشك monsieur.  /  يعيّشك.
 
-Thank you very much.
+# Thank you very much.
 يعيّشك. / ربي يباركلك. / بارك الله فيك.
 
-That's alright.
+# That's alright.
 ميسالش. / مش مشكل.
 
-That's enough.
+# That's enough.
 يزّي. / يكفي. / كهو يزّي. 
 
-That's fine.
+# That's fine.
 ميسالش. / مريڤل.
 
-That's it.
+# That's it.
 بالضبط. / هكاكا.  / اڤزاكتومون.
 
-That smells bad.
+# That smells bad.
 ريحتو خايبة. / ريحتها خايبة.
 
-That's not right.
+# That's not right.
 لا مش هكاكا. 
 
-That's right.
+# That's right.
 بالضبط. / ايه صحيح. / هكاكا. / اڤزاكتومون.
 
-That's too bad.
+# That's too bad.
 خسارة. / خصارة.
 
-That's too many.
+# That's too many.
 لا برشا هكاكا. 
 
-That's too much.
+# That's too much.
 لا برشا هكاكا. 
 
-The book is under the table.
+# The book is under the table.
 الكتاب تحت الطاولة.
 
-They'll be right back.
+# They'll be right back.
 هاو تو يرجعوا. / هاتوّ يرجعوا.
 
-They're the same.
+# They're the same.
 هوما بيدهم. / كيف كيف.
 
-They're very busy.
+# They're very busy.
 لاهين هوما.
 
-It doesn't work.
+# It doesn't work.
 ما تخدمش هاذي. / ما يخدمش هذا.
 
-This is very difficult.
+# This is very difficult.
+صعيبة برشا الحكاية هاذي.
 
-
-This is very important.
+# This is very important.
 الحاجة هاذي مهمّة برشا. / هذا مهمّ برشا.
 
-Try it.
+# Try it.
 جرّب. / جرّبها. / جرّبو. 
 
-Very good, thanks.
+# Very good, thanks.
 هايل، مشكور. / باهي برشا، يعيّشك. / هايل، زايد معاك. 
 
-We like it very much.
+# We like it very much.
 عجبتنا برشا. / عجبنا برشا.
 
-Yes, really.
+# Yes, really.
 ايه، بالحقّ.
 
-You're beautiful.
+# You're beautiful.
 محلاك. / قداكش مزيانة. / قداكش مزيان.
 
-You're so beautiful.
+# You're so beautiful.
  قداكش مزيانة. / قداكش مزيان.
 
-You're very smart.
+# You're very smart.
 ياسر ذكي انتي.
 
-Your things are all here.
+# Your things are all here.
 دبشك لكل لنّا. / دبشك لكل لهنا.
 
-I'd like to open a savings account
+# I'd like to open a savings account
 نحب نحلّ compte d'épargne. 
 
-I'd like to pay in a cheque. 
+# I'd like to pay in a cheque. 
  نحبّ نخلّص بchèque.
 
-Do you need insurance?
-تستحقّ assurance ؟ 
+# Do you need insurance?
+تستحقّ assurance ؟ / حاشتك بassurance ؟ 
 
-My card has been stolen.
+# My card has been stolen.
 الكارطة متاعي تسرقت. / الcarte متاعي تسرقت.
 
-What is the interest rate?
+# What is the interest rate?
 قداش الأنتيريس؟
 
-What is the exchange rate?
+# What is the exchange rate?
 قداش الtaux de change
 
-Phrases you may hear at the bank.
+# Phrases you may hear at the bank.
 جمل تنجم تسمعها في البانكة.
 
-Nope.
+# Nope.
 لا. 
 
-Maybe another time.
+# Maybe another time.
 ممكن في وقت آخر. / ممكن مبعد.
 
-I'm not really into it.
+# I'm not really into it.
 مش جوّي. 
 
-I'd rather not, thanks.
+# I'd rather not, thanks.
 ماذابيا لا. 
 
-Nah.
+# Nah.
 لا. 
 
-That's not going to work for me.
+# That's not going to work for me.
 لا ما يساعدنيش. 
 
-I want to, but I'm unable to.
+# I want to, but I'm unable to.
 ماذابيا أما ما ننجّمش.
 
-Apologies, but I can't make it.
+# Apologies, but I can't make it.
 الله غالب مانيش بش ننجم نجي. / سامحني ما ننجمش نجي.
 
-Marvelous!
+# Marvelous!
 هايل ! / هايل برشا ! 
 
-Will you be my friend?
+# Will you be my friend?
   تحب نوليو صحاب ؟ / تحبشي نوليو أصحاب ؟
 
-Today is the first of November.
+# Today is the first of November.
 اليوم أوّل نهار  في نوفمبر. 
 
-I saw a bear today.
+# I saw a bear today.
 ريت دبّ اليوم. / شفت دبّ اليوم. 
 
-She is in her room.
+# She is in her room.
 في بيتها قاعدة. 
 
-Let's go to the park.
+# Let's go to the park.
 هيا نمشيو للبارك.
 
-I have a few questions.
+# I have a few questions.
 عندي شوية أسئلة.
 
-I like her too.
+# I like her too.
 نحبها حتى أنا. / تعجبني حتى أنا. 
 
-It is sunny outside.
+# It is sunny outside.
 الشمس زارقة لبرّا. / شميسة لبرّا.
 
-That door is open.
+# That door is open.
 الباب هذاكا محلول. 
 
-This letter is for you.
+# This letter is for you.
 الجواب هذا ليك.  / الجواب هذا ليك إنتي. 
 
-This is my brother.
+# This is my brother.
 خويا هذا. / هذا خويا.
 
-I want to go with you.
+# I want to go with you.
 نحبّ نمشي معاك.
 
-I watch movies on my iPad.
+# I watch movies on my iPad.
 نتفرج في أفلام في الiPad متاعي.
 
-What will you do now?
+# What will you do now?
 شنوه بش تعمل توّ؟
 
-Can I say something?
+# Can I say something?
 انجّم نقول حاجة؟
 
-They are here!
+# They are here!
 هام لهنا.
 
-Can you pick me up at the mall?
+# Can you pick me up at the mall?
 تنجم تجي تهزّني مالgrande surface ؟
 
-We are going to watch a movie.
+# We are going to watch a movie.
 بش نتفرّجو في فيلم.
 
-This is his box.
+# This is his box.
 هذا الباكو متاعو.
 
-That's a really cool trick!
+# That's a really cool trick!
 ملا عفسة ! / ملا فازة ! 
 
-That's not what I want.
+# That's not what I want.
 مش هذا الي نحبّ عليه.
 
-I can't open it.
+# I can't open it.
 ما نجّمتش نحلّو. / ما نجّمتش نحلّها.
 
-I won't open it.
+# I won't open it.
 مانيش بش نحلّو. / مانيش بش نحلّها.
 
-Will you come by and watch me?
+# Will you come by and watch me?
 تنجم تجي تتفرّج فيا؟
 
-She is very happy.
+# She is very happy.
 فرحانة برشا. / هي فرحانة برشا.
 
-Do you like blue or yellow?
+# Do you like blue or yellow?
 تحبّ الأزرق ولا الأصفر؟
 
-What are you thinking of?
+# What are you thinking of?
 فاش تخمّم؟ / فاش قاعد تخمّم؟ / فاش تخمّم انتي؟ / فاش قاعدة تخمّم؟
 
-I want to go there.
+# I want to go there.
 نحبّ نمشي لغادي.
 
-This is their house.
+# This is their house.
 هاذي دارهم.
 
-What can I do for you?
+# What can I do for you?
 شنوه انجّم نعملّك ؟ / باش ننجم نعاونك؟ / كيفاش انجّم نعاونك؟ / ننجم نعاونك؟
 
-Who can help me?
+# Who can help me?
 شكون ينجّم يعاونّي؟
 
-Can you get me my eyeglasses?
+# Can you get me my eyeglasses?
 تنجم تجيبلي لوناتي؟ / تنجم تجيبلي ليناتي؟
 
-What if I fail?
+# What if I fail?
 وكان ما ننجحش؟ / وكان نفشل؟
 
-Would you help me out?
+# Would you help me out?
 تنجم تعاونّي ؟ / تنجموا تعاونوني؟
 
-I have her book.
+# I have her book.
 عندي كتابها. / كتابها عندي. / الكتاب متاعها عندي.
 
-My mom is coming to visit us.
+# My mom is coming to visit us.
 أمي جاية تزورنا. 
 
-My mom is coming.
+# My mom is coming.
 أمي جاية.  / يمّا جاية.  / ماما جاية. 
 
-Can we make our projects together?
+# Can we make our projects together?
 انجّمو نعملو بروجياتنا مع بعضنا؟
 
-What is this movie about? 
+# What is this movie about? 
 على شنوه يحكي الفيلم؟
 
-Do you know where this place is?
+# Do you know where this place is?
 تعرف البلاصة هاذي فين ؟ / تعرف فينيّا البلاصة هاذي ؟
 
-I will help you find that place.
+# I will help you find that place.
 تو نعاونك بش تلقاها البلاصة هاذيكا.
 
-As soon as she's here, I'll talk to her.
+# As soon as she's here, I'll talk to her.
 دوبا ما تجي تو تحكي معاها.
 
-I live up in the mountains.
+# I live up in the mountains.
 نعيش في الجبل.
 
-There was a time I liked to play golf.
+# There was a time I liked to play golf.
 كنت قبل نحبّ الgolf. 
 
-There are so many things I want to learn.
+# There are so many things I want to learn.
 عندي برشا حاجات نحب نتعلّمها.
 
-This is the year I'm finally going to learn English.
+# This is the year I'm finally going to learn English.
 السنة هو العام إلّي بش نتعلّم فيه أخيرا الanglais 
 
-I am so sorry.
+# I am so sorry.
 سامحني.  / البركة فيك.  / البركة فيكم. 
 
-I think I need to lie down.
+# I think I need to lie down.
 ضاهرلي لازم نتّكى  شوية.  /  يضهرلي لازم نتّكى.
 
-When will I see you again?
+# When will I see you again?
 وقتاش نعاود نشوفك؟
 
-Which of these slippers are yours?
+# Which of these slippers are yours?
 أناهي منهم الشلاكة متاعك؟
 
-Please give this to them.
+# Please give this to them.
 بلّاهي أعطيهم هذا.
 
-Please give them some of the apples I brought home.
+# Please give them some of the apples I brought home.
 باللاهي أعطيهم شوية مالتفاح إلّي جبتو للدار. 
 
-Can you give me some apples?
+# Can you give me some apples?
 تنجم تعطيني شوية تفاح؟
 
-Please throw the trash out.
+# Please throw the trash out.
 باللاهي طيّش البوبالة. 
 
-My puppy ran into the woods.
+# My puppy ran into the woods.
 الجرو متاعي هرب للغابة. 
 
-Just close your eyes.
+# Just close your eyes.
 صكّر عينيك. 
 
-Did you see that?
+# Did you see that?
 ريتها ؟  / ريتو ؟ 
 
-I heard him singing earlier.
+# I heard him singing earlier.
 سمعتو قبيلة يغنّي. 
 
-Your mom is here.
+# Your mom is here.
 أمّك لنّا. / أمّك لهنا. 
 
-Can your mom and dad come to the party?
+# Can your mom and dad come to the party?
 ينجموا يجيو للحفلة أمّك وبوك؟ / أمّك وبوك ينجّموا يجيو للحفلة؟
 
-Could you help me with my project?
+# Could you help me with my project?
 تنجم تعاونّي في الprojet متاعي؟
 
-I want to watch this now.
+# I want to watch this now.
 نحب نتفرج في هذا توّ. 
 
-I like this bag better than the other one you showed me.
+# I like this bag better than the other one you showed me.
 عجبني الساك هذا أكثر ملّاخر إلّي ورّيتهولي.
 
-How do I turn this on?
+# How do I turn this on?
 كيفاش نخدّمو هذا؟
 
-We had breakfast and then we went to church.
+# We had breakfast and then we went to church.
 فطرنا فطور الصباح ومشينا للكنيسية.
 
-This is our home now.
+# This is our home now.
 هاذي دارنا توّ.
 
-Can I have some milk shake?
+# Can I have some milk shake?
 انجّم ناخو شوية lait de poule ؟
 
-Can you look this way?
+# Can you look this way?
 تنجم تغزر لهنا؟
 
-She was my very first teacher.
+# She was my very first teacher.
 كانت المعلّمة الأولى متاعي. / كانت أوّل معلّمة ليا في المدرسة.
 
-She was also my best friend.
+# She was also my best friend.
 حتى هي كانت أحسن صاحبة عندي.
 
-I have new shoes.
+# I have new shoes.
 خذيت صباط جديد.  / عندي صباط جديد.
 
-I am crying because I'm sad.
+# I am crying because I'm sad.
 قاعد نبكي على خاطرني حزين. / نبكي على خاطرني حزين.
 
-How do I use this?
+# How do I use this?
 كيفاش نستعملو هذا؟ / كيفاش نستعملها هاذي؟
 
-There's no electricity now.
+# There's no electricity now.
 ماعادش فما ضوّ. / قصّ الضوّ. / الضو قاصص.
 
-There's a man outside looking for you.
+# There's a man outside looking for you.
 فما راجل لبرّا قاعد يلوّج عليك. / راجل لبرّا يلوّج عليك.
 
-My mom is here.
+# My mom is here.
 أمّي لنّا. / أمّي لهنا.
 
-Give her these shoes.
+# Give her these shoes.
 أعطيها الصبابط هاذم.
 
-We shared many dreams together.
+# We shared many dreams together.
 حلمنا برشا مع بعضنا.  / حلمنا مع بعضنا برشا حلمات. 
 
-You are my only friend here.
+# You are my only friend here.
 ما عندي كان انتي صاحبي لهنا. / إني الصاحب الوحيد ليّا لهنا.
 
-Can you tell me which way to go?
+# Can you tell me which way to go?
 تنجّم تقلّي منين لازم نمشي ؟
 
-She's the one he's been waiting for.
+# She's the one he's been waiting for.
 هي الشخص إلّي هو كان يستنى فيه. 
 
-Her grandmother is sick.
+# Her grandmother is sick.
 عزيزتها مريضة. / جدتها مريضة.
 
-She can't even stand on her own.
+# She can't even stand on her own.
 ما تنجمش تاقف وحدها أصلا.
 
-I'll be right back.
+# I'll be right back.
 دقيقة ونرجع. / لحظة ونرجع.
 
-Your faith will see you through tough times.
+# Your faith will see you through tough times.
 الإيمان متاعك يخليك تتخطى الأوقات الصعيبة.
 
-Do you want to go with us?
+# Do you want to go with us?
 تحبّ تمشي معانا؟
 
-This is the best day of my life.
+# This is the best day of my life.
 هذا أحسن نهار في حياتي. 
 
-I just saw a child cross the street by herself.
+# I just saw a child cross the street by herself.
 ريت طفل صغير توّ شاقق الكياس وحدو.  / ريت طفلة صغيرة توّ شاقّة الكياس وحدها. 
 
-Did you go there?
+# Did you go there?
 مشيت لغادي؟
 
-I have to go to work.
+# I have to go to work.
 لازمني نمشي للخدمة. 
 
-Let's go down.
+# Let's go down.
 هيا نهبطو. 
 
-You may take your seats.
+# You may take your seats.
 تنجموا تقعدوا. 
 
-Let's have dinner after work.
+# Let's have dinner after work.
 هيا نتعشاو بعد الخدمة. / بعد الخدمة تو نمشيو نتعشّاو.
 
-Should I buy this dress?
+# Should I buy this dress?
 نشري زعمة الروبة هاذي؟ / نشريها الروبة هاذي زعما؟
 
-Call me when you get home, okay?
+# Call me when you get home, okay?
 كي توصل للدار أطلبني. / دوبا ما توصل للدار أطلبني.
 
-I want to travel and see the world.
+# I want to travel and see the world.
 نحبّ نسافر ونشوف العالم.
 
-I can't wait for this day to be over.
+# I can't wait for this day to be over.
 وقتاش بش يوفى هالنهار. / نحبو يوفي هالنهار.
 
-My cousin goes to school here.
+# My cousin goes to school here.
 ولد عمي يقرى لنّا. / بنت عمّتي تقرى لهنا. / ولد عمتي يقرى في المدرسة هاذي. /  بنت عمتي يقرى في المدرسة هاذي.
 
-I still think you should go.
+# I still think you should go.
 لازمك تمشي توّ.  / مازلت نخمم الي لازمك تمشي.
 
-What's in that box?
+# What's in that box?
 شفما في وسط الصندوق؟ / شنوه فيه الصندوق؟
 
-As soon as I get home, I'm going to start watching that series.
+# As soon as I get home, I'm going to start watching that series.
 دوبا ما نروّح للدار نبدا نتفرج فيها الsérie هاذيكا.
 
-I feel so tired, I just need to relax and unwind.
+# I feel so tired, I just need to relax and unwind.
 ياسر تاعب، لازمني نرتاح.
 
-I have three sisters.
+# I have three sisters.
 عندي ثلاثة خوات بنات.
 
-When was the last time you saw them?
+# When was the last time you saw them?
 وقتاش آخر مرّة ريتهم فيها؟ / وقتاش آخر مرّة ريتهم؟ / وقتاش ريتهم آخر مرّة؟
 
-This is just between you and me.
+# This is just between you and me.
 تقعد بيناتنا الحكاية. 
 
-Give me a high five!
+# Give me a high five!
 دڤّ عليها! 
 
-I really like your painting!
+# I really like your painting!
 محلاها التصويرة متاعك. / محلاها تصويرتك.
 
-I have something for you.
+# I have something for you.
 عندي حاجة ليك.
 
-She's the most beautiful girl I've ever seen.
+# She's the most beautiful girl I've ever seen.
 هي أزين طفلة ريتها في حياتي. / هي أزين طفلة ريتها.
 
-I love you guys so much.
+# I love you guys so much.
 نحبكم برشا.
 
-You are like family to me.
+# You are like family to me.
 انتي كيما عايلتي.
 
-I want to get my own place.
+# I want to get my own place.
 نحب نسكن وحدي.
 
-Get out of my room!
+# Get out of my room!
 أخرج عليا! / اخرج من بيتي!
 
-Please put down that book and listen to me.
+# Please put down that book and listen to me.
 نحي الكتاب من يدك باللاهي وأسمعني. 
 
-I feel so old!
+# I feel so old!
 حاسس بروحي عزوز!  / حاسس بروحي عزّزت. / عزّزت ! 
 
-I can wait for you here while you shop.
+# I can wait for you here while you shop.
 تو نستناك لهنا وانتي قاعدة تقضي. /   تو نستناك لنّا مادامك انتي تقضي. 
 
-I didn't mean to sound so angry.
+# I didn't mean to sound so angry.
 من صوتي ممكن نضهر متغشش أما ما كانش هذاكا قصدي. 
 
-Can you turn on the lights?
+# Can you turn on the lights?
 تنجم تحلّ الضو؟
 
-Can we keep the lights on tonight?
+# Can we keep the lights on tonight?
 انّجمو نخلّيو الضو محلول اليوم؟
 
-I've always been a diligent student.
+# I've always been a diligent student.
 طول عمرو طالب مثابر. / طول عمرو طالب خدّام.
 
-This is why I don't go out anymore.
+# This is why I don't go out anymore.
 على هذا معادش نخرج أنا.
 
-Why won't you let him know how you feel?
+# Why won't you let him know how you feel?
 علاش ما تقلّوش شنوه حاسّة.  / علاش ما تقلّوش شنوه حاسس. 
 
-This restaurant is great for families with kids!
+# This restaurant is great for families with kids!
 الريستو هذا هايل للعايلات إلّي عندها صغار.
 
-Hey, we're wearing the same shirt!
+# Hey, we're wearing the same shirt!
 هانا لابسين نفس المريول !
 
-I have this big crush on Brad Pitt.
+# I have this big crush on Brad Pitt.
 نموت عليه Brad Pitt.
 
-The group sitting across our table is so noisy.
+# The group sitting across our table is so noisy.
 الجماعة إلّي قاعدين قدام الطاولة متاعنا ياسر هايجين. / قداشهم كالبين الجماعة إلّي قاعدين قدام الطاولة متاعنا.
 
-Where do I begin with this huge project?
+# Where do I begin with this huge project?
 منين بش نبداه الprojet الكبير هذا؟
 
-She may seem quiet, but she's really outgoing once you get to know her.
+# She may seem quiet, but she's really outgoing once you get to know her.
 تضهر سكّوتيّة أما une fois تعرفها تو تشوفها قداشها هايلة.
 
-Japan is such a beautiful country!
+# Japan is such a beautiful country!
 اليابان ياسر مزيانة. / اليابان بلاد مزيانة برشا.
 
-I need help with my Math homework.
+# I need help with my Math homework.
 حاشتي بشكون يعاونّي في série الmath متاعي.
 
-Can we talk in private?
+# Can we talk in private?
 انجّمو نحكيو وحدنا؟
 
-Where were you last night?
+# Where were you last night?
 فين كنت البارح؟ / فين مشيت لبارح؟
 
-If only I could turn back time.
+# If only I could turn back time.
 شخصّ كان جيت انجّم نرجع في الزمن. 
 
-The problem is we think we have plenty of time.
+# The problem is we think we have plenty of time.
 المشكل أنو ديما ماشي في بالنا إلّي أحنا عندنا بزايد وقت. 
 
-Every person has his own big goal to fulfill.
+# Every person has his own big goal to fulfill.
 كل عبد عندو هدف كبير يحبّ يحقّقو.
 
-This is a great to start to learn the English language.
+# This is a great to start to learn the English language.
 
-Don't let go of my hand.
+# Don't let go of my hand.
 ما تسيّبش يدي.  / اقعد شادد يدّي.
 
-This might actually work.
+# This might actually work.
 فما إمكانية أنها تخدم الحكاية هاذي. / تنجّمم تنجح هاذي.
 
-The American culture is so dynamic.
+# The American culture is so dynamic.
 الثقافة الأمريكية ياسر ديناميك.
 
-Can you show me how to use this vacuum cleaner?
+# Can you show me how to use this vacuum cleaner?
 تنجّم تورّيني كيفاش نستعمل l'aspirateur هذا ؟
 
-This is my favorite part of the movie!
+# This is my favorite part of the movie!
 هاذي جاتني أحسن partie في الفيلم.
 
-What is the story about?
+# What is the story about?
 على شنوه تحكي القصة؟ / شنوه موضوعها الحكاية؟
 
-I am so against domestic abuse!
+# I am so against domestic abuse!
+أنا ضدّ العنف الزوجي.
 
-This place is wonderful!
+# This place is wonderful!
+محلاها البلاصة هاذي ! / قداش محلاها البلاصة هاذي! 
 
-She kept saying this over and over again.
+# She kept saying this over and over again.
+قعدت تعاود تقول في نفس الحاجة برشا مرات. / قعدت تعاود فيها الجملة برشا مرّات.
 
-He is such an annoying person.
+# He is such an annoying person.
 قداشو مقلق. / قداشو مڤلڤ. / قداش مقلق الشخص هذا. / قداشو مڤلڤ الشخص هذا.
 
-Can we play that game again?
+# Can we play that game again?
 انّجمو نعاودو نلعبوها اللعبة؟ /  نعاودو نلعبوها اللعبة مرة أخرة؟
 
-Just a few more errands and I'm done!
+# Just a few more errands and I'm done!
 عندي شوية قضيات أخرى وكهو. / شوية قضيات أخرى ونكمّل. 
 
-What an interesting case you are working on now!
+# What an interesting case you are working on now!
 ياسر intéressante القضية إلّي قاعد تخدم عليها!
 
-I had a rough week.
+# I had a rough week.
 تعدات عليا جمعة صعيبة. / تعداتلي جمعة سلاطة.  / جمعة ما جات شي تعدّات. 
 
-Will you keep me company?
+# Will you keep me company?
 تقعد تونّسني شوية؟ / تقعد بحذايا شوية ميسالش ؟
 
-Where are we going?
+# Where are we going?
 فين ماشين ؟ / فين ماشين أحنا ياخي؟
 
-What's wrong with the airport's system?
+# What's wrong with the airport's system?
+شنيّة المشكلة في السيستام متاع المطار؟
 
-Can you give each of them an apple?
+# Can you give each of them an apple?
+تنجّم تعطي لكلّ واحد فيهم تفّاحة؟
 
-I'm right this time.
+# I'm right this time.
 المرّة  هاذي أنا الصحيح.
 
-This community program for teens is really helpful.
+# This community program for teens is really helpful.
 
-Did you hear that?
+# Did you hear that?
 سمعت حاجة؟ / سمعتها؟ / سمعتو؟
 
-I'm so sleepy.
+# I'm so sleepy.
 هابط عليا النوم. / جاني النوم.  / بش نطيح بالنوم.
 
-I have a question for you.
+# I have a question for you.
 عندي سؤال ليك. 
 
-During the meeting, I saw him fall asleep.
+# During the meeting, I saw him fall asleep.
 ريتو كيفاش رقد في وسط الإجتماع. / ريتو كيفاش في وسط الréunion هبط عليه النوم.
 
-I have to work this weekend.
+# I have to work this weekend.
 لازمي نخدم الويكاند هذا.
 
-We can play soccer next weekend instead.
+# We can play soccer next weekend instead.
 انجّمو  نكوّرو الويكاند الجاي.
  
-I hope the government does something about the poverty in this country.
+# I hope the government does something about the poverty in this country.
 إن شاء الله الدولة تعمل حاجة بش تحلّ مشكل الفقر فيها البلاد. 
 
-If you see a bear here, run for your life.
+# If you see a bear here, run for your life.
 كان تشوف دبّ، اهرب منو. / كي تشوف دبّ ڤطّع. 
 
-I have a small favor to ask you.
+# I have a small favor to ask you.
 عندي طلب صغير. / بش نطلب منك حاجة صغيرة.
 
-Please turn off the television.
+# Please turn off the television.
 باللاهي طفّي التلفزة.  / يعيشك صكّر التلفزة. / صكّر التلفزة يعيشك.
 
-Let's move on to the next tourist spot.
+# Let's move on to the next tourist spot.
 هيا نمشيو للموقع السياحي إلّي مبعد. / نتعدّاو توّ للموقع السياحي إلّي مبعد.
 
-I really like you.
+# I really like you.
 ياسر تعجبني. / تعجبني برشا. / نحبّك برشا. 
 
-The night is young.
+# The night is young.
 مازال الليل طويل. 
 
-I'm going to live like there's no tomorrow.
+# I'm going to live like there's no tomorrow.
 بش نعيش حياتي كايني عمري مانيش بش نموت.
 
-You have a point.
+# You have a point.
 عندك حقّ. 
 
-I believe in you.
+# I believe in you.
 أنا مأمّن بيك. / عندي ثقة فيك.
 
-Just hold my hand.
+# Just hold my hand.
 شدّ يدي. / شدّني من يدي.
 
-I'm going to see you today. 
+# I'm going to see you today. 
 تو نشوفك اليوم. / تو نتلاقاو اليوم.
 
-Please bring a pen. 
+# Please bring a pen. 
 جيب ستيلو معاك من فضلك. / باللاهي جيب ستيلو.
 
-What will happen if you don't submit your report on time?
+# What will happen if you don't submit your report on time?
 شنوه يصير كان ما تبعثش الرابور متاعك في الوقت؟
 
-I can't live without my phone.
+# I can't live without my phone.
 ما انجّمش نعيش من غير تاليفوني. / ما نجمش نعيش بلاش تاليفوني. 
 
-Before I go to bed I always wash my face.
+# Before I go to bed I always wash my face.
 قبل ما نمشي نرقد ديما نغسل وجهي. /  ديما نغسل وجهي قبل ما نمشي نرقد.  / قبل ما نشدّ فرشي ديما نغسل وجهي.  /  ديما نغسل وجهي قبل ما نشدّ فرشي. 
 
-There's a large amount of data online about that topic.
+# There's a large amount of data online about that topic.
 فما برشا حاجات في الانترنات عليه الموضوع هذا.
 
-That's all I know about Dinosaurs.
+# That's all I know about Dinosaurs.
 هذاكا إلّي نعرفو على الديناصورات.
 
-I have a million questions about this book.
+# I have a million questions about this book.
 عندي برشا أسئلة على الكتاب هذا. / عندي ألف سؤال عليه الكتاب هذا. 
 
-We must watch this movie together.
+# We must watch this movie together.
 لازمنا نتفرّجو فيه مع بعضنا الفيلم هذا. / الفيلم هذا مع بعضنا نتفرجو فيه. 
 
-Can we go home now?
+# Can we go home now?
 انجّمو نروّحو توّ ؟
 
-I hid it under my bed.
+# I hid it under my bed.
 خبّيتها تحت فرشي. / خبيتو تحت فرشي. 
 
-I filled the tub with water.
+# I filled the tub with water.
 عبّيت البانو بالماء. 
 
-Can you write me a prescription for this?
+# Can you write me a prescription for this?
 تنجم تعملي  ordonnance ؟
 
-His mother is a very lovely woman.
+# His mother is a very lovely woman.
 أمّو محلاها. / أمّو هايلة. / محلاها أمّو.
 
-This area of this house needs to be fixed.
+# This area of this house needs to be fixed.
 الpartie هاذي في الدار لازمها travaux.  / البارتي هاذي في الدار لازمها تتصلّح.
 
-That virus has become a national concern.
+# That virus has become a national concern.
 الفيروس هذا ولّا مشكلة وطنية. / الفيروس هذا ولّا قضيّة وطنيّة.
 
-She needs money to buy her medicine.
+# She needs money to buy her medicine.
 حاشتها بفلوس بش تشري دواياتها. / تستحقّ فلوس بش تشري الدواء متاعها.
 
-She shared her story to the media.
+# She shared her story to the media.
 حكات حكايتها في الmédia . /  حكات قصتها في التلافز والراديوات.
 
-She is so young and so hopeful.
+# She is so young and so hopeful.
 هي صغيرة ومليانة بالأمل.
 
-It's a fact: shopping can improve your mood.
+# It's a fact: shopping can improve your mood.
 الشوبينغ ينجم يحسّنلك الmood متاعك. / الshopping يفرهد بالطبيعة.
 
-Just because she's different, it doesn't mean she's bad.
+# Just because she's different, it doesn't mean she's bad.
 مش على خاطرها مختلفة يعني راها خايبة. / le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 
-You have a lot of explaining to do.
+# You have a lot of explaining to do.
 عندك برشا حاجات بش تفسّرها. / فما برشا حاجات لازم تفسّرهم.
 
-Turn right when you reach the corner.
+# Turn right when you reach the corner.
 كي توصل للتركينة دور على اليمين. / دور علّيمين كي توصل للتركينة. / كي توصل للزاوية دور على اليمين. / دور علّيمين كي توصل للزاوية. 
 
-Let's study our English lessons together.
+# Let's study our English lessons together.
 هيا نقراو مع بعضنا دروس الanglais متاعنا.
 
-Can I borrow your English book?
+# Can I borrow your English book?
 انجّم نتسلّف كتابك متاع الanglais ؟
 
-She has the pink eye.
-
-I love my job.
+# I love my job.
 نحبّها خدمتي أنا. / أنا نحبّ خدمتي. / خدمتي نحبّها. /  أنا نحبّها خدمتي.
 
-Describe yourself in one word.
+# If you have a cold rub some vicks
+كانك مستبرد ادهن بشويّة فيكس.
+
+# Describe yourself in one word.
 أوصف روحك في كلمة. /  أوصف روحك في كلمة وحدة. 
 
-Though you are angry now, I'm sure you will forget about this later.
+# Though you are angry now, I'm sure you will forget about this later.
 نعرف إلّي متغشّش توّ، أما تو تنساها الحكاية هاذي مبعد. 
 
-His business is thriving.
+# His business is thriving.
 الbusiness متاعو ناجح.
 
-This is not an issue for me.
+# This is not an issue for me.
 ماهيش مشكلة. 
 
-Whose side are you on, anyway?
+# Whose side are you on, anyway?
 ياخي مع شكون انتي؟ / مع شكون انتي ياخي بالضبط؟
 
-Always be kind, even to strangers.
+# Always be kind, even to strangers.
 ديما كون باهي، حتى مع العباد إلّي ما تعرفهاش. 
 
-There are four seasons in a year.
+# There are four seasons in a year.
 فمّا أربعة فصول في العام. / العام فيه أربعة فصول.
 
-Let's head back, it's freezing out here.
+# Let's head back, it's freezing out here.
 هيا نرجعو، الدنيا ياسر باردة لهنا. / هيا نرجعو، ياسر باردة لنّا. 
 
-We've gone too far and now we're lost.
+# We've gone too far and now we're lost.
 بعدنا برشا، وتوّ هانا ضعنا. / مشينا برشا حتى ضعنا.
 
-She has long, black hair.
+# She has long, black hair.
 عندها شعر أكحل طويل. / شعرها طويل أسود.
 
-I have two little boys with me now.
+# I have two little boys with me now.
 عندي زوز غشاشر صغار معايا توّ.  / توّ معايا زوز أولاد صغار.
 
-The house is so quiet without you.
+# The house is so quiet without you.
 الدار هاذي تبدا ساكتة بلاش بيك. / الدار هاذي ياسر رايضة بلاش بيك.
 
-I hope you say yes.
+# I hope you say yes.
 إن شاء الله تقول إيه. / إن شاء الله تقول آي.
 
-After all this time, he has finally learned to love.
+# After all this time, he has finally learned to love.
 بعد الوقت هذا لكل، تعلّم في لخّر كيفاش يحبّ. 
 
-Ever since his mom died, he has been cranky and angry at the world.
+# Ever since his mom died, he has been cranky and angry at the world.
 ملّي توفّات أمّو وهو ناقم على الدنيا لكل.  / ولّى ناقم على الدنيا لكل ملّي ماتت أمّو. /  ملّي ماتت أمّه وهو ناقم على الدنيا لكل.  / ولّا ناقم على الدنيا لكل ملّي توفّات أمّه.  
 
-That was such a long time ago.
+# That was such a long time ago.
 هذاكا صار من بكري. / يا حسرة.
 
-Please provide me with a list of your services.
+# Please provide me with a list of your services.
 باللاهي قلّي شنوما les services متاعهم. / من فضلك اعطيني ليستة الخدمات متاعهم. 
 
-You're a good friend.
+# You're a good friend.
 صاب باهي انتي والله. / انتي صاحب باهي. / صاحبة باهية انتي.
 
-My father is so important to me.
+# My father is so important to me.
 بابا أهمّ شخص عندي.
 
-Let's sit outside together.
+# Let's sit outside together.
 هيا نقعدو لبرّا مع بعضنا.
 
-He's away right now.
+# He's away right now.
 ماهوش لهنا توّ. / ماهوش لنّا توّ.  /  ماهوش موجود توّه. / ماهوش موجود توّه. / ماهوش لهنا في الوقت الحالي. / ماهوش لنّا في الوقت الحالي.  /  ماهوش موجود في الوقت الحالي. / ماهوش موجود في الوقت الحالي. 
 
-Until when will you be away?
+# Until when will you be away?
 حتى وقتاش بش تقعد لبرّا. / حتى لوقتاش تقعد غادي. /  حتى لوقتاش بش تقعد لغادي؟ 
 
-With great power comes great responsibility.
+# With great power comes great responsibility.
 مع برشا قوّة تجي برشا مسؤولية. 
 
-I've been checking his temperature every hour.
+# I've been checking his temperature every hour.
 قاعد نتفقّد في السخانة متاعو كل ساعة. / كل ساعة نتفقّدلو في السخانة متاعو. 
 
-Let's play a game.
+# Let's play a game.
 هيّا نلعبو. / هيا نلعبو لعبة.
 
-I buy from his bakery as often as I can.
+# I buy from his bakery as often as I can.
 ديما نشري مالباتيسري هاذي. / ديما نشري منها الpâtisserie هاذي.
 
-He's not yet home.
+# He's not yet home.
 مازال ما روّحش. / مازال ما روّحش للدار. / مازال ما رجعش للدّار.
 
-There's a long line at the grocery cashier.
+# There's a long line at the grocery cashier.
 فما صفّ طويل في الكاسة.
 
-I stay away from political discussions.
+# I stay away from political discussions.
 نقعد بعيد أنا مالنقاشات السياسية. / نبعد أنا كل مرة على النقاشات السياسية. / نقعد بعيد أنا على الحديث في السياسة. / نبعد أنا كل مرة على الحديث في السياسة. 
 
-Have you ever tried this cake?
+# Have you ever tried this cake?
 عمرك ذقت منها الcake هاذي ؟ / ذقت منو قبل الcake هذا؟ / عمرك ذقت منها الgâteau هاذي ؟ / ذقت منو قبل الgâteau هذا؟ / عمرك ذقت منها الڤطّو هاذي ؟ / ذقت منو قبل الڤطّو هذا؟
 
-Can you stand still for a minute?
+# Can you stand still for a minute?
 تنجّم تركح شوية دقيقة من زمان؟ / تنجم تاقف شوية دقيقة وحدة؟ / تنجم تركح دقيقة وحدة؟
 
-What you did was so bad.
+# What you did was so bad.
 ياسر خايب إلّي عملتو.
 
-I can't lose you.
+# I can't lose you.
 ما انجّمش نخسرك. / ما نجّمش نخسرك.
 
-I want to buy this bag, however, I need to save up for it first.
+# I want to buy this bag, however, I need to save up for it first.
 نحبّ نشريه الساك هذا أما لازمي نلمّلو الساعة. / نحبّ نشريه الساك هذا أما لازمي نلمّلو قبل.  / نحبّ نشريه الsac هذا أما لازمي نلمّدله الساعة.  / نحبّ نشريه الsac هذا أما لازمي نلمّدله قبل. 
 
-Let's pay for our groceries.
+# Let's pay for our groceries.
 هيّا نخلّصوها القضية متاعنا. / هيا نخلّصو القضية متاعنا.
 
-There's a law against jay-walking.
+# There's a law against jay-walking.
 فما قانون ضدّ شقّان الكياس من غير إحترام الfeu. / فما قانون ضدّ شقّان الكياس مش مالpassage piéton. 
 
-I want you to meet my aunt.
+# I want you to meet my aunt.
 نحبّك تقابل عمّتي. / نحبّك تقابل خالتي. 
 
-Let's go inside my car.
+# Let's go inside my car.
 هيا نركبو في الكرهبة متاعي. / هيا نطلعو في الكرهبة متاعي. 
 
-This is the city that never sleeps.
+# This is the city that never sleeps.
 هاذي هي المدينة إلّي ما ترقدش. / المدينة هاذي ما ترقدش جملة. 
 
-I'm almost done with my report.
+# I'm almost done with my report.
 عدّي كمّلتو الرابور متاعي. / قريب نكمّل الrapport متاعي.
 
-Did you remember to include the summary in your report?
+# Did you remember to include the summary in your report?
 ما نسيتش بش تزيد تلخيص في الرابور متاعك ماو ؟ / ماو ما نسيتش تزيد résumé في الrapport متاعك ؟
 
-Can we continue working tomorrow?
+# Can we continue working tomorrow?
 انّجمو نكمّلو الخدمة غدوة؟ / نكمّلو نخدمو غدوة؟
 
-I'll finish it later.
+# I'll finish it later.
 توّ نكمّلها مبعد. 
 
-Our community is very tight knit.
+# Our community is very tight knit.
 الcommunauté متاعنا ياسر متماسكة. / الcommunauté متاعنا متماسكة برشا. 
 
-There's so much to learn in the English language.
+# There's so much to learn in the English language.
 فما برشا حاجات الواحد لازم يتعلّمها في الanglais. 
 
-What's your name?
+# What's your name?
 شسمك؟ / شنوه إسمك؟ / إسمك شنوّه؟ / إسمك؟
 
-I can give you five reasons why you need to watch that video.
+# You need to watch that video.
+لازمك تتفرّج في الفيديو هذاكا. / لازمك تتفرّج فيه الvideo هاكا. /  لازمك تتفرّج في الvideo هذاكا. / لازمك تتفرّج فيه الفيديو هاكا.
 
-I once had a puppy named Spark.
+# I once had a puppy named Spark.
 كان عندي جرو قبل إسمو Spark. / كان عندي جرو قبل إسمه سبارك.
 
-I love my white sneakers.
+# I love my white sneakers.
 نحبّهم الباسكات البيض متاعي.
 
-She's the least productive among all the employees.
+# She's the least productive among all the employees.
 هي أكثر وحدة كركارة في الخدّامة لكل. / أكبر كركارة هي مقارنة بالخدّامة لكل.
 
-She was our class president back in high school.
+# She was our class president back in high school.
 كانت رئيسة القسم متاعنا في اللّيسي.  / كانت رئيسة القسم متاعنا في الlycée. 
 
-I'd love to learn more about the English language.
+# I'd love to learn more about the English language.
 نحبّ نتعلّم أكثر حاجات على الanglais. 
 
-What is her real name?
+# What is her real name?
 شنوه إسمها الحقيقي؟ / إسمها الحقيقية شنوّه؟
 
-What can we change so that things will get better?
+# What can we change so that things will get better?
 شنوه انجّمو نبدّلو بش كل شي يتحسّن. / شنوه انجّمو نبدّلو باش الأمور تتحسّن. 
 
-They hired a team to do the design of their new office.
+# They hired a team to do the design of their new office.
 أونڤاجاو équipe بش تعمل الdesign متاع الbureau الجديد متاعهم.  / جابوا إيكيب بش تعمل الديزاين متاع البيرو الجديد متاعهم. 
 
-I have several old clothes I need to donate.
+# I have several old clothes I need to donate.
 عندي برشا حوايج قدم لازم نتبرّع بيهم. / عندي برشا دبش قديم بش نتبرّع بيه. 
 
-This is the best potato salad I've ever tasted.
+# This is the best potato salad I've ever tasted.
 هاذي أبنّ بطاطا ذقتها في حياتي.
 
-I loved that toy when I was a kid.
+# I loved that toy when I was a kid.
 كنت نحبّو الطفل هذاكا وقتلي كنت صغير.
 
-This is the information I need.
+# This is the information I need.
 هاذي هي المعلومة إلّي حاشتي بيها.
 
-There's nothing we can do now. 
+# There's nothing we can do now. 
 ما فما شي انجّمو نعملوه توّ.
 
-Three years ago, I visited Japan for the first time.
+# Three years ago, I visited Japan for the first time.
 ثلاثة سنين لتالي أوّل مرة سافرت لليابان.
 
-You're right, I want to go back there.
+# You're right, I want to go back there.
 ايه عندك حقّ، نحبّ نرجع لغادي. 
 
-Just lead the way and I'll follow.
+# Just lead the way and I'll follow.
 يلّا هاني وراك. / يلّا هاني نتبّع فيك. / إمشي هاني نتبّع فيك.
 
-I feel awkward in these social gatherings.
-
-I understand how you feel.
+# I understand how you feel.
 نعرفك شنوه حاسس. / نعرفك شنوه حاسّة. 
 
-Whether in big groups or small groups, I always feel a little shy at first.
+# Whether in big groups or small groups, I always feel a little shy at first.
 سواءً في ڤروبات كبيرة ولا صغيرة، ديما نبدا حاشم شوية مالأوّل. / سواءً في ڤروبات كبيرة ولا صغيرة، ديما نبدا حاشمة شوية مالأوّل. 
 
-Looking back, I knew I was always an introvert.
+# Looking back, I knew I was always an introvert.
 كي نغزر للماضي متاعي نلقى روحي إلّي طول عمري كنت إنطوائي. / كي نغزر للماضي متاعي نلقى روحي إلّي طول عمري كنت إنطوائيّة. 
 
-They're together now.
+# They're together now.
 مع بعضهم توّ. / مرتبطين هوما توّ ولّاو. / ولّاو كوبل.
 
-I'll follow you home.
+# I'll follow you home.
 تو نتبّعك للدار. / هاني وراك حتى توصل للدار.
 
-Every parent is trying hard and doing their best.
+# Every parent is trying hard and doing their best.
 الوالدين لكل قاعدين يحاولوا ويعملوا في أقصى مجهودهم.
 
-You are only allowed to go out today.
+# You are only allowed to go out today.
 ما عندك الpremission بش تخرج كان اليوم. / ماهو مسموحلك بش تخرج كان اليوم.
 
-Please stop that.
+# Please stop that.
 يزي باللاهي. / آقف يعيّشك. / باللاهي يزي. / كهو آقف يعيشك. 
 
-Why is your face so red?
+# Why is your face so red?
 علاش وجهك أحمر هكّا. 
 
-You can ask me for anything.
+# You can ask me for anything.
 تنجم تسئلني أيّ حاجة. / تنجّم تسئلني على أيّ حاجة.
 
-Did you create that presentation? It was so good.
+# Did you create that presentation? It was so good.
 إنتي إلّي عملتها الprésentation هاذيكا ؟ ياسر هايلة. / إنتي إلّي عملتها الprésentation هاكي ؟ ياسر هايلة.
 
-This is public property.
+# This is public property.
 هذا ملك عام.
 
-I already asked him to resend his report.
+# I already asked him to resend his report.
 ديجا قلتلو بش يعاود يبعث الرابور متاعو. / طلبت منّو déjà بش يعاود يبعث الrapport متاعه.
 
-Could you speak a little louder?
+# Could you speak a little louder?
 تنجّم تحكي بصوت ما أعلى شوية. /  تنجّم تعلّي صوتك شوية؟
 
-The others haven't arrived yet.
+# The others haven't arrived yet.
 الآخرين مازالوا ما وصلوش. / الآخرين مازالوا ما جاوش. 
 
-I read somewhere that this house is haunted.
+# I read somewhere that this house is haunted.
 قريت ندرافين إلّي الدار هاذي مسكونة.
 
-What level are you in that game?
+# What level are you in that game?
 في أنو niveau وصلت في اللعبة هاذيكا؟  / في أنو level وصلت في الjeu هاكي؟
 
-Do you allow your kids to play outside the house?
+# Do you allow your kids to play outside the house?
 تخلّي أولادك يلعبوا خارج الدار؟  / تخلّي أولادك يلعبوا لبرّا مالدار؟ 
 
-Is it okay if we add a bit of sugar to the tea?
+# Is it okay if we add a bit of sugar to the tea?
 ميسالش كان نزيدو شوية سكّر للتاي؟ / انّجّمو نزيدو شوية سكّر للتاي؟ / ميسالش كان نزيدولو شوية سكّر التاي؟ / انّجّمو نزيدولو شوية سكّر التاي؟
 
-Welcome to my office.
+# Welcome to my office.
 مرحبا بيك في بيرويا.
 
-How much did you spend on your last shopping spree?
+# How much did you spend on your last shopping spree?
 قداش صرفت على الshopping المرّة لخّرة؟
 
-You left the door open.
+# You left the door open.
 خليت الباب مصكّر.
 
-You must take good care of your health.
+# You must take good care of your health.
 لازم تردّ بالك على صحّتك.  / لازم تسايس على صحّتك.  / لازم تتلهى بصحّتك بالباهي.
 
-You are a good person.
+# You are a good person.
 انتي شخص باهي.
 
-This is a work of art.
+# This is a work of art.
 هاذي تحفة.  / تحفة هاذي. / تحفة فنّية هاذي.  / خدمة معلّم هاذي.
  
-Are you sure you want to do this alone?
+# Are you sure you want to do this alone?
 متأكّد تحب تعملها وحدك الحكاية هاذي؟
 
-The war has finally ended.
+# The war has finally ended.
 الحرب وفات أخيرا. /   أخيرا، الحرب وفات.
 
-She is my history professor.
+# She is my history professor.
 هي بروفة التاريخ متاعي. / أستاذة التاريخ متاعي هي.
 
-Are you going to her party tonight?
+# Are you going to her party tonight?
 ماشي للحفلة متاعها الليلة؟ / ماشية للحفلة متاعها اليوم في الليل؟ / ماشية للحفلة متاعها اليوم الليلة هاذي؟
 
-We support everyone within our small community.
+# We support everyone within our small community.
 نساندو العباد لكل في الcommunauté الصغيرة متاعنا. /  في الcommunauté الصغيرة متاعنا، نساندو العباد لكل. / نساندو الناس لكل في الcommunauté الصغيرة متاعنا. /  في الcommunauté الصغيرة متاعنا، نساندو الناس لكل.
 
-We want everyone to grow and thrive in their careers.
+# We want everyone to grow and thrive in their careers.
 نحبّو الناس لكل تقدّم وتنجح في الكاريار متاعها.  / نحبّو الناس لكل تقدّم وتنجح في الcarrière متاعها. 
 
-Are you open to teaching on weekends?
+# Are you open to teaching on weekends?
 تقبل تقرّي في الويكاند؟ / ميسالش تقرّي في les weekend ؟  / تقبل تقرّي في الويكاند؟ / ميسالش تقرّي weekend ؟  /  ميسالش تقرّي بالويكاند ؟
 
-Where can we change her diaper?
+# Where can we change her diaper?
 فين انّجمو نبدّلولها كوشها ؟ / فين ننجّمو نبدّلو الcouche متاعها ؟
 
-It's such a beautiful morning today!
+# It's such a beautiful morning today!
 محلاه الطقس اليوم الصباح! / محلاه الصباح هذا! / صباح يهبّل اليوم!
 
-Come take a walk with me.
+# Come take a walk with me.
 إيجا تمشّى معايا. / ايجا ونّسني في الدورة متاعي.
 
-You are the reason I came home.
+# You are the reason I came home.
 على خاطرك جيت للدار. /  على خاطرك إنتي رجعت للدار.
 
-Her blood pressure has gotten really low.
+# Her blood pressure has gotten really low.
 الpression متاع الدم متاعها طاحت برشا. / ضغط الدم متاعها طاح برشا.
 
-We can win this match if we work together.
+# We can win this match if we work together.
 انجّمو نربحوه الماتش هذا كان نعاونو بعضنا. /  انجّمو نربحوه الماتش هذا كان نخدمو مع بعضنا. 
 
-How is your research going?
+# How is your research going?
 قاعدة تقدّم الrecherche متاعك  ؟ / شعامل في الروشارش متاعك ؟ / شعاملة في الروشارش متاعك؟
 
-That girl is in my class.
+# That girl is in my class.
 الطفلة هاذيكا تقرى معايا. / الطفلة هاكي معايا في نفس الclasse.
 
-I've seen that guy in school before.
+# I've seen that guy in school before.
 ريتو الشخص هذاكا في المدرسة قبل.  / ريت الراجل هذاكا في المدرسة قبل.
 
-I come to work so early every day.
+# I come to work so early every day.
 نجي نخدم بكري كلّ يوم. / نجي للخدمة بكري كلّ يوم. / النهارات لكل نجي للخدمة بكري. 
 
-Let's buy some food, I'm hungry!
+# Let's buy some food, I'm hungry!
 هيّا نشريو شوية ماكلة، جعت! / هيا نشريو غلّة، أنا جيعان! / هيّا نشريو شوية ماكلة، جعت! / هيا نشريو غلّة، جعت أنا!
 
-Can I talk to you before you go home?
+# Can I talk to you before you go home?
 انجّم نحكي معاك قبل ما تروّح للدار ؟  / ننجّم نحكي معاك قبل ما تمشي للدار ؟  / انجّم نحكي معاك قبل ما ترجع للدار ؟ 
 
-He cooked this chiken himself.
+# He cooked this chiken himself.
 طيّبها وحدو الدجاجة. / وحدو طيّبها الدجاجة. 
 
-You are the best teacher ever.
+# You are the best teacher ever.
 إنتي أحسن أستاذ في التاريخ. / أحسن أستاذ انتي.  / إنتي أحسن أستاذة في التاريخ.  / أحسن أستاذة انتي. 
 
-Don't force him to play with other kids.
+# Don't force him to play with other kids.
 ما تقلّوش إلعب بالسيف مع الصغار الآخرين. / ما تفورسيهش بش يلعب مع الصغار الآخرين. 
 
-Can I offer you a ride home?
+# Can I offer you a ride home?
 انجّم نوصّلك معايا للدار ؟  / انجّم نوصّلك في طريقي للدار ؟ 
 
-Boys, that's enough playing for today.
+# Boys, that's enough playing for today.
 الأولاد، كهو يزي ماللعب اليوم.  / الأولاد، كهو يزيو ماللعب اليوم.  / الأولاد، كهو وفى اللعب اليوم. 
 
-You both need to change into your sleep clothes now.
+# You both need to change into your sleep clothes now.
 لازمكم إنتوما الاثنين تلبسوا حوايج النوم توّ. / لازمكم إنتوما الاثنين تلبسوا دبش النوم توّ. 
 
-I just want you to get the best education.
+# I just want you to get the best education.
 نحبّك تقرى أحسن قراية وكهو.
 
-Although she felt tired, she still couldn't sleep.
+# Although she felt tired, she still couldn't sleep.
 بالرغم ملّي تاعبة، ما نجّمتش ترقد. / ماهيش منجّمة ترقد بالرغم إلّي تاعبة. 
 
-Do you think she will still remember me after ten years?
+# Do you think she will still remember me after ten years?
 تتصوّرها مازالت بش تتذكرني بعد بعشرة سنين؟ / تتصوّرها تتذكرني بعد بعشرة سنين؟
 
-Her foot got caught in one of the ropes.
+# Her foot got caught in one of the ropes.
 ساقها تشربكت في واحد مالحبولة.
 
-This is the second time she came late this month.
+# This is the second time she came late this month.
 ثاني مرّة الشهر هذا توصل مخّر. / ثاني مرّة الشهر هذا تجي مخّر. 
 
-There's a boy in her class who keeps pulling her hair.
+# There's a boy in her class who keeps pulling her hair.
 فما طفل في الclasse قاعد ديما يجبدلها في شعرها.  / فما طفل في الكلاس قاعد ديما يجبد فيها من شعرها. 
 
-Maybe we can have ice cream for dessert.
+# Maybe we can have ice cream for dessert.
 ممكن ننجمو ناكهو glace في الdessert. 
 
-He took a step toward her.
+# He took a step toward her.
 قدّم خطوة تجاهها. 
 
-Will you be able to send me your report today?
+# Will you be able to send me your report today?
 بش تنجّم تبعثلي الرابور متاعك اليوم؟ / بش تبعثلي الرابور متاعك اليوم؟ 
 
-The cat ran off with the dog.
+# The cat ran off with the dog.
 القطّوس هرب مع الكلب.
 
-Everything is on sale.
+# Everything is on sale.
 كل شي soldé. 
 
-I love what you're wearing!
+# I love what you're wearing!
 محلاها لبستك !
 
-Wait, give me time to process everything you're telling me.
+# Wait, give me time to process everything you're telling me.
 لحظة، أعطيني شوية وقت بش نخمّم فلّي قلتهولي لكل. / لحظة، أعطيني شوية وقت بش نتشرّب إلّي قلتهولي لكل.
 
-I love music.
+# I love music.
 نحبّ الموسيقى. / نحبّ الموزيكا. / نحبّ الموسيقى أنا. / نحبّ الموزيكا أنا. / أنا نحبّ الموسيقى. / أنا نحبّ الموزيكا.
 
-Around 20 people attended.
+# Around 20 people attended.
 قريب عشرين شخص حضروا. / متاع عشرين شخص حضروا. 
 
-How did that appear out of nowhere?
+# How did that appear out of nowhere?
 كيفاش طلعت هاذي ماليحط؟ / منين جات هاذي ياخي؟
 
-I'm actually just heading out.
+# I'm actually just heading out.
+أنا بطبيعتي خارج توّ.
 
-I'm going to buy these shoes.
+# I'm going to buy these shoes.
 بش نشري الصباط هذا. / بش نشريه الصباط هذا. 
 
-He's probably still asleep.
+# He's probably still asleep.
 ممكن راهو مازال راقد. / Probablement مازال راقد. / مازال راقد probablement. / 
 
-Give him a break.
+# Give him a break.
 وحدة وحدة عليه. /  أعطيه راحة. / أعطيه pause. 
 
-Is it alright if you wait for a few minutes?
+# Is it alright if you wait for a few minutes?
 ميسالش كان تستنى دقيقة من زمان؟ / ميسالش كان تستنى دقيقة؟ / تستنى دقيقة ميسالش ؟ / تستنى دقيقة من زمان ميسالش ؟
 
-This blow dryer has served me well for years.
+# This blow dryer has served me well for years.
 استمعلتو بالباهي السيشوار هذا في الأعوام إلّي فاتت.  / استمعلتو بالباهي السيشوار هذا في السنين إلّي تعدّات. / صلحلي برشا السيشوار هذا في السنين إلّي تعدّات. 
 
-Let's visit the Sunday market.
+# Let's visit the Sunday market.
 هيا نمشيو لسوق الأحد. / خلي نمشيو لسوق الأحد. / هيا نعملو دورة في سوق الأحد. 
 
-I don't want my cat to die, let's take him to the vet please.
+# I don't want my cat to die, let's take him to the vet please.
 ما نحبّوش يموت القطوس متاعي، هيا نهزّوه للvétérinaire / ما نحبّهاش تموت القطوسة متاعي، هيا نهزّوها للvétérinaire.
 
-Please send the package to my address.
+# Please send the package to my address.
 أبعث الcoli للأدريسة متاعي باللاهي. /  أبعث الcoli للأدريسة متاعي من فضلك. 
 
-You can't expect much from their poor service.
+# You can't expect much from their poor service.
 ما تنجمش تنتظر حاجة كبيرة مالservice التاعب متاعهم.
 
-I can't wait to go home!
+# I can't wait to go home!
 وقتاش نروّح للدار!
 
-I did sense that something was not okay.
+# I did sense that something was not okay.
 كنت حاسس إلّي فما حاجة مش عادية. /  كنت حاسس إلّي فما حاجة مش مريڤلة. 
 
-He is going to build his dream house.
+# He is going to build his dream house.
 بش يبني دار الأحلام متاعو. / باش يبني الدار إلّي طول عمرو يحلم بيها.
 
-You can stay with me for two or three weeks.
+# You can stay with me for two or three weeks.
 تنجم تقعد بحذايا جمعتين ولّا ثلاثة.
 
-Be careful, you might fall.
+# Be careful, you might fall.
 ردّ بالك لا تطيح. / ردّ بالك بش ما تطيحش. / سايس روحك لا تطيح. / سايس روحك بش ما تطيحش. 
 
-I left my phone at home!
+# I left my phone at home!
 خلّيت تاليفوني في الدّار. / خلّيت بورتابلويا في الدّار.  / نسيت تاليفوني في الدّار. / نسيت بورتابلويا في الدّار. 
 
-What's your plan this time?
+# What's your plan this time?
 شنوه الplan متاعك المرّة هاذي ؟
 
-Don't cut your hair.
+# Don't cut your hair.
 ما تقصّش شعرك. / ما تقصّوش شعرك. 
 
-We met in college.
+# We met in college.
 تقابلنا في الفاك. / تعرّفنا على بعضنا في الfac. / تقابلنا في الجامعة. / تعرّفنا على بعضنا في الجامعة. 
 
-Music is an interest of mine.
+# Music is an interest of mine.
 مغروم الموسيقى. / نحبّ الموسيقى. / نحبّ الغناء. 
 
-Death is such a heavy topic for me.
+# Death is such a heavy topic for me.
 الموت موضوع ثقيل عليّا برشا.
 
-What course did you take up in college?
+# What course did you take up in college?
 شنيه الماتيارات إلّي قريتها في الفاك؟ / شنوه قريت في الفاك؟
 
-Is there someone who can go with you?
+# Is there someone who can go with you?
 فما شكون ينجّم يمشي معاك؟
 
-What an exciting experience!
+# What an exciting experience!
 تجربة رائعة ! / تجربة هايلة !
 
-I'm scared to check what's behind that door.
+# I'm scared to check what's behind that door.
 إلّي وراء الباب هذاكا مخوّفني. / خايف ملّي وراء الباب هاكا.
 
-I can't reach him, he won't answer his phone.
+# I can't reach him, he won't answer his phone.
 ما نجّمت نتحصّل عليه، ما يهزّش التاليفون. / ما نجّمت نتحصّل عليه، ما هزّش عليّا التاليفون. / ما تحصّلتش عليه، ما يهزّش التاليفون. / ما تحصّلتش عليه، ما هزّش عليّا التاليفون.
 
-This is a small business.
+# This is a small business.
 حانوت صغير هذا.
 
-Smoking can kill you.
+# Smoking can kill you.
 الدخان ينجّم يقتلك. / ينجم يقتلك الدخان راهو. / ينجم يقتل الدخان راهو. / السّواڤر ينجموا يقتلوك. /  السّواڤر ينجموا يقتلوك راهم. 
  
-I have six books about Psychology.
+# I have six books about Psychology.
 عندي ستّة كتب على البسيكولوجيا. /   عندي ستّة كتب على الpsychologie. /   عندي ستّة كتب على علم النّفس. 
 
-Wow, the effect of that mascara is great!
+# Wow, the effect of that mascara is great!
 واو، محلاه عليك الماسكارا هذاكا! / واو، يهبّل عليك الmascara.
 
-Can I use your phone?
+# Can I use your phone?
 ننجّم نستعمل تاليفونك ؟  / انّجّم نستعمل تاليفونك ؟  / ننجّم نستعمل بورتابلوك ؟  / انّجّم نستعمل بورتابلوك ؟ 
 
-Yeah, he did call me earlier.
+# Yeah, he did call me earlier.
 ايه، طلبني قبيلة. / ايه، طلبني هو قبيلة.
 
-He did suggest that to me.
+# He did suggest that to me.
 ايه اقترحها عليّا الحكاية. 
 
-Where's the remote control?
+# Where's the remote control?
 فين الcommande ؟ / فينها الcommande ؟ / الcommande فين ؟
 
-It's so challenging to discipline kids these days.
+# It's so challenging to discipline kids these days.
 ياسر صعيبة التربية متاع الصغار الأيامات هاذي. / صعيبة برشا التربية متاع الصغار الأيامات هاذي. / صعيبة برشا التربية متاع الصغار هالأيامات. 
 
-I don't care about what you think.
+# I don't care about what you think.
  ما يهمّنيش فيه رايك.
 
-Perhaps we can arrive at a compromise.
+# Perhaps we can arrive at a compromise.
 ممكن ننجمو نلقاو حلّ وسط.  / ممكن ننجمو نلقاو مفاهمة. 
 
-I am running late for my doctor's appointment.
+# I am running late for my doctor's appointment.
 بش نوصل مخّر للrendez-vous متاعي الطبيب. / بش يولّي مخّر علىrendez-vous الطبيب متاعي. 
 
-That test was so hard.
+# That test was so hard.
 الامتحان هذاكا كان صعيب برشا.
 
-Is anyone else coming?
+# Is anyone else coming?
 فما شكون آخر جاي؟ / فما بخلافك شكون آخر جاي؟ / فما عباد أخرى جايّة؟
 
-Can we pass by the grocery store?
+# Can we pass by the grocery store?
+انّجّمو نتعدّاو للحانوت ؟ / ننجّمو نتعدّاو للحانوت ؟
 
-She was my former housemate.
+# She was my former housemate.
 كنّا نسكنو مع بعضنا قبل. / كانت تسكن معايا قبل.
 
-We can sell your old chairs online.
+# We can sell your old chairs online.
 ننجمو نبيعو كراسيك القدم مالانترنات.
 
-It's a major issue for the project.
+# It's a major issue for the project.
 مشكلة كبيرة في الprojet.
 
-Sometimes I forget to turn off the porch lights.
+# Sometimes I forget to turn off the porch lights.
 ساعات ننسى ضو الشارع يخدم.  / ساعات ننسى ضو الشارع يشعل.
 
-They'll require you to show your I.D.
+# They'll require you to show your I.D.
 بش يطلبوا عليك بطاقة تعريف. 
 
-Can I tag along?
+# Can I tag along?
 ننجّم نجي معاك؟ / ننجّم نجي معاكم؟ / انجّم نجي معاكم؟ / انجّم نجي معاك؟ 
 
-They can take care of themselves.
+# They can take care of themselves.
 ينجّموا يتلهاو برواحهم. / ينجّموا يتلاهاو برواحهم. 
 
-I read her report and it was great!
+# I read her report and it was great!
 قريت الرابور متاعها، حاجة هايلة.
 
-She's going to play the role of Eva.
+# She's going to play the role of Eva.
 بش تلعب دور إيفا.
 
-Your singing has gotten so much better!
+# Your singing has gotten so much better!
 تحسّنت برشا في الغناء. / غناك تحسّن برشا.
 
-Some countries are facing an economic crisis.
+# Some countries are facing an economic crisis.
 فما بلدان قاعدة تواجه في crise économique.
 
-The government must make an effort to solve this problem.
+# The government must make an effort to solve this problem.
 الدولة لازمها تعمل مجهود بش تحلّ المشكلة هاذي. / الدولة لازمها تعمل مجهود بش تحلّو المشكل هذا.
 
-His grades have gone up.
+# His grades have gone up.
 نوتاتو تحسّنوا. /  نوتاتو تحسّنت.  
 
-Could you help me move this table?
+# Could you help me move this table?
 تنجم تعاونّي نهزّ الطاولة هاذي؟ / تنجم تعاوني ؟ نحبّ نحرّك الطاولة هاذي. / تنجم تعاونّي في الهزّان متاع الطاولة هاذي؟ / تنجم تعاوني بش نحرّك الطاولة هاذي؟
 
-I need to fill up my gas tank.
+# I need to fill up my gas tank.
 لازمني نعمل plein essence. 
 
-I represent my family.
+# I represent my family.
 أنا نمثّل عايلتي.
 
-Turn off your phone and the TV and focus on your studies!
+# Turn off your phone and the TV and focus on your studies!
 صكّر تاليفونك والتلفزة وركّز على قرايتك.
 
-Don't drop the eggs!
+# Don't drop the eggs!
 ما تطيّحش العضم! 
 
-Let's make a plan.
+# Let's make a plan.
 هيا نعملو plan. / خلّينا نعملو plan. 
 
-The hospital needs people to give blood.
+# The hospital needs people to give blood.
 السبيطار حاشتو بالعباد بش تعطي دمّ.  / السبيطار حاشتو بالعباد تعطي دمّ. / السبيطار حاشتو بعباد تعطي دمّ. 
 
-Once upon a time, a princess lived in a castle.
+# Once upon a time, a princess lived in a castle.
 كان يا مكان في قديم الزمان، أميرة تعيش في قصر.
 
-Let's contract an agency to help with marketing.
+# Let's contract an agency to help with marketing.
 هيا نكونتاكتيو agence بش يعاونونا في الmarketing. 
 
-The door says "push", not "pull".
+# The door says "push", not "pull".
 الباب يقول دزّ مش إجبد.
 
-I love walking in nature!
+# I love walking in nature!
 نحبّ المشي في الطبيعة. 
 
-My favorite color is blue.
+# My favorite color is blue.
 لوني المفضّل هو الأزرق. / نحبّ الأزرق أكثر لون. 
 
-Close the door, please.
+# Close the door, please.
 صكّر الباب يعيّشك. / صكّر الباب باللاهي.  / يعيّشك صكّر الباب.
 
-The dog did not make a sound.
+# The dog did not bark.
+الكلب ما نبحش.
 
-I enjoy Coke. 
+# I enjoy Coke. 
 نحبّ الكوكا.  / نحبّ الڤازوز.
 
-The legal documents need to be signed.
+# The legal documents need to be signed.
 الوثائق القانونية لازمهم يتصحّحوا. 
 
-She is very religious, she attends church weekly.
+# She is very religious, she attends church weekly.
 متديّنة هي، تمشي للكنيسية كلّ جمعة.
 
-My feet are cold.
+# My feet are cold.
 ساقيا ڤرسانين. / سقيا مڤلّصين. / ساقيّا بردوا.
  
-The divorce was final last month.
+# The divorce was final last month.
 الطلاق تحكم فيه الشهر إلّي فات. / الطلاق ولّى officiel الشهر إلّي فات.  / الطلاق تحكم فيه الشهر الفايت. / الطلاق ولّى officiel الشهر الشهر الفايت.  
 
-The main problem is a lack of money.
+# The main problem is a lack of money.
 المشكل الأساسي هو نقص الفلوس. / نقص الفلوس هو أكبر مشكل. / نقص الفلوس هو المشكل الأساسي.
 
-He studies geology at the university.
+# He studies geology at the university.
 يقرى جيولوجيا في الفاك.
 
-The grass is green.
-الgazon أخضر.
+# The grass is green.
+الgazon أخضر. / الحشيش أخضر.
 
-He has a good memory.
+# He has a good memory.
 عندو ذاكرة باهية. / عندو mémoire باهية. 
 
-They sent me a card for my birthday.
+# They sent me a gift for my birthday.
+بعثولي هدّية في عيد ميلادي. / بعثولي un cadeau pour mon anniversaire.
 
-Look on the shelf above the sink.
+# That's a comfortable seat.
+مرتاح الكرسي هاذاكا. / مرتاحة القعدة لغادي.
 
-That's a comfortable seat.
-
-Your body is made of millions of cells.
+# Your body is made of millions of cells.
 بدنك متكوّن من ملايين الخلايا. / بدنك فيه ملايين الخلايا.
 
-They established their business in 1942.
+# They established their business in 1942.
 لنصاو الbusiness متاعهم في 1942. / لنصاو الbusiness متاعهم عام 1942.
  
-That's a very nice car.
+# That's a very nice car.
 محلاها الكربة هاكي. / قداش مزيانة الكرهبة هاذيكا. / الكربة هاكي ياسر مزيانة. / الكربة هاذيكا ياسر مزيانة. 
 
-They are employing her on a trial basis.
+# They are employing her on a trial basis.
 خدّموها أما مازالت في période d'essai. 
 
-He was an IT expert.
+# He was an IT expert.
 كان informaticien هو. / كان informaticien. / هو كان informaticien. 
 
-Did you see that movie?
+# Did you see that movie?
 شفتو الفيلم هذاكا ؟ / تفرّجت فيه الفيلم هاكا؟
 
-Spring is the most beautiful season.
+# Spring is the most beautiful season.
 الربيع هو أزين فصل. / أزين فصل الربيع. / الربيع هو أحلى فصل. / أحلى فصل الربيع. 
 
-The Democrats control the Senate.
+# The Democrats control the Senate.
 الحزب الديمقراطي متحكّم في مجلس الشيوخ. 
 
-I listen to the radio in the car.
+# I listen to the radio in the car.
 نسمع الراديو في كرهبة. / نسمع الرديون في الكرهبة. / الradio نسمعو في الكرهبة.
 
-We visited the museum today.
+# We visited the museum today.
 مشينا للمتحف اليوم. / مشينا اليوم للمتحف. / زرنا المتحف اليوم. 
 
-She cares for her mother at home.
+# She cares for her mother at home.
 قاعة تتلهى بأمّها في الدار. / لاهية بأمّها في الدّار. 
 
-Would you like to go out tonight?
+# Would you like to go out tonight?
 تحبّ تخرج الليلة ؟ / تحبّ نخرجو الليلة ؟ / تحبّشي نخرجو الليلة؟ / شقولك نخرجو الليلة. / شقولك كان نخرجو الليلة. / تحبّ تخرج اليوم في الليل ؟ / تحبّ نخرجو اليوم في الليل ؟ / تحبّشي نخرجو اليوم في الليل؟ / شقولك نخرجو اليوم في الليل. / شقولك كان نخرجو اليوم في الليل. 
 
-He threw the ball to the dog.
+# He threw the ball to the dog.
 رمى الكورة للكلب. / رمالو الكورة الكلب.
 
-I said ‘no,' please don't ask again.
+# I said ‘no,' please don't ask again.
+قلت لا أكهو، مش لازم تعاود تطلب نفس الشي مرة أخرى. 
 
-Close the window, please.
+# Close the window, please.
 صكّر الشباك يعيّشك. / صكّر الشبّاك باللاهي. / تصكّر الشباك ؟ 
 
-Did you finish your homework?
+# Did you finish your homework?
 كمّلت قرايتك؟ / كمّلت خدمتك؟
 
-You gave yourself a haircut?
+# You gave yourself a haircut?
 قصّيت شعرك وحدك؟ / شعرك قصّيتو وحدك ؟ / وحدك قصّيتو شعرك؟
 
-He talks a lot.
+# He talks a lot.
 يحكي برشا. / ياسر يحكي. / ياسر حدّاث.  / حدّاث. 
 
-In theory, that's a good plan.
+# In theory, that's a good plan.
 نظريّا، plan باهي هذا. / نظريّا الplan هذا باهي.
 
-He hasn't responded to my text yet.
+# He hasn't responded to my text yet.
 مازال ما جاوبنيش على ميساجاتي. 
 
-Exercise helps you maintain a healthy weight.
+# Exercise helps you maintain a healthy weight.
 الsport يخلّيك تحافظ على وزن صحّي.
 
-I need to charge my phone.
+# I need to charge my phone.
 لازمني نشرجي تاليفوني. / لازم نشرجي البورتابل متاعي.
 
-That's a popular restaurant.
+# That's a popular restaurant.
 الريستو هاذاكا معروف. 
 
-They serve traditional Italian food there.
+# They serve traditional Italian food there.
 يسربيو ماكلة طليانيّة تقليدية لهنا. / يسربيو لنّا ماكلة italienne traditionnelle. 
 
-Jump onto the boat and we'll go fishing.
+# Jump onto the boat and we'll go fishing.
 اركب في البطّو وهيّا نمشيو نصطادو. / اركب في الفلوكة وهيّا نمشيو نصطادو. / اركب في الفلوكة بش نمشيو نصطادو.
 
-Washing off the dirt revealed the boy's skinned knee.
-
-What direction is the city from here?
+# Washing off the dirt revealed the boy's skinned knee.
+كي غسل ساقو مالوسخ ضهرت إلّي ساقو مسلوخة.
+ 
+# What direction is the city from here?
 من أنو جهة نمشي للمدينة من هنا ؟ / وسط المدينة في أنو جهة؟
 
-No weapons are allowed in government buildings.
+# No weapons are allowed in government buildings.
 الأسلحة ممنوعة في البنايات الحكوميّة.  / الأسلحة ممنوعة في البنايات إلّي تابعة الحكومة. 
 
-That store only has three employees.
+# That store only has three employees.
 الحانوت فيه ثلاثة خدّامة. / ثلاثة مالنّاس يخدموا فيه الحانوت. 
 
-There is cultural significance to those old ruins.
+# There is cultural significance to those old ruins.
+الآثار هاذوكم عندهم قيمة تاريخيّة.
 
-World leaders gathered for peace talks.
+# World leaders gathered for peace talks.
  زعماء العالم إجتمعوا لمحادثات سلام. 
 
-My head hurts.
+# My head hurts.
 راسي يوجع. / راسي يوجع فيّا. / يوجع فيّا راسي. 
 
-Keep control of the car.
+# Keep control of the car.
 اتحكّم في الكرهبة. / خلّيك مسيطر على الكرهبة.
 
-I have chest pain.
+# I have chest pain.
 عندي  وجيعة في صدري. 
 
-Maria applied for the job.
+# Maria applied for the job.
 ماريا صبّت فيها الخدمة. 
 
-The children play at the park.
+# The children play at the park.
 الصغار يلعبوا في البارك. / الصغار يلعبوا في الparc. 
 
-Measure twice, cut once.
+# Measure twice, cut once.
 قيس مرّتين، قصّ مرّة وحدة. 
 
-Don't shake the can of soda.
+# Don't shake the can of soda.
 ما تخضّش الcannette. / ما تخضخضش الcannette.
 
-He shuffled the deck of cards. 
+# He shuffled the deck of cards. 
 مشكى الكارطة.
 
-We can fly to France next year.
+# We can fly to France next year.
 ننجّمو نسافرو لفرانسا عام الجاي.  / ننجّمو نمشيو لفرانسا العام الجاي. 
 
-My job interview went well.
+# My job interview went well.
 الانترفيو متاعي تعدّى هايل. / الانترفيو متاعي تعدّى بالباهي. / الانترفيو متاعي تعدّى باهي. / الانترفيو متاعي تعدّى بالڤدا. / الinterview متاعي تعدّى هايل. / الinterview متاعي تعدّى بالباهي. / الinterview متاعي تعدّى باهي. / الinterview متاعي تعدّى بالڤدا.
 
-Did you manage to find the keys?
+# Did you manage to find the keys?
 نجّمت تلقى المفاتح؟ /  لقيت المفاتح؟
 
-I don't enjoy eating fish.
+# I don't enjoy eating fish.
 ما نحبش ناكلو الحوت. 
 
-That particular style looks good on you.
+# That particular style looks good on you.
 الستيل هذاكا يخرج عليك. / الستيل هاذاكا يواتيك. / ياسر مزيان عليك الستيل هاذاكا.
 
-I use the camera on my phone.
+# I use the camera on my phone.
 نستعمل الكاميرا متاع بورتابلويا. / كاميرا البورتابل نستعملها.
 
-The building's structure is solid.
+# The building's structure is solid.
 الstructure متاع البنية صحيحة.  / البنية شادّة روحها.
 
-He was very active in politics.
+# He was very active in politics.
 كان actif برشا في السياسة. / كان متسيّس برشا. / كان يخدم برشا سياسة.
 
-The singer will perform tonight.
+# The singer will perform tonight.
 المطرب بش يغنّي الليلة. / المغنّي الليلة بش يغنّي. 
 
-It rained a little bit last night.
+# It rained a little bit last night.
 صبّت شوية شتاء اللّيلة إلّي فاتت.  / صبّت شوية مطر اللّيلة إلّي فاتت. / صبّت شوية اللّيلة إلّي فاتت. / صبّت شوية شتاء البارح في اللّيل. 
 
-Keep track of your cat's weight.
+# Keep track of your cat's weight.
 إصبر وتفقّد الوزن متاع القطّوس متاعك. / تابع الوزن متاع قطّوسك. / تابع الوزن متاع القطّوس متاعك. / إصبر واتفقّد الوزن متاع قطّوسك. / قطّوسك تفقّدلو الوزن متاعو كل مدّة
 
-You'll discover treasures at that shop. 
+# You'll discover treasures at that shop. 
 تو تكتشف كنوز فيه الحانوت هذاكا.
 
-There are ten candidates for the position.
+# There are ten candidates for the position.
 فما عشرة كانديداوات للposte هذا. / فمّا dix candidats للposte هذا.
 
-The flag flies on the top of that building.
+# The flag flies on the top of that building.
 العلم يرفرف فوق البنية هاذيكا. / العلم يرفرف فوق البنية هاكي. 
 
-Factory production has improved over the summer.
+# Factory production has improved over the summer.
 الproduction متاع المعمل تحسّنت في الصيف. / إنتاجيّة المعمل تحسّنت في الصيف.
 
-Give yourself a treat for a job well done.
+# Give yourself a treat for a job well done.
 كافئ روحك مادامك خدمت خدمة باهية.  / كافئ روحك على خدمتك الباهية. 
 
-We are taking a trip to Florida in January.
+# We are taking a trip to Florida in January.
 ماشين لفلوريدا في جانفي. / بش نعملو voyage لفلوريدا في جانفي. 
 
-I'm staying home this evening.
+# I'm staying home this evening.
 بش نقعد في الدار العشية هاذي. /  بش نقعد في الدار العشويّة هاذي. / بش نشدّ الدار العشية هاذي. /  بش نشدّ الدار العشويّة هاذي. 
 
-The cat stays inside.
+# The cat stays inside.
 القطّوس يقعد الداخل. / القطّوس يقعد لداخل. /  يقعد لداخل القطّوس .
  
-There will experts presenting at the conference.
+# There will experts presenting at the conference.
 بش يكونوا فما des expert يقدّموا في الconférence. 
 
-A foot is a unit of measure.
+# A foot is a unit of measure.
 القدم وحدة قيس.
 
-Those are the best glasses to buy.
+# Those are the best glasses to buy.
 هاذوكم أحسن ليناتات يتشراو. 
 
-My dress is out of style.
+# My dress is out of style.
 الروبة متاعي dépassée. / روبتي ستيلها قديم.
 
-Adults pay full price, but children are free.
+# Adults pay full price, but children are free.
 الكبار يخلّصوا سوم كامل أما الصغار بلاش. / الكبار يخلّصوا كل شي أما الغشاشر بلاش.  / الكبار يخلّصوا أما الصغار لا. /  الكبار يخلّصوا أما الغشاشر لا.
 
-Don't worry about tomorrow.
+# Don't worry about tomorrow.
 ما تقلّقش روحك في ما يخصّ غدوة. / في خصوص غدوة من غير ما تقلّق روحك. 
 
-My doctor offered me a range of options.
+# My doctor offered me a range of options.
 الطبيب متاعي عطاني برشا أوبسيونات.  / طبيبي إقترح عليّا برشا أوبسيونات. / طبيبي إقترح عليّا plusieurs options. 
 
-Can you mention me in your story?
+# Can you mention me in your story?
 تنجّم تذكريني في قصّتك. / تنجم تجبدني في حكايتك؟ / تنجّم تدخّلني في قصّتك؟
 
-Rather than focusing on the bad things, let's be grateful for the good things.
+# Rather than focusing on the bad things, let's be grateful for the good things.
 في عوض ما نركّزو على الحاجات الخايبة، خلّي نحمدو ربّي على الحاجات الباهية. / في عوض ما نركّزو على الخايب،  خلّي نحمدو ربّي على الباهي.
 
-I don't want to move far from my family.
+# I don't want to move far from my family.
 ما نحبّش ننقّل بعيد على عايلتي. / ما نحبّش انّقّل بعيد على عائلتي.  / ما نحبّش نبعد على عائلتي.
 
-
-He is very religious, he goes to the mosque every day.
+# He is very religious, he goes to the mosque every day.
 متديّن برشا هو، يمشي للجامع كل يوم. / متديّن برشا هو، يمشي  كل يوم للجامع. / هو ياسر متديّن، يمشي للجامع كل يوم. / هو ياسر متديّن، يمشي  كل يوم للجامع.
 
-
-That poem about life is deep.
+# That poem about life is deep.
 ياسر عميقة القصيدة هاذيكا إلّي تحكي على الحياة. / القصيدة إلّي تحكي على الحياة ياسر عميقة. 
 
-Please face front.
+# Please face front.
 اغزر لقدام من فضلك. /  قبّل لقدام يعيشك. / قبل القدّام باللاهي. 
 
-Please do not stand so close to the edge.
+# Please do not stand so close to the edge.
 يعيّشك إبعد على الحافة.  / إبعد على الحافة من فضلك. / ابعد على الحافة باللاهي. 
 
-Could you be more specific?
+# Could you be more specific?
 تنجم تكون أوضح شوية؟ / تنجّم تزيد توضّح؟
 
-You are a good writer.
+# You are a good writer.
 ياسر تعرف تكتب. / تعرف تكتب بالباهي. / تكتب بالباهي إنتي. / هايلة الكتيبة متاعك. 
 
-Stay out of trouble.
+# Stay out of trouble.
 أقعد بعيد على المشاكل. / أقعد بعيدة على المشاكل. / خليك بعيد على المشاكل. / خليك بعيدة على المشاكل.
 
-It is necessary to sleep.
+# It is necessary to sleep.
 لازم منّو النوم. / النوم لازم منّو. / النوم ضروري. 
 
-Throughout my life I have always enjoyed reading.
+# Throughout my life I have always enjoyed reading.
 طول عمري نحبّ القراية. / طول عمري نحبّ نقرى. / طول عمري نحبّ المطالعة. / طول عمري نعمل جوّ على المطالعة. 
 
-I challenge you to do better.
+# I challenge you to do better.
 نتحدّاك كان تنجّم تعمل ما خير. 
 
-You are beautiful.
+# You are beautiful.
 محلاك. / مزينك. / ماحلاك. / قداكش مزيانة.
 
-Do you have any fears?
+# Do you have any fears?
 عندك حاجات تخاف منها ؟ / من شنوه تخاف؟ / شنوه يخوّفك؟
 
-You do not have to shoulder all the work on your own.
+# You do not have to shoulder all the work on your own.
 ماكش obligé هزّ الخدمة لكل على ضهرك.  / ماكش مطالب تهزّ الخدمة لكل على ضهرك. / ماكش مطالب تهزّ وحدك الخدمة لكلها على ضهرك. 
 
-I am a middle child with one older brother and one younger sister.
+# I am a middle child with one older brother and one younger sister.
 أنا الخو الوسطاني، عندي خو أكبر  منّي وأخت صغيرة. / أنا الأخت الوسطانية مع خو أكبر وأخت أصغر مني. / أنا الأخت الوسطانية، زيد عندي خو كبير وأخت صغيرة. 
 
-I want to sail the seven seas.
+# I want to sail the seven seas.
 نحبّ ندور البحور السبعة.  / نحبّ نبحر في البحور السبعة. 
 
-I have a dream.
+# I have a dream.
 عندي حلمة. / عندي حلم.
 
-A bar is a place where alcohol is served.
+# A bar is a place where alcohol is served.
 البار هو بلاصة يتسربى فيها الآلكول. /  البار بلاصة يتسربى فيها الشراب. 
 
-You are so beautiful.
+# You are so beautiful.
 محلاك. / مزينك. / ماحلاك. / قداكش مزيانة.
 
-Do you own property, like a house?
+# Do you own property, like a house?
 عندك ملك، كيما دار مثلا؟ / عندك ملك، دار مثلا؟
 
-Instead of eating cake I will have fruit.
+# Instead of eating cake I will have fruit.
 في عوض ما ناكل gâteau تو ناخو غلّة. / في عوض ناكل ڤطّو تو ناخذ غلّة. / في عوض ناكل ڤطّو بش ناكل غلّة.
 
-I am always looking for ways to improve.
+# I am always looking for ways to improve.
 ديما قاعد نلوّج كيفاش انجّم نتحسّن.  / ديما قاعد نشوف كيفاش نحسّن روحي. 
 
-When I moved, I realized I have a lot of stuff!
+# When I moved, I realized I have a lot of stuff!
 وقتلّي جيت ننقّل لقيت روحي عندي برشا دبش ! / وقتلّي جيت ننقّل لقيت روحي عندي برشا ڤربج ! / وقتلّي جيت ننقّل لقيت روحي عندي برشا حاجات ! 
 
-I claim to be a fast reader, but actually I am average.
+# I claim to be a fast reader, but actually I am average.
 نقول إلّي أنا نقرى فيسع، أمّا في الحقيقة نقرى بسرعة عادية.
 
-Please decide where to eat.
+# Please decide where to eat.
 هيا قرّر فين ناكلو. /  يلا قرّر  فين بش ناكلو. / باللاهي اختارلنا بلاصة ناكلو فيها. / هيا اختارلنا بلاصة ناكلو فيها. / هيا شوفلنا فين ناكلو.
 
-How would you rate the hotel's service?
+# How would you rate the hotel's service?
 شقولك في الservice متاع الhôtel. / شقولك في سرفيس الأوتيل.
 
-She got the patent for the drug she has created to cure cancer.
+# She got the patent for the drug she has created to cure cancer.
 خذات الbrevet متاع الدواء إلّي اخترعتّو بش تداوي السرطان. / خذات الbrevet متاع الدواء إلّي اخترعتّو بش تداوي الcancer. 
 
-Can you show me how to solve this puzzle?
+# Can you show me how to solve this puzzle?
 تنجّم تورّيني كيفاش نحلّو الpuzzle هذا؟  / تنجّم تورّيني كيفاش يتحلّ الpuzzle هذا؟ 
 
-He was a wonderful boss.
+# He was a wonderful boss.
 كان عرف هايل.
 
-Watch her face light up when you mention his name.
+# Watch her face light up when you mention his name.
 شوف كيفاش وجّها ينوّر كل ما يتذكر إسمو.
 
-Hearing his mom's voice is all he need right now.
+# Hearing his mom's voice is all he need right now.
+هذاكا إلّي كان مستحقّو هو في الوقت هذا، أنو يسمع صوت أمّو.
 
-My wife is away for the weekend.
+# My wife is away for the weekend.
 مرتي ماهيش في الدار ويكاند كامل. / مرتي ماهيش في الدار الويكاند هذا. / المادام ماهيش في الدار ويكاند كامل. / المادام ماهيش في الدار الويكاند هذا.
 
-I have the whole house to myself.
+# I have the whole house to myself.
 وحدي في الدار. / الدار لكل ليا وحدي.
 
-The police have questioned him about the accident.
+# The police have questioned him about the accident.
 البوليسية سئلوه على الaccident.
 
-The police have questioned him about what happened.
+# The police have questioned him about what happened.
 البوليسية سئلوه على إلّي صار.
 
-This relaxation technique really eases my mind.
+# This relaxation technique really eases my mind.
 الméthode de relaxation هاذي تريّحلي مخي. / الméthode de relaxation هاذي ترتّحلي مخي. 
 
-I can finally move out from my old house.
+# I can finally move out from my old house.
 أخيرا انجّم ننقّل من داري القديمة.
 
-My baby niece likes to pull my hair.
+# My baby niece likes to pull my hair.
 بنت خويا الصغيرة تحب تجبدلي شعري. / بنت أختي الصغيرة تحب تجبدلي شعري.
 
-The best things in life are free.
+# The best things in life are free.
 أحلى حاجات في الدنيا مجانيّين.
 
-His dad is in the military.
+# His dad is in the military.
 بابا تابع الجيش. / بابا يخدم في الميليتار. /  بابا تابع الجيش. / بابا يخدم في الmilitaire.  / بابا تابع الجيش. 
 
-Did you call the police?
+# Did you call the police?
 كلّمت البوليسية؟ / كلّمت الحاكم؟
 
-Did you report this to the police?
+# Did you report this to the police?
 شكيت للبوليسية؟
 
-I am praying for less stress this coming new year.
+# I am praying for less stress this coming new year.
 إن شاء الله العام الجاي يكون فيه أقل ستراس. / إن شاء الله العام الجاي يكون فيه أقل stress. / قاعد ندعي بش العام الجاي يكون فيه أقل stress.  / قاعد ندعي بش العام إلّي جاي يكون فيه أقل stress. 
 
-According to the weather report, it's going to rain today.
+# According to the weather report, it's going to rain today.
 قالوا في النشرة الجوية إلّي بش تصبّ اليوم.  / قالوا في النشرة الجوية إلّي المطر بش تصبّ اليوم.  / قالوا في النشرة الجوية إلّي الشتاء بش تصبّ اليوم.  / في النشرة الجوية قالوا إلّي المطر بش تصبّ اليوم. / في النشرة الجوية قالوا إلّي بش تصبّ اليوم.  / في النشرة الجوية قالوا إلّي الشتاء بش تصبّ اليوم.  / حسب النشرة الجوية المطر بش تصبّ اليوم.  / حسب النشرة الجوية بش تصبّ اليوم.  / حسب النشرة الجوية الشتاء بش تصبّ اليوم. 
 
-This is a big decision for me.
+# This is a big decision for me.
 هذا قرار كبير ليّا. 
 
-I'll explain everything later, I promise.
+# I'll explain everything later, I promise.
 نوعدك تو نفسّرلك كل شي مبعد. / آتو نفسّرلك كل شي مبعد، promis. /  تو نفسّرلك كل شي مبعد، نوعدك.
 
-His son is so cute!
+# His son is so cute!
 ولدها عسل! / ولدها عسّول ! / ولدها يهبّل ! / ولدها يقتل ! / عسل ولدها !  / يهبّل ولدها ! / يقتل ولدها !
 
-This view is amazing!
+# I hope I'll have a son one day.
+نتمنّى نولي بو نهار مالنهارات. / إن شاء الله يولّي عندي صغير نهار مالنهارات.
+
+# Even if they've broken up, they still remain friends.
+حتى وكان انفصلو، مازالوا أصحاب.  / حتى وكان انفصلو، قعدوا أصحاب. 
+
+# This view is amazing!
 المنظر هذا هايل ! / محلاه المنظر هذا ! / المنظر هذا يفتّق !  /  المنظر هذا يهبّل ! / الvue هاذي هايلة ! / محلاها الvue هاذي ! / الvue هاذي تفتّق !  /  الvue هاذي تهبّل ! 
 
-They've taken their relationship to the next level.
-
-Can you carry my bag for me?
+# Can you carry my bag for me?
 تنجّم تهزّلي ساكي ؟ / تهزّلي ساكي ؟
 
-This town is extremely quiet.
+# This town is extremely quiet.
 المدينة هاذي ياسر رايضة. / ياسر رايضة المدينة هاذي. 
 
-There's a road that leads to the woods.
+# There's a road that leads to the woods.
 فمّل ثنيّة تهزّ للغابة.
 
-You can't drive there, you need to walk.
+# You can't drive there, you need to walk.
 ما تنجمش تمشي لغادي بالكرهبة، لازم تمشي على ساقيك. / ما تنجمش توصل بالكرهبة، لازم تمشي على ساقيك. 
 
-He broke his arm during training.
+# He broke his arm during training.
 تكسّرت يدّو في الentrainement.
 
-It's true, I'm leaving the company.
+# It's true, I'm leaving the company.
 صحيحة الحكاية، بش نخرج منها الشركة. / بالرسمي بش نخرج مالشركة. 
 
-Don't break the law.
+# Don't break the law.
 ما تخرقش القانون.
 
-You better learn how to follow the rules.
+# You better learn how to follow the rules.
 من صلحتك كان تتعلّم تتبّع القواعد. / ماذابيك تتبّع القواعد. / من صلحتك كان تتعلّم إتّبّع القواعد. / ماذابيك إتّبّع القواعد. 
 
-What's the difference between happiness and contentment?
+# What's the difference between happiness and contentment?
 شنوه الفرق بين السعادة والرضا؟ / شنوه الفرق مابين السعادة والرضا؟ / الفرق شنوه بين السعادة والرضا؟ /  الفرق شنوه مابين السعادة والرضا؟
 
-I forgot to thank her for the peaches she sent us.
+# I forgot to thank her for the peaches she sent us.
 نسيت بش نشكرها على الخوخ إلّي بعثتهولنا. / نسيت ما شكرتهاش على الخوخ  إلّي بعثتهولنا.
 
-Did you receive the gift I sent you?
+# Did you receive the gift I sent you?
 وصلتك الهدية إلّي بعثتهالك ؟ / وصلتلك الهديّة إلّي بعثتهالك ؟ / الهديّة إلّي بعثتهالك أنا وصلتّك؟ 
 
-This building is so tall!
+# This building is so tall!
 مطولها البنية هاذي! /  قدّاش طويلة البنية هاذي ! / قدّاشها طويلة البنية!
 
-You next decision is going to be critical.
+# You next decision is going to be critical.
 القرار الجاي متاعك بش يكون حاسم. 
 
-My work load is so full now.
+# My work load is so full now.
 مبلّعة بالخدمة توّ.  / غارق في الخدمة توّ. / مبلّعة بالخدمة.  / غارق في الخدمة. / عندي برشا خدمة توّ.
 
-He wants to join the soccer team.
+# He wants to join the soccer team.
 يحبّ يدخل في الéquipe متاع الكورة.
 
-New Year's Eve is my favorite holiday! 
+# New Year's Eve is my favorite holiday! 
 العطلة المفظّلة متاعي هي راس العام. / راس العام أحسن عطلة عندي.
 
-Their company is holding a fund raiser.
+# Their company is holding a fund raiser.
 الشركة متاعهم  عاملة حملة متاع جمع تبرّعات. / الشركة متاعهم  عاملة حملة متاع تبرّعات.
 
-I'm going home because my mom needs me.
+# I'm going home because my mom needs me.
 ماشي للدار على خاطر ولدي يستحقّني. / مروّح للدار على خاطر ولدي يستحقّني.  / ماشية للدار على خاطر ولدي يستحقّني. / مروّحة للدار على خاطر ولدي يستحقّني. 
 
-How much is the income tax?
+# How much is the income tax?
 قداش الimpôt sur le revenu ؟ / قدّاش الضريبة على الدخل؟
 
-I'm too early for my appointment.
+# I'm too early for my appointment.
 وصلت بكري برشا للموعد متاعي. / وصلت بكري برشا للrendez-vous متاعي. / وصلت ياسر بكري للموعد متاعي. / وصلت ياسر بكري للrendez-vous متاعي. 
 
-Please position your hand properly when drawing.
+# Please position your hand properly when drawing.
 حطّ يدّك في الposition الصحيحة وانتي تصوّر. / كي تبدا تصوّر حطّ يدّك في الposition الصحيحة.
 
-That basketball player is very tall.
+# That basketball player is very tall.
 الjoueur هذاكا متاع الباسكات ياسر طويل. 
 
-I agree, he is right.
+# I agree, he is right.
 ايه عندو حقّ.
 
-I especially like his blue eyes.
+# I especially like his blue eyes.
 نحبّ بالأخصّ عينيه الزرق. / يعجبوني خاصّة عينيه الزرق. 
 
-Can you record the minutes of this meeting, please?
+# Can you record the minutes of this meeting, please?
 تنجّم تكتب الrapport de réunion ؟  / تنجّم تكتب الrapport متاع الإجتماع هذا ؟  /  تنجّم تكتب الrapport متاع الإجتماع ؟ /  تنجّم تكتب الrapport متاع الréunion ؟
 
-Could you buy some olive oil ?
+# Could you buy some olive oil ?
 تنجم تشري شوية زيت زيتونة ؟
 
-Did you pick a color already?
+# Did you pick a color already?
 إخترت couleur déjà ؟  /  إخترت لون déjà ؟
 
-Is that what you're going to wear for the party?
+# Is that what you're going to wear for the party?
 بش تلبس هذاكا للحفلة ؟ / هذاكا شنوه بش تلبس للحفلة ؟  /  هذاكا شنوه بش تلبس للحفلة ياخي ؟
 
-You can use a special paper for your invitations.
+# You can use a special paper for your invitations.
 تنجّم تستعمل ورق spécial للles invitations متاعك. /  تنجّم تستعمل ورق spécial بش تعمل les invitations متاعك. /  تنجّم تستعمل papier spécial بش تعمل les invitations متاعك. /  تنجم تعمل les invitations متاعك بورق spécial
 
-Some special paper are even scented!
+# Some special paper are even scented!
 فما أوراق فيهم ريحة جملة وحدة ! / فما حتى أوراق إلّي يكونوا فايحين! 
 
-Please leave some space to write down your phone number.
+# Please leave some space to write down your phone number.
 خلّي شوية espace بش تكتب نومرو التاليفون متاعك. 
 
-The ground is shaking.
+# The ground is shaking.
 القاعة قاعدة ترڤل. / القاعة قاعدة ترڤل. / الأرض قاعدة ترڤل.
 
-A new island was formed after that big earthquake.
+# A new island was formed after that big earthquake.
+بعد الزلزال الكبير إلّي صار، تعملت جزيرة جديدة.  / بعد الزلزال الكبير إلّي صار، تخلقت جزيرة جديدة.  / الزلزال الكبير إلّي صار خلق جزيرة جديدة. / الزلزال الكبير إلّي صار خلق دزيرة جديدة.
 
-I need your support for this project.
+# I need your support for this project.
 حاشتي بالدّعم متاعك للprojet هذا. / حاشتي بالدّعم متاعك في الprojet هذا. / نستحقّ الدّعم متاعك  في الprojet هذا. / حاشتي بيك تعاونّي في الprojet هذا. / نستحقّك معايا في الprojet هذا. / نستحقّك معايا في الprojet هذا. 
 
-We're holding a big event tonight.
+# We're holding a big event tonight.
 عندنا évènement كبير الليلة. 
 
-Our official wedding photos are finally out!
+# Our official wedding photos are finally out!
 تصاور العرس متاعنا أخيرا حضروا ! 
 
-Whose umbrella is this?
+# Whose umbrella is this?
 السحابة متاع شكون هاذي ؟ / هاذي سحابة شكون ؟ 
 
-What does it matter anyway?
+# What does it matter anyway?
 شنية الإظافة في الحالات لكل ؟  / علاش مهمّة الحكاية جملة ؟
 
-Everyone thinks I stole that file.
+# Everyone thinks I stole that file.
+العباد لكل فيبالها إلّي أنا سرقتو الدوسي هذاكا. / العباد لكل ماشي فيبالها إلّي أنا سرقتو الدوسي هذاكا. / النّاس لكل فيبالها إلّي أنا سرقتو الدوسي هذاكا. / النّاس لكل ماشي فيبالها إلّي أنا سرقتو الدوسي هذاكا. / النّاس لكل ماشي فيبالها إلّي أنا سرقتو الdossier هذاكا.
 
-I hate being the center of attention.
+# I hate being the center of attention.
 ما نحبّش نكون مركز الإهتمام. / ما نحبّش العباد لكلّ تبدا مركّزة معايا. 
 
-The couple is on their honeymoon now.
+# The couple is on their honeymoon now.
 الكوبل في العسل توّ.  / الcouple توّ في شهر العسل راهم.
 
-This site is so big!
+# This site is so big!
 قداش كبيرة البلاصة !
 
-This project is due tomorrow.
+# This project is due tomorrow.
 الprojet هذا لازم يوفى قبل غدوة. / غدوة آخر date ليه الprojet هذا. / غدوة آخر date للprojet هذا.  / غدوة الdeadline متاع الprojet هذا. / الprojet هذا الdeadline متاعو غدوة راهو. /  الprojet هذا الdeadline متاعو غدوة. 
 
-He hit the burglar with a bat.
+# He hit the burglar with a bat.
 ضرب السرّاق بعصى. 
 
-There's a basketball court near our house.
+# What activity can you suggest for my toddler?
+شنية الactivité إلّي تنجّم تقترحها لولدي الصغير.
+
+# My son can draw a star!
+ولدي ينجّم يصوّر نجمة !
+
+# I saw draw something on the table.
+ريتو يصوّر في حاجة على الطاولة. / شفتو يصوّر في حاجة عالطاولة.
+
+# I need to enroll him to a good preschool.
+لازم نقيّدو في روضة باهية.
+
+# There's a basketball court near our house.
 فمّا terrain متاع باسكات قريب من دارنا. / فمّا terrain متاع باسكات مش بعيد على دارنا.
 
-My sister is married to an Italian. 
+# My sister is married to an Italian. 
 أختي ماخذة طلياني.
 
-I love to teach English lessons.
+# I love to teach English lessons.
 نحبّ نقرّي دروس متاع anglais. 
 
-Could you buy me some cooking oil at the store?
+# Could you buy me some cooking oil at the store?
 تنجم تشري شوية زيت مالحانوت ؟
 
-Just half a liter please.
+# Just half a liter please.
 نص إيترة وكهو باللاهي.  / Juste نص إيترة وكهو باللاهي.  / نص إيترة وكهو يعيشك.  / Juste نص إيترة وكهو يعيشك.  / بربي نص إيترة وكهو. / نص ليترة وكهو باللاهي.  / Juste نص ليترة وكهو باللاهي.  / نص ليترة وكهو يعيشك.  / Juste نص ليترة وكهو يعيشك.  / بربي نص ليترة وكهو.
 
-The situation is getting out of hand.
+# The situation is getting out of hand.
 الوضعية قاعدة تفلت من يديا. / الوضعية قاعدة تفلت مابين يديا. / الوضعية قاعدة تفلت مني . / الوضعية قاعدة تدخل بعضها. / الوضعية بش تدخل في حيط. 
+ 
+# I thought you said this was going to be easy?
+فيبالي بيك قلت إلّي ساهلة الحكاية هاذي.
 
-What area do you work in?
+# The cost of fuel has increased!
+سوم الessence زاد.
+
+# I can't bear to face this horrendous traffic again and again.
+فدّيت منها الcirculation هاذي، ديما هكّا. 
+
+# Let's cross the street.
+هيا نشقّو الكيّاس.
+
+# There's an image of him stored inside my mind.
+وجهو محفور في مخّي. / وجهو محفور في الذاكرة متاعي.  
+
+# The bike itself is pretty awesome.
+هايلة البسكلة.
+
+# I think he has a phone charger.
+نتصوّر عندو chargeur  متاع تاليفون. / ضاهرلي عندو شارجور متاع تاليفون.
+
+# What area do you work in?
 في أنو zone تخدم؟ / في أنو partie تخدم؟
 
-Well, let's see.
+# Well, let's see.
 خنشوفو. / خلّي نشوفو. / هيا نشوفو. / تو نشوفو.
 
-Bye-bye. 
+# Bye-bye. 
 باباي. /  باي باي. / بالسلامة. / فيلامان. / في أمان الله.  
 
-Let's catch up soon, please!
+# Let's catch up soon, please!
 نعاودو نتقابلو قريب إن شاء الله. / نعاودو نتقابلو قريب بقدرة ربي.
 
-Watch your step.
+# Watch your step.
 ردّ بالك فين تمشي.
 
-Right, right.
+# Right, right.
 ايه ايه.
 
-Uh Uh.
+# Uh Uh.
 آه آه.
 
-Okay.
-باهي. / OK. / أوكي.
+# The evidence clearly shows that he is guilty.
 
-I'll buy window curtains next week.
+# I'll buy window curtains next week.
 توّ نشري ريدوات الجمعة الجاية. /   توّ نشري des rideaux الجمعة الجاية. 
 
-Sometimes, life can be difficult.
+# Sometimes, life can be difficult.
 ساعات الحياة تنجم تكون صعيبة. / ساعات الحياة تكون صعيبة. / ساعات تصعب العيشة. / ساعات العيشة تكون صعيبة. / الحياة تنجم تكون صعيبة ساعات. / الحياة ساعات تكون صعيبة. / تصعب العيشة ساعات. / العيشة تكون صعيبة ساعات.
 
-You have to listen to your teacher.
+# You have to listen to your teacher.
 لازمك تسمع كلام بروفك. / لازمك تسمع كلام البروف متاعك.  / لازمك تسمع كلام أستاذك. / لازمك تسمع كلام الأستاذ متاعك. 
 
-I will launch my course soon.
+# I will launch my course soon.
 قريب بش نلنصي الكور متاعي. / باش نبدى الcours متاعي على قريب. / بش نبدى الcours متاعي شوية آخر.
 
-I hope they understand our culture better.
+# I hope they understand our culture better.
 نتمنى كان جاو ينجّموا يفهموها الثقافة متاعنا خير.
 
-My target is to have as much money as possible in my account by the end of the year.
+# My target is to have as much money as possible in my account by the end of the year.
 الهدف متاعي أنّي نلمّ أكثر فلوس ممكنة في الcompte متاعي منّا لآخر العام. / الهدف متاعي أنّي نلمّ أكثر فلوس ممكنة في الcompte متاعي منّا لاخر العام. / الهدف متاعي أنّي نلمّ أكثر فلوس ممكنة في الcompte متاعي منّا حتى لآخر العام. / عندي هدف أنّي نلمّ أكثر فلوس ممكنة في الcompte متاعي منّا لآخر العام. / عندي هدف أنّي نلمّ أكثر فلوس ممكنة في الcompte متاعي منّا لاخر العام. / عندي هدف أنّي نلمّ أكثر فلوس ممكنة في الcompte متاعي منّا حتى لآخر العام. / الهدف متاعي أنّي نلمّد أكثر فلوس ممكنة في الcompte متاعي منّا لآخر العام. / الهدف متاعي أنّي نلمّد أكثر فلوس ممكنة في الcompte متاعي منّا لاخر العام. / الهدف متاعي أنّي نلمّد أكثر فلوس ممكنة في الcompte متاعي منّا حتى لآخر العام. / عندي هدف أنّي نلمّد أكثر فلوس ممكنة في الcompte متاعي منّا لآخر العام. / عندي هدف أنّي نلمّد أكثر فلوس ممكنة في الcompte متاعي منّا لاخر العام. / عندي هدف أنّي نلمّد أكثر فلوس ممكنة في الcompte متاعي منّا حتى لآخر العام. / عندي objectif أنّي نلمّ أكثر فلوس ممكنة في الcompte متاعي منّا لآخر العام. / عندي objectif أنّي نلمّ أكثر فلوس ممكنة في الcompte متاعي منّا لاخر العام. / عندي objectif أنّي نلمّ أكثر فلوس ممكنة في الcompte متاعي منّا حتى لآخر العام. / نحبّ نلمّ قد ما ننجّم فلوس في الcompte متاعي منّا لآخر العام. / عندي objectif أنّي نلمّد أكثر فلوس ممكنة في الcompte متاعي منّا لآخر العام. / عندي objectif أنّي نلمّد أكثر فلوس ممكنة في الcompte متاعي منّا لاخر العام. / عندي objectif أنّي نلمّد أكثر فلوس ممكنة في الcompte متاعي منّا حتى لآخر العام.
 
-Is there any chance that you can do this for me?
+# Is there any chance that you can do this for me?
 فماش إمكانية أنّك تعملهالي الحكاية هاذي؟ / فمّا إمكانية أنّك تعملهالي الحكاية هاذي؟
 
-My brother always have my back.
+# My brother always have my back.
 خويا ديما واقف معايا.
 
-Put that energy into sports or arts.
+# Put that energy into sports or arts.
 حطّ الطاقة هاذيكا في الsport ولّا الفن. / حطّ الطاقة هاذيكا في الsport ولّا les arts. / حطّ الénergie هاذيكا في الsport ولّا الفن.
 
-I'll go to the beach in summer.
+# I'll go to the beach in summer.
 تو نمشي في الصيف للبحر. / تو نمشي للبحر في الصيف.  / تو في الصيف نمشي للبحر.
 
-I just realize that I have a meeting today.
+# I just realize that I have a meeting today.
 توّ فقت إلّي عندي إجتماع اليوم. / توّ فقت إلّي عندي réunion اليوم. / توّ تفكّرت إلّي عندي إجتماع اليوم. / توّ تفكّرت إلّي عندي réunion اليوم. 
 
-I have a hundred dollars that I can lend you.
+# I have a hundred dollars that I can lend you.
 عندي مياة دولار انجّم نسلّفهملك. / عندي 100 دولار انجّم نسلّفهملك.
 
-I am available to work on your project.
+# I am available to work on your project.
 متواجد أنا ننجم نخدم على الprojet متاعك.  / أنا متواجد ننجم نخدم على الprojet متاعك. / Disponible أنا ننجم نخدم على الprojet متاعك. / أنا disponible ننجم نخدم على الprojet متاعك. 
 
-Plant a seed.
+# Plant a seed.
 إغرس بذرة.
 
-It's probably a pig's trail.
+# It's probably a pig's trail.
 هاذي probablement trace متاع حلّوف. / هاذي probablement trace متاع خنزير. / ضاهر فيه حلّوف تعدّى من هنا. 
 
-It was the perfect opportunity to test her theory.
+# It was the perfect opportunity to test her theory.
 كانت أحسن فرصة بش اتّستي فيها النظرية متاعها. / كانت أحسن فرصة بش اتّستي فيها الthéorie متاعها.
 
-He stayed at the hotel.
+# He stayed at the hotel.
 قعد في الأوتيل. / قعد فلوتيل.
 
-Do you know the condition I am in?
+# Do you know the condition I am in?
 تعرف شنية حالتي ياخي؟ / تعرفها حالتي كيفاش أنا؟ / فيبالك بالحالة إلّي أنا فيها؟
 
-I have no choice.
+# I have no choice.
 ما عنديش choix.
 
-It's the rule of the law.
+# Let's meet at the bus stop.
+نتلاقاو في الarrêt متاع الbus. / نتلاقاو في الarrêt متاع الكار.
+
+# I am a single mother.
+أنا أمّ عازبة.
+
+# It's the rule of the law.
 هاذي هي سيادة القانون. / هاكي هي سيادة القانون. / سيادة القانون هاذيكا.
 
-My daughter knows how to read now.
+# My daughter knows how to read now.
 بنتي تعلّمت تقرى.  / بنتي توّ ولّات تنجّم تقرى.
 
-I will take this up with the administration.
+# I will take this up with the administration.
 بش نوصّلها للإدارة الحكاية هاذي.  / بش نوصّلو للإدارة الموضوع هاذا. 
 
-I am headed south.
+# I am headed south.
 هابط للجنوب. / ماشي للجنوب أنا. / أنا ماشي للجنوب. 
 
-That test was very hard.
+# That test was very hard.
 التاست هاذاكا ياسر صعيب. / التاست كان صعيب برشا.
 
-The library has many online resources.
+# The library has many online resources.
 الbibliothèque عندها برشا حاجات accessible en ligne. / الbibliothèque عندها برشا حاجات accessible مالانترنات.
 
-I can't identify that plant.
+# I can't identify that plant.
 ما نعرفش شنية الplante هاذي.
 
-The door is on your left.
+# The door is on your left.
 الباب على يسارك.
 
-Right.
+# We'll have a staff meeting after lunch.
+عندها إجتماع متاع الstaff بعد الفطور. / عندنا بعد الفطور إجتماع في الخدمة.
+
+# Right.
 ايه. / صحيح.
 
-Set the oven to 300 degrees.
+# Can you give me an example ?
+ تنجّم تعطيني example ؟
+
+# Set the oven to 300 degrees.
 حطّ الfour يسخن في 300 درجة.
 
-The army will attack at dawn.
+# The army will attack at dawn.
 الجيش بش ياتاكي في الفجر. / الجيش بش يزدم في الفجر. / الجيش بش ياتاكي مع الفجر. / الجيش بش يزدم مع الفجر.
 
-Well, I work in HR, so we have to dress kind of nice.
+# Well, I work in HR, so we have to dress kind of nice.
 نخدم في الRH ، معناها لازمي نلبس بالباهي. / نخدم في الressources humaines ، معناها لازمي نلبس بالباهي. / نخدم في الRH ، يعني لازمي نلبس بالباهي. / نخدم في الressources humaines ، يعني لازمي نلبس بالباهي. / نخدم في الRH ، معناها لازمي نلبس بلڤدا. /  نخدم RH ، معناها لازمي نلبس بلڤدا. / نخدم في الressources humaines ، معناها لازمي نلبس بلڤدا. / نخدم في الRH ، يعني لازمي نلبس بلڤدا. / نخدم في الressources humaines ، يعني لازمي نلبس بلڤدا.
 
-She bought herself a new coat.
+# She bought herself a new coat.
 شرات لروحها كبّوط جديد.
 
-What internet providers are in your region?
+# What internet providers are in your region?
 شنوما les fournisseurs d'accés إلّي موجودين في جهتك؟
 
+# I don't watch much television.
+ما نتفرجش برشا فيها التلفزة. / ما نتفرّجش برشا في التلفزة. / مانيش مغروم بالفرجة في التلفزة.
+
+# I packed my dishes in a strong box.
+حطيت الماعون متاعي في كرضونة صحيحة. / حطيت الماعون متاعي في كردونة صحيحة.
+
+# There is a good movie on TV tonight.
+فمّا فيلم باهي في التلفزة اللّيلة.  / فمّا فيلم باهي في التلفزة اليوم في اللّيل. 
+
+# The company will pay for your training.
+الشركة هي إلّي بش تخلّص الformation متاعك. / الشركة هي إلّي توّ تخلّص الformation متاعك. / الشركة هي إلّي تخلّص الformation متاعك. / الشركة بش تخلّص الformation متاعك. / الشركة توّ تخلّص الformation متاعك.
+
+# That is a pretty dress.
+محلاها الرّوبة.
+
+# Who do you think will win the election?
+حسب رايك شكون بش يربح في الإنتخابات؟ / حسب رايك شكون بش يربحها الإنتخابات؟ / حسب رايك شكون بش يخرج رابح في الإنتخابات؟ / تتصوّر شكون بش يربح في الإنتخابات؟ / تتصوّر شكون بش يربحها الإنتخابات؟ / تتصوّر شكون بش يخرج رابح في الإنتخابات؟ / شكون بش يربح زعمة في الإنتخابات؟
+
+# Everybody likes ice cream.
+الناس لكل تحبّ الglace. / العباد لكل تحبّ الglace. / العباد لكل يحبّوا الglace. 
+
+# Keep a physical distance of two meters.
+اقعد بعيد زوز ميترو. / اقعد بعيد زوز أمتار. / خلّيك بعيد زوز ميترو. / خلّيك بعيد زوز أمتار.
+
+# I didn't expect his response to come so soon.
+ما تصوّرتوش بش يجاوب بالسرعة هاذي.
+
+# My phone is dead, let me charge it.
+تاليفوني déchargé، خليني نشرجيه.
+
+# The sun will rise at 7:00 a.m.
+الشمس تطلع السبعة متاع الصباح.
+
+# What kind of animal is that?
+شنوه نوعيتو الحيوان هذاكا.
+
+# I've lived in this city for over a decade.
+عشت فيها المدينة هاذي أكثر من عشرة سنين.
+
+# Did you read that newspaper article?
+قريتو الarticle هذاكا في الجريدة؟
+
+# I paid a little more for quality shoes.
+دفعت أكثر شوية بش ناخو صباط بqualité  باهية.
+
+# There is no pressure to finish right now.
+ما فماش حتىpression بش نكملو توّ.
+
+# Will you accept my credit card?
+ننجم نخلّص بالكارطة؟
+
+# Give me your answer by noon tomorrow.
+أعطيني جوابك قبل غدوة نص النهار. 
+
+# I'll prepare breakfast tomorrow.
+تو نحضّر فطور الصباح غدوة. / تو نعمل أنا فطور الصباح غدوة.
+
+# I made a list of things to do.
+عملت ليستة متاع الحاجات إلّي بش نعملها.
+
+# Lay the baby in her crib, please.
+حطّ الbébé في الberceau متاعو باللاهي. / حطّ الbébé في السرير متاعو باللاهي. / يعيّشك حطّ الbébé في الberceau متاعو.
+
+# My general impression of the restaurant was good.
+الimpression générale متاعي باهية كانت عليه الresto.  / الimpression générale متاعي باهية كانت عليه الrestaurant.  / الإنطباع العامّ متاعي باهية كانت عليه الresto.  / الإنطباع العامّ متاعي باهية كانت عليه الrestaurant. 
+
+# I have a good feeling about this.
+عندي إحساس باهي تجاه الحكاية هاذي. 
+
+# The standard fee is $10.00.
+السوم الstandard هو $10.00. 
+
+# The electrician will send me a bill.
+الélectricien بش يبعثلي فاتورة.
+
+# You have a text message on your phone.
+جاك SMS في البورتابل.  / جاك ميساج في البورتابل.  / جاك message في البورتابل.  / جاك SMS في بورتابلوك.  / جاك ميساج في بورتابلوك.  / جاك message في بورتابلوك. 
+
+# I fail to see what is so funny about that.
+ما فهمتش شنوّه إلّي يضحّك فيه الموضوع هذاكا. / ما فهمتش شنوّه إلّي يضحّك فيه الموضوع هاكا. / ما فهمتش شنوّه إلّي يضحّك فيه الموضوع. / ما فهمتش شنوّه إلّي يضحّك فيها الحكاية.
+
+# The cat goes outside sometimes.
+القطّوس يخرج لبرّا ساعات. / القطّوسة تخرج لبرّا ساعات. /  القطّوس يخرج لبرّا مالدّار ساعات. / القطّوسة تخرج لبرّا مالدّار ساعات. 
+
+# I either walk or commute to work.
+يا نمشي على ساقيا يا ناخو transport بش نمشي للخدمة.
+
+# How can we simplify this data?
+كيفاش انجّمو نبسّطوهم les données هاذوما؟
+
+# Could you cover for me during emergencies?
+تنجّم تسدّ عليّا وقت الطوارئ؟
+
+# Please take notes during the lesson.
+خوذ des notes في الcours. 
+
+# I feel fine.
+لاباس عليا. / حاسس بروحي لاباس.
+
+# Before the movie, let's buy popcorn!
+هيا نشريو قطانية قبل الفيلم. / هيا نشريو قطانية قبل ما ندخلو للفيلم. 
+
+# Please tell me the truth.
+قول الحقيقة من فضلك. / قول الحقيقة يعيّشك.
+
+# That's a beautiful song.
+مزيانة الغناية هاذيكا. 
+
+# I need an example, please.
+حاشتي بexemple باللاهي. / حاشتي بexemple.  
+
+# Does Australia have a new government?
+ياخي أستراليا عندها gouvernement جديد؟
+
+# Please check my work to be sure it's correct.
+باللاهي ثبّتلي في خدمتي خلّي نتأكّد إلّي صحيحة.  / باللاهي ثبّتلي في خدمتي بش نتأكّد إلّي صحيحة.  / باللاهي فيريفيلي خدمتي خلّي نتأكّد إلّي صحيحة.  / باللاهي فيريفيلي خدمتي بش نتأكّد إلّي صحيحة. 
+
+# We live in a healthy environment.
+نعيشو في environnement صحّي. / نعيشو في بيئة صحّية.
+
+# The boy broke his leg.
+الطفل كسر ساقو. / تكسرت ساقو الطفل.
+
+# Turn on the light, it's dark in here.
+حلّ الضوّ، ظلام الدنيا لهنا.  / حلّ الضوّ، ظلام الدنيا لنّا. / شعّل الضوء، ظلام الدنيا لنّا.
