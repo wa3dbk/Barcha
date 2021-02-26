@@ -42,8 +42,28 @@ List of named entities :
 ### Todo : 
 
 - [ ] Collect more raw text data in Tunisian arabic.
+- [ ] Develop cleaning / spelling correction scripts for Tunisian arabic.
+- [ ] Develop CODA-compatible normalization scripts for Tunisian arabic. 
+- [ ] Develop Arabizi / arabic conversion scripts. 
 - [ ] Develop scrapers for Tunisian news/forums websites. 
 - [ ] Build parallel datasets for machine translation between Tunisian <-> english / MSA.
 - [ ] Develop translation systems for Tunisian <-> English and Tunisian <-> MSA.
 
 
+
+
+
+## References 
+**CODA:**
+Habash, Nizar, Mona T. Diab, and Owen Rambow.  *"Conventional Orthography for Dialectal Arabic."* LREC. 2012.
+
+Zribi, Inès, et al. *"A Conventional Orthography for Tunisian Arabic.*" LREC. 2014.
+
+Turki, Houcemeddine, et al. *"A conventional orthography for maghrebi arabic."* Proceedings of the International Conference on Language Resources and Evaluation (LREC), Portoroz, Slovenia. 2016.
+
+**Arabizi :**
+Darwish, Kareem. *"Arabizi detection and conversion to Arabic." * arXiv preprint arXiv:1306.6755 (2013).
+
+Yaghan, Mohammad Ali. *"“Arabizi”: A contemporary style of Arabic Slang."* Design issues 24.2 (2008): 39-52.
+
+Masmoudi, Abir, et al. *"Transliteration of arabizi into arabic script for tunisian dialect."* ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 19.2 (2019): 1-21.
