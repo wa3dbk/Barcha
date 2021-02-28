@@ -1,19 +1,28 @@
 Accept  قبل يقبل
 Accuse  إتّهم يتّهم
 Achieve  عمل يعمل
-Acquire  دبّر يدبّر خذا ياخذ
-Adapt  تأقلم يتأقلم آدابتا يادابتي
-Add  زاد يزيد ضمّ يضمّ
-Adjust  عدّل يعدّل ريڤل يريڤل
+Acknowledge  شكر يشكر
+Acknowledge إعترف إعترفت
+Acquire  دبّر يدبّر
+Acquire خذا ياخذ
+Adapt  تأقلم يتأقلم
+Adapt آدابتا يادابتي
+Add  زاد يزيد
+Add ضمّ يضمّ
+Adjust  عدّل يعدّل
+Adjust ريڤل يريڤل
 Admire  أعجب يعجب
 Admit  اعترف يعترف
 Adopt  اتبنّى يتبنّى
 Adore  عشق يعشق
 Advise  نصح ينصح
-Afford  تحمّل يتحمّل عطى يعطي وفّر يوفّر
+Afford  تحمّل يتحمّل
+Afford عطى يعطي
+Afford وفّر يوفّر
 Agree  وافق يوافق
-Aim  ڤمّر يڤمّر 
-Allow  خلّى يخلّي سمح يسمح
+Aim  ڤمّر يڤمّر
+Allow  خلّى يخلّي
+Afford سمح يسمح
 Announce  أعلن يعلن
 Anticipate  توقّع يتوقّع
 Apologize  إعتذر يعتذر
@@ -23,96 +32,143 @@ Appreciate  قدّر يقدّر
 Approach  قرب يقرب
 Approve  وافق يوافق
 Argue  جادل يجادل
-Arise  نشأ ينشأ طلع يطلع
-Arrange  رتّب يرتّب نظّم ينظّم
-Arrive  وصل يوصل خلط يخلط
-Ask  سئل يسئل طلب يطلب
+Arise  نشأ ينشأ
+Arise طلع يطلع
+Arrange  رتّب يرتّب
+Arrange نظّم ينظّم
+Arrive  وصل يوصل
+Arrive خلط يخلط
+Ask  سئل يسئل
+Ask طلب يطلب
 Assume  افترض يفترض
 Assure  أكّد يأكّد
+Astonish  دهّش يدهّش
+Astonish صدم صدمت
 Attach  ربط يربط
 Attempt  حاول يحاول
 Attend  حضر يحضر
-Attract  جذب يجذب 
+Attract  جذب يجذب
 Avoid  تجنّب يتجنّب
-Awake  فاق يفيق قام يقوم استيقظ يستيقظ
-Bake  طيّب يطيّب خبز يخبز
-Bathe  عام يعوم دوّش يدوّش استحمّ يستحمّ
+Awake  فاق يفيق
+Awake قام يقوم
+Awake استيقظ يستيقظ
+Bake  طيّب يطيّب
+Bake خبز يخبز
+Bathe  عام يعوم
+Bathe دوّش يدوّش
+Bathe استحمّ يستحمّ
 Be  كان يكون
-Bear  تحمّل يتحمّل حمل يحمل
+Bear  تحمّل يتحمّل
+Bear حمل يحمل
 Beat  غلب يغلب
-Become  ولّى يولّي صار يصير
-Beg  ترجّى يترجّى توسّل يتوسّل تسوّل يتسوّل
+Become  ولّى يولّي
+Become صار يصير
+Beg ترجّى يترجّى
+Beg توسّل يتوسّل
+Beg تسوّل يتسوّل
 Begin  بدا يبدا
 Behave  تصرّف يتصرّف
 Believe  إعتقد يعتقد
 Belong  إنتمى ينتمي
-Bend  إنحنى ينحني عوّج يعوّج
-Bet  راهن يراهن خاطر يخاطر
+Bend  إنحنى ينحني
+Bend عوّج يعوّج
+Bet  راهن يراهن
+Bet خاطر يخاطر
 Bind  ربط يربط
-Bite  ڤدم يڤدم عضّ يعضّ
+Bite  ڤدم يڤدم
+Bite عضّ يعضّ
 Blow  نفخ ينفخ
 Boil  غلى يغلي
-Borrow  دبّر يدبّر تسلّف يتسلّف
-Bounce  قفز يقفز نڤّز ينڤّز
+Borrow  دبّر يدبّر
+Borrow تسلّف يتسلّف
+Bounce  قفز يقفز
+Bounce نڤّز ينڤّز
 Bow  إنحنى ينحني
-Break  خرق يخرق قسم يقسم
+Break  خرق يخرق
+Break قسم يقسم
 Breed  تكاثر يتكاثر
 Bring  جاب يجيب
-Broadcast  بثّ يبثّ نشر ينشر
+Broadcast  بثّ يبثّ
+Broadcast نشر ينشر
 Build  بنى يبني
 Burn  حرق يحرق
 Burst  إنفجر ينفجر
 Buy  شرى يشري
-Calculate  حسب يحسب كلكل يكلكل
-Can نجّم ينجّم  
-Care  إعتنى يعتني تلهى يتلهى
-Carry  هزّ يهزّ حمل يحمل
+Calculate  حسب يحسب
+Calculate كلكل يكلكل
+Can نجّم ينجّم 
+Care  إعتنى يعتني
+Care تلهى يتلهى
+Carry  هزّ يهزّ
+Carry حمل يحمل
 Catch  شدّ يشدّ
 Celebrate  إحتفل يحتفل
 Change  بدّل يبدّل
 Choose  إختار يختار
 Chop  قصّ يقصّ
 Claim  طالب يطالب
-Climb  تسلّق يتسلّق تشعبط يتشعبط
-Cling  تشبّث يتشبّث كبّش يكبّش
+Climb  تسلّق يتسلّق
+Climb تشعبط يتشعبط
+Cling  تشبّث يتشبّث
+Cling كبّش يكبّش
 Come  جاء يجي
-Commit  إرتكب يرتكب إلتزم يلتزم
-Communicate  تواصل يتواصل تعامل يتعامل
+Commit  إرتكب يرتكب
+Commit إلتزم يلتزم
+Communicate  تواصل يتواصل
+Communicate تعامل يتعامل
 Compare  قارن يقارن
 Compete  سابق يسابق
-Complain  تشكّى يتشكّى ڤنڤن يڤنڤن 
-Complete  كمّل يكمّل تمّ يتمّ
+Complain  تشكّى يتشكّى
+Complain ڤنڤن يڤنڤن
+Complete  كمّل يكمّل
+Complete تمّ يتمّ
 Concern  خصّ يخصّ
-Confirm  وافق يوافق كونفيرما يكونفيرمي
-Consent  شاور يشاور وافق يوافق
+Confirm  وافق يوافق
+Confirm كونفيرما يكونفيرمي
+Consent  شاور يشاور
+Consent وافق يوافق
 Consider  إعتبر يعتبر
 Consist  تمثّل يتمثّل
 Consult  شاور يشاور
 Contain  إحتوى يحتوي
-Continue  استمرّ يستمرّ كمّل يكمّل
-Convince  أقنع يقنع اقتنع يقتنع
+Continue  استمرّ يستمرّ
+Continue كمّل يكمّل
+Convince  أقنع يقنع
+Convince اقتنع يقتنع
 Cook  طيّب يطيّب
-Cost  سوى يسوى تكلّف يتكلّف
+Cost  سوى يسوى
+Cost تكلّف يتكلّف
 Count  حسب يحسب
 Crawl  زحف يزحف
-Create  خلق يخلق صنع يصنع عمل يعمل
-Creep  زحف يزحف تسلّل يتسلّل
+Create  خلق يخلق
+Create صنع يصنع
+Create عمل يعمل
+Creep  زحف يزحف
+Creep تسلّل يتسلّل
 Criticize  إنتقد ينتقد
 Cry  بكى يبكي
-Cut  قصّ يقصّ قطع يقطع
+Cut  قصّ يقصّ
+Cut قطع يقطع
 Dance  شطح يشطح
 Dare  جرأ يجرؤ
 Deal  تعامل يتعامل
 Decide  قرّر يقرّر
-Delay  وخّر يوخّر أخّر يوخّر
+Defer  أجّل يأجّل
+Defer دزّ دزّت
+Delay  وخّر يوخّر
+Delay أخّر يوخّر
 Deliver  وصّل يوصّل
 Demand  طلب يطلب
 Deny  رفض يرفض
 Depend  تربط يتربط
 Describe  وصف يوصف
 Deserve  إستاهل يستاهل
-Desire  حبّ يحبّ 
-Destroy  دمّر يكمّر هدّ يهدّ دڤدڤ يدڤدڤ
+Desire  حبّ يحبّ
+Destroy  دمّر يكمّر
+Destroy هدّ يهدّ
+Destroy دڤدڤ يدڤدڤ
+Determine  حدّد يحدّد
+Determine قرّر قرّرت
 Develop  طوّر يطوّر
 Differ  اختلف يختلف
 Disagree  خالف يخالف
@@ -125,7 +181,8 @@ Do  عمل يعمل
 Doubt  شكّ يشكّ
 Drag  كركر يكركر
 Dream  حلم يحلم
-Drill  حفر يحفر نقب ينقب
+Drill  حفر يحفر
+Drill نقب ينقب
 Drink  شرب يشرب
 Drive  ساق يسوق
 Drop  طيّح يطيّح
@@ -133,36 +190,56 @@ Dry  شاح يشيح
 Earn  دخّل يدخّل
 Eat  كلى ياكل
 Emphasize  أكّد يأكّد
-Enable  سمح يسمح خلّى يخلّي
+Enable  سمح يسمح
+Enable خلّى يخلّي
 Encourage  شجّع يشجّع
+Engage  جذب يجذب
+Engage شدّ شدّت
+Engage خدّم يخدّم
+Engage ناقش ناقشت
+Enjoy  تمتّع تمتّعت
 Ensure  أكّد يأكّد
 Enter  دخل يدخل
+Establish  أسّس يأسّس
+Establish عمل عملت
+Examine  فحص فحصت
+Examine إڤزامينا إڤزامينات
 Exist  توجد يتوجد
-Expand  انتشر ينتشر تمدّ يتمدّ 
+Expand  انتشر ينتشر
+Expand تمدّ يتمدّ
 Expect  انتظر ينتظر
 Experiment  اختبر يختبر
 Explain  فسّر يفسّر
 Explore  إكتشف يكتشف
-Fail  خسر يخسر 
+Fail  خسر يخسر
 Fall  طاح يطيح
 Feed  وكّل يوكّل
 Feel  حسّ يحسّ
-Fight  تعارك يتعارك عارك يعارك
+Fight  تعارك يتعارك
+Fight عارك يعارك
 Find  لقى يلقى
-Finish  كمّل يكمّل وفى يوفى
+Finish  كمّل يكمّل
+Finish وفى يوفى
 Fly  طار يطير
 Fold  طوى يطوي
 Follow  تبّع يتبّع
-Forbid  حرّم يحرّم منع يمنع
+Forbid  حرّم يحرّم
+Forbid منع يمنع
 Forget  نسى ينسى
 Forgive  سامح يسامح
-Freeze  جمّد يجمّد تجمّد يتجمّد ڤلّص يڤلّص
-Fry  قلى يقلي سمط يسمط
+Freeze  جمّد يجمّد
+Freeze تجمّد يتجمّد
+Freeze ڤلّص يڤلّص
+Fry  قلى يقلي
+Fry سمط يسمط
 Generate  جينيرا يجينيري
-Get  خذا ياخو دبّر يدبّر
+Get  خذا ياخو
+Get دبّر يدبّر
 Give  عطى يعطي
 Go  مشى يمشي
-Grow  كبر يكبر نمى يمنو نبت ينبت
+Grow  كبر يكبر
+Grow نمى يمنو
+Grow نبت ينبت
 Hang  شنق يشنق
 Happen  صار يصير
 Hate  كره يكره
@@ -172,13 +249,20 @@ Hesitate  تردّد يتردّد
 Hide  خبّى يخبّي
 Hit  ضرب يضرب
 Hold  شدّ يشدّ
+Hop  نڤّز ينڤّز
 Hope  أمل يأمل
 Hug  عنّق يعنّق
-Hurry زرب يزرب 
+Hurry زرب يزرب
 Hurt  وجع يوجع
-Ignore  طفّى يطفّي تجاهل يتجاهل
+Identify  حدّد يحدّد
+Identify ميّز يميّز
+Ignore  طفّى يطفّي
+Ignore تجاهل يتجاهل
+Illustrate  وضّح يوضّح
 Imagine  تخيّل يتخيّل
 Improve  حسّن يحسّن
+Include  تضمّن يتضمّن
+Incorporate  دمج يدمج
 Inform  أعلم يعلم
 Insist  كبّش يكبّش
 Insist شدّ-صحيح يشدّ-صحيح
@@ -191,20 +275,29 @@ Iron  حدّد يحدّد
 Jog  جرى يجري
 Jump  نڤّز ينڤّز
 Justify  برّر يبرّر
-Kick  ضرب يضرب ركل يركل 
+Keep  خلّى يخلّي
+Kick  ضرب يضرب
+Kick ركل يركل
 Kiss  باس يبوس
 Kneel  ركع يركع
-Know  عرف يعرف علم يعلم
+Know  عرف يعرف
+Know علم يعلم
 Lack  نقص ينقص
 Laugh  ضحك يضحك
-Lay  تمدّ يتمدّ اتكّى يتكّى
+Lay  تمدّ يتمدّ
+Lay اتكّى يتكّى
 Lead  قاد يقود
 Lean  اتكّى يتكّى
-Leap  نطّ ينطّ نڤّز ينڤّز
+Leap  نطّ ينطّ
+Leap نڤّز ينڤّز
 Learn  تعلّم يتعلّم
-Leave  هجر يهجر مشى يمشي هجّ يهجّ
-Lend  عطى يعطي سلّف يسلّف
-Lie كذب يكذب اتكّى يتكّى
+Leave  هجر يهجر
+Leave مشى يمشي
+Leave هجّ يهجّ
+Lend  عطى يعطي
+Lend سلّف يسلّف
+Lie كذب يكذب
+Lie اتكّى يتكّى
 Lift  هزّ يهزّ
 Light  شعّل يشعّل
 Like  عجب يعجب
@@ -212,32 +305,45 @@ Listen  سمع يسمع
 Look  شاف يشوف
 Lose  خسر يخسر
 Love  حبّ يحبّ
-Maintain  حافظ يحافظ خلّى يخلّي
-Make  عمل يعمل صنع يصنع
+Maintain  حافظ يحافظ
+Maintain خلّى يخلّي
+Make  عمل يعمل
+Make صنع يصنع
 Manage  تصرّف يتصرّف
+Matter  همّ يهمّ
 May  نجّم ينجّم
 Mean  قصد يقصد
 Measure  قاس يقيس
 Meet  لاقى يلاقي
 Melt  ذاب يذوب
 Mention  ذكر يذكر
-Might  نجم ينجم  أمكن يمكن
-Miss  تواحش يتواحش استاحش يستاحش نسى ينسى
+Might  نجم ينجم 
+Might أمكن يمكن
+Miss  تواحش يتواحش
+Miss استاحش يستاحش
+Miss نسى ينسى
 Mix  خلّط يخلّط
 Mow  معوى يمعوي
 Must  لزم يلزم
-Nag ڤنڤن يڤنڤن 
+Nag ڤنڤن يڤنڤن
 Need  استحق يستحق
 Neglect  طفّى يطفّي
+Negotiate  نيڤوسى ينيڤوسي
 Observe  شاف يشوف
 Obtain  خذا ياخذ
-Occur  حدث يحدث صار يصير
+Occur  حدث يحدث
+Occur صار يصير
 Offer  عطى يعطي
 Open  حلّ يحلّ
-Operate  قاد يقود استعمل يستعمل
+Operate  قاد يقود
+Operate استعمل يستعمل
 Order  أمر يؤمر
 Organize  نظّم ينظّم
 Overcome  قاوم يقاوم
+Overtake  تجاوز يتجاوز
+Overtake فات يفوت
+Overtake تفوّق يتفوّق
+Overtake غلب يغلب
 Owe  سال يسال
 Own  ملك يملك
 Paint  صوّر يصوّر
@@ -248,6 +354,7 @@ Perform  عمل يعمل
 Persuade  أقنع يقنع
 Pinch  قرص يقرص
 Plan  خطّط خطّط
+Plant غرس يغرس
 Play  لعب يلعب
 Point  شار يشير
 Possess  ملك يملك
@@ -255,23 +362,34 @@ Postpone  أجّل يأجّل
 Pour  صبّ يصبّ
 Practice  طبّق يطبّق
 Prefer  خيّر يخيّر
-Prepare   حضّر يحضّر
+Prepare حضّر يحضّر
 Pretend  فلّم يفلّم
 Prevent  منع ينمع
-Promise  وعد يوعد عاهد يعاهد
+Promise  وعد يوعد
+Promise عاهد يعاهد
 Propose  إقترح يقترح
 Protect  حمى يحمي
 Prove  أثبت يثبت
 Pull  جبد يجبد
 Punch  ضرب يضرب
+Pursue  تبّع يتبّع
+Pursue  تابع يتابع
 Push  دزّ يدزّ
 Put  حطّ يحطّ
+Qualify  تأهّل يتأهّل
+Qualify  أهّل يأهّل
+Quit  إستقال يستقيل
+Quit خلّى يخلّي
+Quit وقّف يوقّف
 React  تفاعل يتفاعل
 Read  قرى يقرى
 Recall  تذكّر يتذكّر
 Receive  خذا ياخذ
+Recollect  تذكّر يتذكّر
 Recommend  نصح ينصح
 Reduce  نقّص ينقّص
+Reflect  عكس يعكس
+Reflect خمّم يخمّم
 Refuse  رفض يرفض
 Regret  ندم يندم
 Relax  رولاكسا يرولاكسي
@@ -286,33 +404,47 @@ Represent  مثّل يمثّل
 Require  اتطلّب يتطلّب
 Resent  كره يكره
 Resist  قاوم يقاوم
-Retain  شدّ يشدّ حفظ يحفظ ميموريزا يميموريزي
+Retain  شدّ يشدّ
+Retain حفظ يحفظ
+Retain ميموريزا يميموريزي
 Retire  روتراتا يروتراتي
-Rid  خلّص يخلّص تخلّص يتخلّص
+Rid  خلّص يخلّص
+Rid تخلّص يتخلّص
 Ride  ركب يركب
-Ring  طلب يطلب كلّم يكلّم نوقز ينوقز
+Ring  طلب يطلب
+Ring كلّم يكلّم
+Ring نوقز ينوقز
+Ring صونى يصوني
 Rise  طلع يطلع
 Risk  ريسكا يريسكي
 Roast  نبّر ينبّر
 Run  جرى يجري
+Sanction  عاقب يعاقب
+Satisfy  كفى يكفي
 Say  قال يقول
 Scrub  قرقش يقرقش
-See  شاف يشوف خزر يخزر غزر يغزر
+See  شاف يشوف
+See خزر يخزر
+See غزر يغزر
 Seem  ضهر يضهر
 Sell  باع يبيع
 Send  بعث يبعث
 Serve  خدم يخدم
-Set  حطّ يحطّ عمل يعمل
+Set  حطّ يحطّ
+Set عمل يعمل
 Settle  قبل يقبل
-Shake  خلخل يخلخل خضخض يخضخض
+Sew  خيّط يخيّط
+Shake  خلخل يخلخل
+Shake خضخض يخضخض
 Shed  نحّى ينحّي
 Shine  لمع يلمع
-Shoot  ضرب يضرب 
+Shoot  ضرب يضرب
 Show  ورّى يورّي
 Shrink  صغار يصغار
 Shut  سكت يسكت
 Sing  غنّى يغنّي
-Sink  غرق يغرق غطس يغطس
+Sink  غرق يغرق
+Sink غطس يغطس
 Sit  قعد يقعد
 Sleep  رقد يرقد
 Slice  قصّ يقصّ
@@ -321,63 +453,94 @@ Slip  زلق يزلق
 Smell  شمّ يشمّ
 Snore  شخر يشخر
 Solve  حلّ يحلّ
+Sow  زرع يزرع
 Speak  تكلّم يتكلّم
 Specify  حدّد يحدّد
 Spell  سحر يسحر
-Spend  عدّى يعدّي قضّى يقضّي
-Spill  صبّ يصبّ بزّع يبزّع
+Spend  عدّى يعدّي
+Spend قضّى يقضّي
+Spill  صبّ يصبّ
+Spill بزّع يبزّع
 Spit  قسم يقسم
-Spread  وزّع يوزّع نشر ينشر
+Spread  وزّع يوزّع
+Spread نشر ينشر
 Squat  ڤعمز يڤعمز
-Stack  رصّ يرصّ رصّف يرصّف
-Stand  وقف ياقف قام يقوم
+Stack  رصّ يرصّ
+Stack رصّف يرصّف
+Stand  وقف ياقف
+Stand قام يقوم
 Start  بدا يبدا
-Steal  سرق يسرق نشل ينشل
-Stick   حشى يحشي دكّ يدكّ
+Steal  سرق يسرق
+Steal نشل ينشل
+Stick   حشى يحشي
+Stick دكّ يدكّ
 Sting  قرص يقرص
-Stink  حشى يحشي 
-Stir  حرّك يحرّك خلّط يخلّط
+Stink  حشى يحشي
+Stir  حرّك يحرّك
+Stir خلّط يخلّط
 Stop  وقف ياقف
-Stretch  جبد يجبد شرول يشرول شرمط يشرمط
+Stretch  جبد يجبد
+Stretch شرول يشرول
+Stretch شرمط يشرمط
 Strike  ضرب يضرب
-Study  قرى يقرى درس يدرس
+Struggle  كافح يكافح
+Struggle ناضل يناضل
+Struggle قاوم يقاوم
+Struggle عارك يعارك
+Study  قرى يقرى
+Study درس يدرس
+Submit  سوميتا يسوماتي
 Succeed  نجح ينجح
-Suffer  توجع يتوجع تألّم يتألّم
+Suffer  توجع يتوجع
+Suffer تألّم يتألّم
+Suffer سوفرا سوفرات
 Suggest  إقترح يقترح
+Supply  زوّد يزوّد
 Suppose  إفترض يفترض
 Surprise  فاجئ يفاجئ
 Survive  عاش يعيش
-Swear  حلف يحلف سبّ يسبّ
-Swim  عام يعوم غطس يغطس بحبح يبحبح
-Take  خذا ياخذ 
+Swear  حلف يحلف
+Swear سبّ يسبّ
+Swim  عام يعوم
+Swim غطس يغطس
+Swim بحبح يبحبح
+Swing  تدرجح يتدرجح
+Take  خذا ياخذ
 Talk  حكى يحكي
 Taste  ذاق يذوق
-Teach  علّم يعلّم قرّى يقرّي
+Teach  علّم يعلّم
+Teach قرّى يقرّي
 Tear  دمّع يدمّع
 Tell  قال يقول
 Think  خمّم يخمّم
 Threaten  هدّد يهدّد
 Throw  طيّش يطيّش
 Tiptoe  تسرّق يتسرّق
-Tolerate  سمح يسمح خلّى يخلّي
+Tolerate  سمح يسمح
+Tolerate خلّى يخلّي
 Translate  ترجم يترجم
 Try  جرّب يجرّب
 Understand  فهم يفهم
 Vacuum  مسح يمسح
 Value  قيّم يقيّم
-Vary  بدّل يبدّل تبدّل يتبدّل
+Vary  بدّل يبدّل
+Vary تبدّل يتبدّل
 Volunteer  تطوّع يتطوّع
 Wait  استنّى يستنّى
-Wake  فاق يفيق قام يقوم
+Wake  فاق يفيق
+Wake قام يقوم
 Walk  مشى يمشي
 Want  حبّ يحبّ
 Warn  حذّر يحذّر
 Wash  غسل يغسل
 Watch  تفرّج يتفرّج
-Wave  بيبا يبيبي بيبع يبيبع
+Wave  بيبا يبيبي
+Wave بيبع يبيبع
 Wear  لبس يلبس
-Weep  بكى يبكي 
-Whip  ضرب يضرب خلّط يخلّط
+Weep  بكى يبكي
+Weigh  وزن يوزن
+Whip  ضرب يضرب
+Whip خلّط يخلّط
 Whisper وشوش يوشوش
 Will  نوى ينوي
 Win  ربح يربح
