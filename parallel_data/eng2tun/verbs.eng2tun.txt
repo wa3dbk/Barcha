@@ -189,6 +189,7 @@ Drop  طيّح يطيّح
 Dry  شاح يشيح
 Earn  دخّل يدخّل
 Eat  كلى ياكل
+Embellish برقش يبرقش
 Emphasize  أكّد يأكّد
 Enable  سمح يسمح
 Enable خلّى يخلّي
@@ -546,3 +547,5 @@ Will  نوى ينوي
 Win  ربح يربح
 Wish  تمنّى يتمنّى
 Write كتب يكتب
+Zigzag زڤزڤ يزڤزڤ
+Zip زيبا يزيبي
