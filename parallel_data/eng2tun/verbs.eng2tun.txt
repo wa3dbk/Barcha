@@ -61,6 +61,9 @@ Be  كان يكون
 Bear  تحمّل يتحمّل
 Bear حمل يحمل
 Beat  غلب يغلب
+Beautify زيّن يزيّن
+Beautify جمّل يجمّل
+Beautify برقش يبرقش
 Become  ولّى يولّي
 Become صار يصير
 Beg ترجّى يترجّى
@@ -111,6 +114,8 @@ Climb  تسلّق يتسلّق
 Climb تشعبط يتشعبط
 Cling  تشبّث يتشبّث
 Cling كبّش يكبّش
+Clip قلّم يقلّم
+Clip قصّ يقصّ
 Come  جاء يجي
 Commit  إرتكب يرتكب
 Commit إلتزم يلتزم
