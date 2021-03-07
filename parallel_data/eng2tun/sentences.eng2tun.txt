@@ -2449,3 +2449,50 @@
 
 # Turn on the light, it's dark in here.
 حلّ الضوّ، ظلام الدنيا لهنا.  / حلّ الضوّ، ظلام الدنيا لنّا. / شعّل الضوء، ظلام الدنيا لنّا.
+
+# Don't forget to stop at the store.
+ما تنساش بش تتعدّى للحانوت. 
+
+# She hasn't eaten since yesterday.
+ما كلات شيّ مالبارح. / ما كلات حتّى شيء مالبارح. / من البارح ما كلات حتى شي.
+
+# If you don't know, just guess.
+كان ما تعرفش، دڤّز وكهو.  / كان ما تعرفش، دڤّز وبرّه.  / كان ما تعرفش، دڤّز. 
+
+# The company's CEO is paid well.
+الCEO متاع الشركة يخلص بالباهي.  / الر.م.ع متاع الشركة يخلص بالباهي. / الرئيس مدير عام متاع الشركة يخلص بالباهي. 
+
+# Set the glass on the table, please.
+حطّ الكاس عالطاولة باللاهي. / حطّ الكاس على الطاولة يعيّشك.
+ 
+# He needs to study for the test.
+لازمو يحضّر للإمتحان. / لازمو يحضّر للدوفوار. /  لازمو يحضّر للdevoir. 
+
+# Please hang your coat on the hook.
+علّق الفيستة متاعك في المعلاق. / علّقها في المعلاق الفيستة متاعك. / علّق الكبّوط متاعك في المعلاق. / علّقو في المعلاق الكبّوط متاعك.
+
+# He ate the entire meal in 10 minutes.
+كلاه الفطور لكلّو في عشرة دقايق. /  في عشرة دقايق كلا الماكلة لكل.
+# I'll prepare breakfast tomorrow.
+توّ نحضّر فطور الصباح غدوة.
+
+# Face masks help prevent disease.
+الماسكوات يحميو مالأمراض.
+
+# It's not a good idea to argue with your boss.
+ماذابيك ما تجادلش عرفك برشا. / الجدال متاع عرفك ماهيش فكرة باهية.
+
+# There are five people on staff here.
+الstaff فيه خمسة مالنّاس.  / الstaff فيه خمسة عباد. 
+
+# Do you recognize the person in this photo?
+تعرف شكونو هذا في التّصويرة ؟ 
+
+# Use exactly one teaspoon of salt in that recipe.
+استعمل مغرفة ملح صغيرة في الrecette هاذيكا.
+
+# Teach your children not to lie.
+علّم أولادك ما يكذبوش.
+
+# What size is that shirt?
+شنية الtaille  متاعو المريول هذاكا ؟ /  taille  قدّاش المريول هذاكا ؟
