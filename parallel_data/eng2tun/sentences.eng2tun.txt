@@ -2488,6 +2488,9 @@
 # Do you recognize the person in this photo?
 تعرف شكونو هذا في التّصويرة ؟ 
 
+# Have you already gone to sleep?
+رقدت ديجا ؟
+
 # Use exactly one teaspoon of salt in that recipe.
 استعمل مغرفة ملح صغيرة في الrecette هاذيكا.
 
@@ -2496,3 +2499,157 @@
 
 # What size is that shirt?
 شنية الtaille  متاعو المريول هذاكا ؟ /  taille  قدّاش المريول هذاكا ؟
+
+# I'm quite satisfied with their work.
+أنا راضي علّخر عن خدمتهم.
+
+# Picture this: a lake, a cabin, and lots of peace and quiet.
+تخيل الحكاية هاذي: بحيرة وكابينة وبرشا هدوء وسكينة.
+
+# That picture is so clear inside my head.
+التصويرة هاذيكا واضحة في مخّي.
+
+# That's a piece of cake!
+ ساهلة برشا!  /  ساهل برشا! 
+
+# Their plane is going to land soon.
+الطيارة متاعهم بش تهبط على قريب. / الطيارة متاعهم قريب تهبط.
+
+# This is her most recent social media post.
+هاذي آخر حاجة بوستاتها في les réseaux sociaux.
+
+# Describe yourself in one word.
+أوصف روحك في كلمة وحدة.
+
+# The doctor is here.
+هاو جاء الطبيب. / هاو لنّا الطبيب.
+
+# The patient is in so much pain now.
+المريض ياسر موجوع.
+
+# She's a factory worker.
+تخدم في معمل.
+
+# I saw that on the news.
+ريتها هاكي في الأخبار. / ريتها هاذيكا في الأخبار. / شفتها الحكاية هاذيكا في الأخبار. 
+
+# Let's watch a movie later.
+هيا نتفرّجو في فيلم مبعد. 
+
+# Santa lives up north.
+بابا نويل يعيش في الشمال.
+
+# This letter is very personal.
+الجواب هذا ياسر شخصي.
+
+# Why did you open and read it?
+حلّيتها وقريتها؟
+
+# Will you support him?
+بش تساندو؟
+
+# I simply won't tolerate bad behavior.
+مانيش بش نتسامح معاه السلوك الخايب هذا.
+
+# This is the third time you've lied to me.
+هاذي ثالث مرّة تكذب عليّا.
+
+# Write about the advantages of technology.
+اكتب عن مزايا التكنولوجيا.
+
+# Her baby is so adorable.
+ولدها ياسر محلاه. / ولدها ياسر مزيان.
+
+# Can you turn on the computer, please?
+تنجّم تحلّ الordinateur باللاهي ؟
+
+# You need to type in your password.
+لازمك تكتب الmot de passe متاعك.
+
+# Can you draw this for me?
+تنجّم تصوّرهالي هاذي؟
+
+# That film is absolutely mind-blowing.
+ياسر طيّارة الفيلم هذاكا. / الفيلم هذاكا ياسر هايل.
+
+# He is a conservative candidate.
+هذا مرشّح محافظ.
+
+# That tree has been there for more than fifteen years.
+الشجرة هاذيكا موجودة عندها أكثر من خمسطاش سنة.
+
+# You are my source of strength.
+إنتي مصدر القوّة متاعي.
+
+# I'll wear a red dress tonight.
+بش تلبس روبة حمرة اليوم. / تو نلبس روبة حمراء اليوم.
+
+# He nearly died in that accident!
+شعرة لا مات في الaccident هذاكا ! 
+
+# Their organization is doing great things for street kids.
+الجمعيّة متاعهم قاعدة تعمل في حاجات هايلة للصغار اللي يعيشوا في الشارع.
+
+# Let me choose a color.
+خلّيني نختار لون.
+
+# We have to see the cause and effect of this experiment.
+لازمنا نشوفو الcause والeffet متاع الexpériance هاذي.
+
+# I'll cut my hair short for a change.
+بش نبدّل شويّة ونقصّ شعري قصير.
+
+# Can you look at the items I bought?
+تنجّم تشوف الحاجات اللي أنا شريتها؟
+
+# What is the point of all this?
+شنية الفايدة من هذا لكل؟
+
+# She knew them.
+طلعت تعرفهم.
+
+# We're living in the 21st century, Mary.
+عايشين في  القرن 21 رانا، ماري.
+
+# My husband just bought me a ring for my birthday.
+راجلي شرالي خاتم لعيد ميلادي.
+
+# It will be debated at the Congress.
+بش يناقشوه في الكنغرس.
+
+# She is our boss.
+هي عرفتنا.
+
+# I can clean up by myself.
+انجّم ننظّف وحدي.
+
+# This city's population is growing.
+عدد السكان في المدينة هاذي قاعد يكبر. 
+
+# I wish you well.
+نتمنالك الخير.
+
+# I am going to call the bank.
+بش نكلّم البانكة.
+
+# She needs medical assistance.
+لازمها  assistance médicale.
+
+# I'll take her to the nearest hospital.
+تو نهزّها لأقرب سبيطار.
+
+# I saw you in church last Sunday.
+ريتك في الكنيسة الأحد إللي فات. / شفتك في الكنيسية الأحد الفايت.
+
+# Please close the door.
+صكّر الباب باللاهي.  /  صكّر الباب يعيّشك. 
+
+# Are you still awake ? 
+مازلت فايق؟
+
+# This is a private party.
+هاذي حفلة خاصّة.
+
+# Let's take a 15 minute rest.
+خلّي ناخذو ربع ساعة نرتاحو فيها.
+
