@@ -8,7 +8,7 @@
 تنجمشي تترجملي هاذي ؟
 
 # Don't worry.
-مش مشكل. / ما تحط شي في بالك.
+مش مشكل. / ما تحط شي في بالك. /  ما تقلقش روحك.
 
 # Everyone knows it.
 الناس لكل تعرفها.
@@ -107,9 +107,6 @@
 # I'll come back later.
 تو نرجع مبعد.
 
-# I'll pay.
-تو ندفع أنا.
-
 # I'll take it.
 تو ناخوها. / تو نهزّها.
 
@@ -141,7 +138,7 @@
 الحمد لله لاباس، وانتي ؟ / لاباس عليا، وإنتي؟
 
 # I'm happy.
-فرحان. / فرحت.
+فرحان. / فرحت. / أنا فرحان.
 
 # I'm hungry.
 جعت.
@@ -2378,9 +2375,6 @@
 # Give me your answer by noon tomorrow.
 أعطيني جوابك قبل غدوة نص النهار. 
 
-# I'll prepare breakfast tomorrow.
-تو نحضّر فطور الصباح غدوة. / تو نعمل أنا فطور الصباح غدوة.
-
 # I made a list of things to do.
 عملت ليستة متاع الحاجات إلّي بش نعملها.
 
@@ -2473,8 +2467,9 @@
 
 # He ate the entire meal in 10 minutes.
 كلاه الفطور لكلّو في عشرة دقايق. /  في عشرة دقايق كلا الماكلة لكل.
+
 # I'll prepare breakfast tomorrow.
-توّ نحضّر فطور الصباح غدوة.
+تو نحضّر فطور الصباح غدوة. / تو نعمل أنا فطور الصباح غدوة.
 
 # Face masks help prevent disease.
 الماسكوات يحميو مالأمراض.
@@ -2517,9 +2512,6 @@
 
 # This is her most recent social media post.
 هاذي آخر حاجة بوستاتها في les réseaux sociaux.
-
-# Describe yourself in one word.
-أوصف روحك في كلمة وحدة.
 
 # The doctor is here.
 هاو جاء الطبيب. / هاو لنّا الطبيب.
@@ -2653,3 +2645,467 @@
 # Let's take a 15 minute rest.
 خلّي ناخذو ربع ساعة نرتاحو فيها.
 
+# The old man starved to death.
+الراجل الكبير مات بالشرّ. / الراجل الكبير مات مالجوع.
+
+# I'm starving.
+بش نموت بالشرّ. / جيعان بش نموت. / بش نموت بالجوع. / جيعان برشا. 
+
+# Why do indians shake their heads?
+علاش الهنود يحرّكوا ريوسهم هكاكا ؟
+
+# This is a real president.
+هذا رئيس بالحقّ.
+
+# I'll miss all of you.
+بش نتواحشكم لكل.
+
+# Please don't follow this advice.
+ما تتبّعهاش النصيحة هاذي.
+
+# I have something that I want to say to you.
+عندي حاجة نحبّ نقولهالك.
+
+# Lock the gate.
+صكّر الباب.
+
+# Listen up !
+اسمع !
+
+# Pickpockets target tourists.
+النشّالة يستهدفوا التوريست. / السرّاقة يستهدفوا الtouriste.
+
+# Which country are you from?
+من أنو بلاد انتي ؟
+
+# What're you talking about?
+فاش قاعد تحكي؟ / فاش تحكي؟
+
+# I'm sure you're right.
+أنا متأكّد إلّي انتي عندك حقّ. / متأكّد اللي عندك حقّ.
+
+# He reached for the apple.
+مدّ يدّو بش ياخو التفّاحة. / مدّ يدّو بش يهزّ التفّاحة.
+
+# Don't you play tennis?
+ما تلعبش تنس؟
+
+# He exploded with anger.
+ترشق بالغشّ. / طرشق مالغشّ. 
+
+# Real depression is when you stop loving the things you love.
+الإكتئاب الحقيقي يكون وقتلّي تولّي ماعادش تحبّ الحاجات الي كنت تحبّها قبل. /   الdépression بالمنجد وقتلي الحاجات اللي تحبّها معادش تحبّها أصلا.
+
+# Tom likes you.
+توم معجب بيك. / توم يحبّك.
+
+# Do you have a website?
+عندك site ؟  / عندك موقع؟
+
+# Back then, I lived here.
+وقتها كنت نسكن لنّا.  / وقتها كنت نسكن لهنا. 
+
+# Run!
+إجري!
+
+# Help me!
+إيجا عاونّي!
+
+# Jump!
+نڤّز!
+
+# Go on.
+واصل. / يلّا.  / كمّل.
+
+# I see.
+فهمتك.
+
+# I won!
+ربحت!
+
+# Smile! 
+أضحك!
+
+# Got it?
+فهمت؟
+
+# He ran off.
+ هرب.
+
+# I'm 19.
+عمري تسعطاش.
+
+# I'm OK.
+لاباس عليّا.
+
+# No way!
+مستحيل! / امبوسيبل!  / Impossible !
+
+# Why me?
+علاش أنا؟ / علاه أنا؟
+
+# Awesome!
+هايل!
+
+# Call me.
+اطلبني. / إتّصل بيا.
+
+# Come in.
+تفضل. / ادخل.
+
+# Get out!
+اخرج من هنا! / اخرج! / اخرج عليّا! / اخرج من قدّامي! 
+
+# Go away!
+ابعد عليا خليني وحدي! / خليني رايض أخطاني!
+
+# Goodbye!
+بالسلامة! 
+
+# He came.
+هاو جاء.
+
+# Me, too.
+أنا زادا. / حتى أنا.
+
+# Shut up!
+اسكت! / بلّع! 
+
+# Take it with you.
+هزّها معاك.
+
+# Wake up!
+فيق! / قوم!
+
+# Welcome.
+أهلاً و سهلا! / مرحبا بيك!
+
+# Who won?
+شكون ربح؟ / شكون اللي ربح؟
+
+# Why not?
+علاش لا؟
+
+# Have fun.
+استمتع بوقتك. / شيّخ روحك.
+
+# I forgot.
+نسيت.
+
+# I got it.
+فهمت. / فهمتها. / فهمتك.
+
+# I use it sometimes.
+نستعملها ساعات. / ساعات نستعملها.
+
+# I'll pay.
+تو ندفع أنا. / أنا بش ندفع. / أنا تو نخلّص. / توّ أنا نخلّص.
+
+# I'm busy today.
+مشغشب أنا البوم. / أنا مشغشب اليوم. / مشغشب اليوم. / لاهي اليوم. 
+
+# I have a cold.
+مستبرد. 
+
+# I'm free.
+أنا حرّ. / دبّر بيّا.
+
+# I'm here.
+هاني جيت. / هاني لهنا.
+
+# They were poor in the past but now they became rich.
+كانوا فقارة قبل أما توّ ولّاو غنية. / كانوا فقارة قبل أما توّ استغناو.
+
+# It hurts too much.
+توجع برشا. / ياسر توجع فيا. / توجع فيّا برشا.
+
+# It's really hot out there.
+سخونة برشا الدنيا لبرّا.
+
+# It's my new phone.
+تاليفوني الجديد هذا. 
+
+# Let's go!
+هيا نمشيو!
+
+# Look out!
+ردّ بالك!
+
+# Speak up!
+تكلّم!
+
+# Stand up!
+آقف!
+
+# Terrific!
+رائع! / ممتاز! / هايل!
+
+# The old man died last year.
+الراجل الكبير مات العام اللي فات.  / الراجل الكبير مات عمناول. 
+
+# He lost his last bet.
+خسر الخطار لخّر متاعو.
+
+# He quit last week.
+إستقال الجمعة اللي فاتت.
+
+# Try some.
+هاك، جرب. / شدّ، جرّب. / شدّ، ذوق.
+
+# Who am I?
+شكوني أنا؟
+
+# Who died?
+شكون مات؟
+
+# Birds fly in the sky.
+العصافر تطير في السماء.
+
+# Come here.
+إيجا هنا. / إيجا لهنا.
+
+# Did I win?
+أنا ربحت؟
+
+# I won, didn't I?
+ أنا ربحت ماو؟ / ماني أنا ربحت؟
+
+# Do it now.
+توّ أعملها. / قوم أعملها توّ. /  أعملها توّه.
+
+# Don't lie.
+ما تكذبش.
+
+# Forget it!
+انساها الحكاية! 
+
+# Go inside.
+ادخل. / ادخل لداخل. / ادخل الداخل.
+
+# Go to bed.
+برّا ارقد.
+
+# Good luck.
+ربي معاك. / Bonne chance.
+
+# Hands off.
+نحّي يديك. /  ما تمسّ شيّ.
+
+# He has Alzheimer's disease.
+عندو زهايمر. / عندو الآلزايمر.  / عنده Alzheimer.
+
+# He was sick the past few months
+كان مريض الأشهر اللي فاتت. / كان مستمرض الأشهرة اللي فاتت. / كان مريض الأشهرة الفايتة. / كان مستمرض الأشهرة الفايتة.
+
+# I am Thai.
+أنا تايلاندي.
+
+# I hope so.
+إن شاء الله.
+
+# I laughed.
+ضحكت.
+
+# I like it.
+عجبني. / عجبتني.
+
+# I'm a man.
+أنا راجل. / أنا رجل.
+
+# I'm a woman.
+أنا مرا. / أنا مرأة.
+
+# I'm alone.
+وحدي. / هاني وحدي.
+
+# I'm bored.
+قلقت. / قالق.
+
+# They are bored.
+قلقوا. / قالقين.
+
+# I'm broke.
+فالس. / أنا فالس.
+
+# I'm lucky.
+انا محظوظ.
+
+# I'm tired.
+أنا تاعب.
+
+# Is it new?
+جديد هذا؟ / جديدة هاذي؟
+
+# It's late.
+ياسر مخّر توّ. / مخّر توّ.
+
+# Let me go.
+خلّيني نمشي. / سيّبني.
+
+# Look back!
+اغزر وراك! / شوف وراك شفمّا!
+
+# Go find him for me.
+برا لوّجهولي.
+
+# Have a seat.
+اقعد.
+
+# He can come.
+ينجّم يجي.
+
+# He is alone.
+ وحدو.  / هو وحدو. / هو وحده.
+
+# He's stronger than you think.
+هو أقوى ملّي تتصوّر. / هو راهو أقوى ملّي تتصوّر. / أقوى ملّي تتصوّر هو. 
+
+# Here we are!
+هانا وصلنا! / هانا جينا! / هانا لهنا! 
+
+# I also went.
+مشيت أنا زادا. / أنا زادا مشيت.
+
+# I am afraid.
+أنا خايف.
+
+# I am coming.
+هاني جاي.
+
+# I dug a pit.
+حفرت حفرة.
+
+# I don't like jazz.
+ما نحبّش الجاز.
+
+# I don't eat rice.
+ما ناكلش الروز. / ما ناكلش روز.
+
+# I love Ma'luf music.
+نحبّ المالوف.
+
+# I love Maluf.
+نحبّ المالوف.
+
+# I must hide.
+لازمني نتخبّى. / لازم نتخبّى. / يلزمني نتخبّى.
+
+# I need time.
+لازمني وقت. / لازمني شوية وقت. / حاشتي بشوية وقت.
+
+# That's a hotel.
+أوتيل هذاكا. / هذاكا أوتيل.
+
+# That's my book.
+هذاكا كتابي. / كتابي هذاكا.
+
+# May I use this?
+ننجّم نستعملها هاذي؟ / ننجّم نستعملو هذا؟ / انجّم نستعملها هاذي؟ / انجّم نستعملو هذا؟
+
+# My joints ache.
+مفاصلي يوجعوا فيّا.
+
+# My tooth hurts.
+سنيّا  يوجعوا فيا.
+
+# I trust you.
+عندي ثقة فيك.
+
+# The TV's on.
+التّلفزة محلولة.
+
+# They were absent.
+كانوا غايبين.
+
+# The accused is innocent until proven guilty.
+المتهم بريء حتى تثبت إدانته.
+
+# He invited her to supper.
+إستدعاها للعشاء.
+
+# Reservations are required.
+لازم réservation.
+
+# She went to the restroom.
+مشات للتاولات. / مشات للتوالات.
+
+# Learning a foreign language isn't easy.
+تعلّم لغة أجنبية مش ساهل. / تعلّم لغة أجنبية ماهوش ساهل.
+
+# One million people died in the war.
+مليون شخص ماتوا في الحرب. / مليون واحد مات في الحرب.
+
+# I'm not allowed to tell what you want to know.
+مانيش supposé نقلّك اللي تحبّ تعرفو.
+
+# What did you put into the boxes?
+شنوه حطيت فيهم الصنادق؟ / شنوه حطّيت في الصنادق؟
+
+# There's nothing to discuss.
+ما عندنا ما نناقشو. / ما فمّا ما يتناقش. /  ما فمّة ما يتناقش.
+
+# He's a little taller than you are.
+هو أطول منّك بشويّة.
+
+# I love American movies.
+نحبّ الأفلام الأمريكية.
+
+# Are your hands clean?
+يديك نظيفة؟
+
+# Are your hands clean?
+يديك نظيفة ولّا لا؟
+
+# You're mocking me.
+انتي تتمنيك عليّا. / انتي تتمسخر عليّا. / قاعد تتمنيك عليّا. / قاعد تتمسخر عليّا.
+
+# The dog attacked the little boy.
+الكلب آتاكا الطفل الصغير.  / الكلب هاجم الطفل الصغير.  / الكلب هجم على الطفل الصغير. 
+
+# I play violin.
+نعزف كمنجة.
+
+# She speaks relatively quickly.
+تتكلّم بزربة. / ياسر تزرب في الحديث. / هي تتكلّم بزربة. / هي ياسر تزرب في الحديث. / ياسر تزرب هي في الحديث.
+
+# He likes to hunt.
+يحبّ يصطاد. / يحبّ المصيد.
+
+# I've baked a cake for them. 
+طيّبتلهم خبزة.
+
+# I ate caviar.
+كليت كافيار.
+
+# I have been here since five o'clock.
+مالخمسة وانا لنّا. / من الخمسة وأنا لهنا.
+
+# I need the keys.
+حاشتي بالمفاتح.
+
+# The price of oil is down this week.
+سوم البترول طاح الجمعة هاذي.
+
+# They're ignoring me.
+مطفّيني. / طفّاوني. /  هوما مطفّيني. / طفّاوني هوما. 
+
+# May I use your phone?
+ننجّم نستعمل تاليفونك؟ / انجّم نستعمل تاليفونك؟
+
+# The countdown has already begun in North Korea.
+العدّ التنازلي بدا déjà في كوريا الشماليّة.
+
+# What are your conditions?
+شنوما شروطك؟ / شنية الشروط متاعك ؟ / شنوما الشروط متاعك؟ / الشروط متاعك شنوما؟
+
+# I will shoot him.
+بش نضربو بالكرتوش.
+
+# Can I speak to the doctor?
+انجّم نحكي مع الدكتور ؟ / ننجّم نحكي مع الطبيب؟ / انجّم نحكي مع الطبيب ؟ / ننجّم نحكي مع الدكتور؟ 
+
+# All aboard!
+الناس لكل تركب! / هيا اركبوا لكل! 
+
+# I remember mailing the letter.
+نتفكّر روحي بعثت الجواب.
