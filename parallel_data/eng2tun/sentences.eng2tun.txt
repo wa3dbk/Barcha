@@ -3109,3 +3109,84 @@
 
 # I remember mailing the letter.
 نتفكّر روحي بعثت الجواب.
+
+# Two boats have capsized off Tunisia.
+زوز بطّوات تقلبوا في تونس. / زوز فلايك تقلبوا في تونس.
+
+# The boats set off overnight carrying mainly migrants from sub-Saharan Africa in the attempt to reach Europe.
+الفلايك خرجوا في الليل هازّين مهاجرين من جنوب افريقيا حاولوا بش يوصلوا لأوروبا.
+
+# We're out of sugar.
+ماعادش عندنا سكّر.
+
+# Where is the mailbox?
+فين البواتة متاع الجوابات؟ / فين الboîte à lettres ؟ 
+
+# Where is the mistake?
+فين الغلطة ؟ / فيني الغلطة ؟ / الغلطة وين ؟ / الغلطة فين ؟
+
+# Where is the problem?
+فين الغلطة ؟ / فيني المشكلة ؟ / المشكل وين ؟ / المشكلة فين ؟
+
+# Where is the station?
+فيني المحطّة ؟ / المحطّة فين ؟ /  المحطّة وين؟
+
+# Where is your father?
+فينو بوك ؟ / بوك فين ؟ / بوك وين؟ / وينو بوك؟
+ 
+# Where is your school?
+فيني مدرستك ؟ / مدرستك فين ؟ /  مدرستك وين؟
+
+# Which cup is yours?
+أناهو الكاس متاعك ؟ / الكاس متاعك أنوّا ؟ / أنوّا الكاس متاعك ؟  /   الكاس متاعك أناهو؟
+
+# Where is your sister?
+فيني أختك ؟ / أختك فين ؟ /  أختك وين؟
+
+# Which book is better?
+أنوّا الكتاب اللي أحسن؟ / أنوّا أحسن واحد في الكتب هاذم ؟ / آناهو أحسن واحد في الكتب هاذوما؟ 
+
+# Which diet is best?
+أنوّا أحسن ريجيم؟ / أنوّا أحسن régime ؟  / أنو ريجيم أحسن واحد؟
+
+# Who are those people?
+شكونهم العباد هاذوكم ؟ / شكونهم هاكم ؟ / شكونهم هاذوكم؟ / هاكم شكونهم ؟ / هاذوكم شكونهم ؟ / العباد هاكم شكونهم ؟ / العباد هاذوكم شكونهم ؟
+
+# Who coaches the team?
+شكون يدّرب فيه الفريق؟ / شكون المدرّب متاعها الéquipe ؟ / الéquipe شكون مدرّبها؟ / شكون مدرّبها الéquipe ؟ 
+
+# Who wrote the letter?
+شكون كتب الجواب؟ / شكون كتبو الجواب؟
+
+# Who's coming with me?
+شكون جاي معايا؟ / شكون بش يجي معايا؟
+
+# Why do you know that?
+علاش تعرفها الحكاية هاذيكا؟  / كيفاش تعرفها الحكاية هاذيكا؟ 
+
+# Why do you work here?
+علاش تخدم لنّا ؟ / علاش تخدم لهنا؟
+
+# Why don't we go home?
+علاش ما نمشيوش للدّار؟ / علاش ما نروّحوش للدّار؟
+
+# Why is your husband even here?
+علاش لنّا هو راجلك أصلا؟ / علاش راجلك لنّا من أصلو ؟  / علاش هو لنّا راجلك من أصلو ؟ 
+
+# Women like attention.
+النساء يحبّوا الإهتمام. / النساء يحبّوا اللّهوة.
+
+# You are new students.
+انتوما ايتيديونات جدد. /  انتوما des étudiants جدد. / انتوما طلبة جدد.
+
+# You are not Japanese.
+ماكش ياباني. / ماكش جابوني. / ماكش japonais.
+
+# You are not a good doctor.
+ماكش طبيب باهي.
+
+# You are the only one who can help me.
+انتي الوحيد اللي تنجّم تعاونّي.
+
+# You can come with us.
+تنجّم تجي معانا.
