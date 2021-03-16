@@ -3190,3 +3190,189 @@
 
 # You can come with us.
 تنجّم تجي معانا.
+
+# You look pale.
+وجهك أصفر.
+
+# She will be seventeen next year.
+بش تولّي سبعطاش عام الجاي. / بش تولّي عمرها سبعطاش سنة عام الجاي. 
+
+# What are you going to do with it?
+ماذا ستفعل بها؟
+
+# That's what I thought.
+هذاكا شقلت حتى أنا. / حتى أنا خمّمت هكّاكا. / هذاكا فاش خمّمت حتّى أنا.
+
+# I left Shanghai last year and have not yet been back.
+خرجت من شانغاي عمناول ومن وقتها ما رجعتش. / خرجت من شانغاي عمناول وما رجعتش من وقتها.  / خرجت منها شانغاي عمناول وما رجعتشلهاش من وقتها. 
+
+# Mom, he is hitting me!
+أمّي، قاعد يضرب فيّا ! 
+
+# That's not what I wanted to tell you.
+مش هذاكا اللي حبّيت نقولهولك. 
+
+# Kuwait is a small country.
+الكويت بلاد صغيرة.
+
+# I remember mailing the letter.
+نتذكّر روحي بعثتو الجواب. / نتذكّر بعثتو الجواب. / نتذكّر اللي بعثتو الجواب.
+
+# Come on, you can finish it.
+يلّا، تنجّم تكمّلها. / يلّا، تنجّم تكمّلو.
+
+# Do you have a car?
+عندك كرهبة ؟ /  عندك كرهبة ياخي؟ / ياخي عندك كرهبة؟
+
+# I will stay at home.
+بش نقعد فالدّار. / باش نقعد في الدّار.
+
+# This happened near the city of Florance.
+الحكاية هاذي صارت بحذا مدينة فلورونس.
+
+# I can't tell her now. It's not that simple anymore.
+ما ننجّمش نقوللها توّ. ماهيش بالبساطة هاذيكا الحكاية. / ما ننجّمش نقوللها توّ. مش بسيط لهاك الدرجة الموضوع. 
+
+# He avenged his father's death.
+انتقم للموت متاع بوه.
+
+# Cut the cake with a knife.
+قصّ الخبزة بالسكّينة.
+
+# Can you recommend a good doctor?
+تنجّم تنصحني بطبيب باهي؟
+
+# I'll help you with your French, if you help me with my English.
+نعاونك في الfrançais كان تعاونّي في الanglais.
+
+# It was very kind of you to lend me an umbrella.
+يعطيك الصحّة على خاطر سلّفتني سحابة.  / يعطيك الصحّة على خاطر عطيتني سحابة. / يعطيك الصحّة خاطر سلّفتني سحابة. / يعطيك الصحّة خاطر عطيتني سحابة. 
+
+# I'm gonna have to call you back.
+توّ نعاود نكلّمك. / توّ نعاود نتّصل بيك. 
+
+# About 10 people are waiting.
+ قريب عشرة أشخاص قاعدين يستنّاو. / قرابة عشرة مالنّاس قاعدين يستنّاو.
+
+# The accused is innocent until proven guilty.
+المتهم بريء حتى تثبت إدانته.
+
+# He looks suspicious.
+أمورو مريبة. / يضهر أمورو مريبة.
+
+# He's a little taller than you are.
+هو أطول منّك شويّة. / أطول منّك شويّة هو. / هو أطول شويّة منّك.
+
+# I don't understand it.
+ما فهمتش. / ما فهمتهاش.
+
+# I love American movies.
+نحبّ الأفلام الأمريكيّة. / نحبّ أفلام الأمريكان. / نحبّ الأفلام الأمريكان. / نحبّهم الأفلام الأمريكيّة. / نحبّهم أفلام الأمريكان. / نحبّهم الأفلام الأمريكان.
+
+# Reservations are required.
+لازم résevation. /  Les réservations لازمين. / Les réservations ضروريّن.
+
+# If I need money, I'll ask my father.
+كان إستحقّيت فلوس، تو نقول لبابا. / كان إستحقّيت فلوس، تو نطلب من عند لبابا. / كان إستحقّيت فلوس، تو نقول للوالد. / كان إستحقّيت فلوس، تو نطلب من عند الوالد.
+
+# Be vigilant.
+ردّ بالك. / خوذ حذرك.
+
+# I study Korean.
+نقرى اللغة الكوريّة. / نقرى الكوريّة. / نقرى الcoréen.
+
+# My mom drove me to school fifteen minutes late on Tuesday.
+أمّي وصّلتني للمدرسة مخّر بخمسطاش دقيقة. / أمّي هزّتني للمدرسة retard بخمسطاش دقيقة.  / أمّي وصّلتني للمكتب مخّر بخمسطاش دقيقة. / أمّي هزّتني للمكتب retard بخمسطاش دقيقة.  / أمّي وصّلتني للمكتب مخّر ب15 دقيقة.
+
+# The girl wore her hair in two braids, tied with two blue bows.
+الطفلة عاملة زوز ضفاير في شعرها ورابطتهم  بزوز ربطات زرق.
+
+# He's wearing a jacket and tie.
+لابس جاكات وكرافاط. / لابس jackette وcravatte.
+
+# The mouse was so hungry he ran across the kitchen floor without even looking for humans.
+الفار tellement جيعان، شقّ الكوجينة يجري من غير ما شاف العباد أصلا.
+
+# The door slammed down on my hand and I screamed like a little baby.
+الباب تصكّرلي على يدّي وقمت نصيح كي الbébé.  / الباب قرضلي يدّي وقمت نصيح كي الbébé.  / الباب قرضلي يدّي وقمت نصيح كيف الbébé. 
+
+# My shoes are blue with yellow stripes and green stars on the front.
+صبّاطي أخضر، فيه des bandes صفر ونجوم خضر مالقدّام. / صبّاطي أخضر، فيه خطوط صفر ونجوم خضر مالقدّام.
+
+# I was so thirsty I couldn't wait to get a drink of water.
+كنت tellement عطشان مشيت شربت ديراكت. / Tellement كنت عطشان مشيت شربت ديراكت. /  مشيت شربت ديراكت tellement كنت عطشان.
+
+# I found a gold coin on the garden playground school today.
+لقيت بياسة ذهب في السّاحة اليوم بعد ما كمّلت القراية.
+
+# The church was white and brown and looked very old.
+الكنيسة بيضة وبنّيّة وضهرتلي قديمة ياسر. / الكنيسة بيضة وبنّيّة وضهرتلي ياسر قديمة.
+
+# I was so scared to go see a horror movie but my dad said he would sit with me so we went last night.
+كنت خايف ومش حابب نمشي نتفرّج في فيلم رعب، أمّا بابا قالّي تو نتفرّج فيه معاك ياخي مشينا البارح في الليل مع بعضنا.
+
+# Your mom is so nice she gave me a ride home today.
+أمّك ياسر هايلة، وصّلتني اليوم للدّار معاها في الكرهبة.
+
+# I fell in the mud when I was walking home from school today.
+طحت في الطّبعة اليوم وأنا مروّح مالمدرسة على ساقيا للدار اليوم. / طحت في الطّبعة اليوم وأنا مروّح من المدرسة على ساقيا للدار اليوم.
+
+# The school principal was so mean that all the children were scared of him.
+مدير المدرسة كان tellement خايب، الصغار لكل كانوا يخافوا منّو. / مدير المدرسة كان خايب برشا والصغار لكل كانوا يخافوا منّو. / مدير المدرسة كان خايب برشا ويخوّف التلامذة لكل.
+
+# I went to the dentist the other day.
+مشيت للdentiste هاك النّهار.  / مشيت للdentiste آك النّهار. 
+
+# My dad is so funny that he told us jokes all night long and we never fell asleep.
+بابا يقتل بالضّحك، قعد يحكيلنا في نكت ليل كامل وما رقدناش في لخّر.  / بابا يقتل بالضّحك، قعد يحكيلنا في نكت ليل كامل حتّى ما رقدناش في لخّر. / بابا يقتل بالضّحك، قعدي ينكّتلنا ليل كامل حتّى ما رقدناش في لخّر. 
+
+# The camping trip was so awesome that I didn't want to come home.
+الcamping كان هايل برشا حتّى ما حبّيتش نروّحها الدّار في لخّر. / الcamping كان هايل برشا حتّى ما حبّيتش نروّح للدّار في لخّر.  / الcamping كان هايل برشا حتّى دارنا ما حبّيتش نروّحلها في لخّر.
+
+# Are you going to have a blue birthday cake for your next birthday?
+بش تعمل خبزة  ڤطّو زرقة لعيد ميلادك الجّاي؟
+
+# That boy always cuts in line.
+الطفل هذاكا ديما ينڤّز في الصفّ.  / الطفل هذاكا ديما يشقّ على العباد في الصفّ. 
+
+# That boy is not well behaved.
+الطّفل هذاكا ماهوش متربّي.  / الطّفل هذاكا ماهوش متربّي بالباهي. 
+
+# Mom and dad love drinking coffee and eating donuts.
+بابا وأمّي يحبّوا شرب القهوة وماكلة الدونات.  / بابا وأمّي يحبّوا شرب القهوة وماكلة الdonuts.  / بابا وماما يحبّوا شرب القهوة وماكلة الdonuts. 
+
+# My mom made a milkshake with frozen bananas and dark chocolate.
+أمّي عملت ليتبول بالبانان المكنجل والشكلاطة الكحلة. / أمّي عملت lait de poule بالبانان المكنجل والchocolat noire. / أمّي عملت lait de poule بالبانان الcongelé والchocolat noire.
+
+# My pen broke and leaked blue ink all over my new dress.
+ستيلويا تكسّر وتبزّع الحبار الأزرق على روبتي الجديدة.
+
+# I got my haircut today and they did it way too short.
+مشيت حجّمت اليوم أما جات ياسر قصيرة.
+
+# The dog was so tired he fell asleep on the way to his doghouse.
+الكلب  tellement تاعب، طاح عليه النوم في شطر الثنيّة قبل ما يوصل لبيتو.
+
+# Your neighbor is annoying because he cut down my trees.
+جارك مڤلڤ، قصّلي الشجر متاعي. / جارك يمرج، قصّلي الشجر متاعي.
+
+# The tape was so sticky it got stuck to my fingers and wouldn't come off.
+السكوتش ياسر تتلصّق، شدّتلي في صوابعي وما حبّتش تتنحّى. / الscotch ياسر يتلصّق، شدّلي في صوابعي وما حبّش يتنحّى.
+
+# My glass of water broke when it fell off the table.
+كاس الماء تكسّر كي طاح من فوق الطاولة.  / كاس الماء طاح من فوق الطاولة و تكسّر.
+
+# The clock was ticking and kept me awake all night.
+المنڤالة اتّكتك ليل كامل ما خلّاتنيش نرقد. / اتّكتك ليل كامل المنڤالة ما خلّاتنيش نرقد.  / اتّكتك ليل كامل المنڤالة ما نجّمتش نرقد. 
+
+# My dad told me that I was his favorite person in the whole wide world.
+بابا قالّي إلّي أنا الشخص المفظّل متاعو في الدنيا هاذي لكل.
+
+# The chickens were running around and pecking worms out of the ground.
+الدجاج قعدوا يجريو وياكلوا في الدود اللي في القعّ. / الدجاج قعدوا يجريو وينقروا في الدود اللي في القعّ. / الدجاج قعدوا يجريو وينقروا في الدود اللي في القاعة. / الدجاج قعدوا يجريو وياكلوا في الدود اللي في القاعة.
+
+# The game looked fun but all the pieces were missing.
+تضهر باهية اللعبة أما البياسات لكل طلعوا ناقصين. / تضهر باهية اللعبة أما البياسات لكل كانوا ناقصين. / ضهرتلي باهية اللعبة أما القطايع لكل كانوا ناقصين.
+
+# I was so mad that I yelled at him at the top of my lungs.
+غشّشني برشا حتّى عيّطت عليه عيطة ما كيفهاش. / ضربني الغشّ حتّى عيّطت عليه عيطة ما كيفهاش.
