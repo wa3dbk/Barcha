@@ -104,6 +104,9 @@
 # I'll call you when I leave.
 تو نكلّمك كي نخرج.
 
+# That’s quite reasonable.
+معقول.
+
 # I'll come back later.
 تو نرجع مبعد.
 
@@ -3376,3 +3379,233 @@
 
 # I was so mad that I yelled at him at the top of my lungs.
 غشّشني برشا حتّى عيّطت عليه عيطة ما كيفهاش. / ضربني الغشّ حتّى عيّطت عليه عيطة ما كيفهاش.
+
+# My favorite dress is ruined because I spilled ketchup on it last night.
+الروبة المفظّلة متاعي فسدت على خاطر بزّعت عليها كاتشاب البارح. / أحسن روبة عندي  فسدت على خاطر بزّعت عليها كاتشاب البارح.   / الروبة المفظّلة متاعي فسدت على خاطر طيّحت عليها كاتشاب البارح. / أحسن روبة عندي  فسدت على خاطر طيّحت عليها كاتشاب البارح.   / الروبة المفظّلة متاعي فسدت خاطر طيّحت عليها كاتشاب البارح. / أحسن روبة عندي  فسدت خاطر طيّحت عليها كاتشاب البارح.  
+
+# My buddy is going to pick me up after school and give me a ride to work.
+صاحبي بش يجي يهزّني بعد القراية ويوصّلني للخدمة.
+
+# The gum was stuck under the desk and I couldn't get it off.
+الشّوينغوم لصق تحت الطاولة وما نجّمتش ننحّيه. / الشّيلكي لصق تحت الطاولة وما نجّمتش ننحّيه.
+
+# The flowers smelled beautiful.
+النوّار ريحتو باهية. / النوّار ريحتو مزيانة. / النوّار ريحتو بنينة.
+
+# My sister likes to eat cheese during breakfast.
+أختي تحبّ ماكلة الجبن في فطور الصّباح.
+
+# The alligator's teeth were so scary that I ran back to the car as fast as I could.
+السنّين متاع التمساح tellement  يخوّفوا رجعت نجري للكرهبة متاعي.
+
+# Her dress was blue with white and pink polka dots, but it was ripped down the back.
+روبتها زرقاء وفيها نكت بيض وروز، أما مقطّعة مالتالي. / روبتها لونها أزرق وفيها نكت بيض وروز، أما مقطّعة مالتالي. / روبتها لونها أزرق وفيها نقاط بيض وروز، أما مقطّعة مالتالي. / روبتها زرقاء وفيها نقاط بيض وروز، أما مقطّعة مالتالي. / روبتها لونها أزرق وفيها نقاط blanc وrose، أما مقطّعة مالتالي. / روبتها في الbleu وفيها نقاط blanc وrose، أما مقطّعة مالتالي.
+
+# The puzzle took me so long to put together that I threw it in the garbage.
+الpuzzle شدّلي برشا وقت بش عملتو حتى طيّشتو في البوبالة في لخّر.
+
+He was driving me crazy so I told a joke and made him laugh.
+
+# I started walking home and my feet got so tired I had to stop and take breaks.
+جيت مروّح على ساقيّا للدّار أما ساقيا وجعوني ياخي رصّاتلي نصبر وناقف بش ناخو راحة. / كنت مروّح على ساقيّا للدّار أما ساقيا بداو يوجعوا فيا ياخي رصّاتلي نصبر وناقف بش ناخو pause.
+
+# I piled my books in my arms but then they fell all over the floor.
+كوّمت الكتب متاعي بين يديا ياخي مبعد طاحوا في القع. / لمّيت الكتب متاعي بين يديا ياخي مبعد طاحوا في القع.  / كوّمت الكتب متاعي بين يديا ياخي مبعد طاحوا في القاعة. / لمّيت الكتب متاعي بين يديا ياخي مبعد طاحوا في القاعة.
+
+# The dog chased the cat around the house 4 times.
+الكلب قعد يحصّر في القطوس حتّى داروا بالدار لكل أربعة مرّات. / الكلب شدّ يحصّر في القطوس حتّى داروا بالدار لكل أربعة مرّات. / الكلب شدّ جرّة القطوس حتّى داروا بالدار لكل أربعة مرّات.
+
+# I accidentally left my money in my pants pocket.
+نسيت على الفلوس في جيب سروالي بالغلطة.  
+
+# What's up?
+شعامل ؟ /  شنحوالك ؟  /  كيفنّك؟
+
+# What's new?
+شفمّا جديد؟ / شعندك جديد ؟ / شنوّه جديدك ؟  / كوا دو نوف؟ / Quoi de neuf ؟ 
+
+# What have you been up to lately?
+فاش لاهي المدّة لخّرة؟ / شنحوالك المدّة لخّرة؟ / فينك المدّة لخّرة؟
+
+# How's life?
+شعاملة فيك الدّنيا؟
+
+# I'm fine, thanks. How about you?
+الحمد لله لاباس. شعامل انتي ؟ /   الحمد لله لاباس. شنحوالك انتي ؟ / الحمد لله لاباس. وإنتي؟
+
+# Pretty good.
+الحمد لله لاباس. / لاباس. / سافا.
+
+# Same as always
+كي العادة. / كيف العادة. / كي العادة والعوايد.
+
+# Not so great.
+هكاكا وبرّه.
+
+# I really appreciate it.
+يعيّشك. / يعطيك الصحّة.
+
+# I'm really grateful
+يعيّشك. / يعطيك الصحّة.
+
+# That's so kind of you.
+يعيّشك. / يعطيك الصحّة.
+
+# No problem.
+ما فمّا حتى مشكل. / مش مشكل.
+
+# No worries.
+ما فمّا حتى مشكل. / مش مشكل.
+
+# Don't mention it.
+ما فمّا حتى قلق. / من غير مزيّة.
+
+# My pleasure.
+عالرّاس والعين. / Avec plaisir. /  من غير مزيّة.
+
+# It was nice chatting with you.
+عجبني الحديث معاك.
+
+# Anyway, I should get going.
+يلّا، أنا لازم نمشي توّ.
+
+# Do you have any idea where I can find the post office?
+عندك فكرة فين ننجّم نلقى البوصطة؟ / عندك فكرة فين ننجّم نلقى البوسطة؟ / عندك فكرة فين ننجّم نلقى بوسطة؟ / عندك فكرة فين ننجّم نلقى البوصطة؟ / عندك فكرة وين ننجّم نلقى البوسطة؟ / عندك فكرة وين انجّم نلقى بوسطة؟ / عندك فكرة فين انجّم نلقى بوصطة؟
+
+# Would you happen to know whether this is British English
+عندكشي فكرة هذا anglais britannique ؟  / تعرفشي هذا anglais britannique ؟ 
+
+# I have no idea/clue.
+ما عندي حتّى فكرة.
+
+# I have no clue.
+ما عندي حتّى فكرة.
+
+# I can't help you there.
+ما ننجّمش نعاونك.
+
+# Beats me.
+ما عندي حتّى فكرة. / ما نعرفش
+
+# I'm not really sure.
+مانيش متأكّد. / مانيش مثبّت.
+
+# I've been wondering that, too.
+حتى أنا تسائلت عليها الحكاية. / حتى أنا تسائلت نفس الشيً. /  حتى أنا سئلت روحي نفس الشي.
+
+# I've never given it much thought.
+عمري ما خمّمت فيه برشا الموضوع. /  عمري ما خمّمت فيها برشا الحكاية. 
+
+# I don't have strong feelings either way.
+في كل الأحوال  مانيش لا مع لا ضدّ.
+
+# It doesn't make any difference to me.
+ما تفرقش معايا. / كيف كيف عندي. / عندي أنا كيف كيف.
+
+# I have no opinion on the matter.
+ما عنديش فيه رأي الموضوع.
+
+# That's so true.
+ايه بالحقّ. / صحيح والله. / بالضّبط.
+
+# That's for sure.
+ايه بالضبط.   / بالضّبط.
+
+# I agree 100%
+موافق 100% / موافق ميا في الميا.
+
+# I couldn't agree with you more.
+موافقك حتى أنا. / موافقك.
+
+# I suppose so.
+نتصوّر.
+
+# I'm not so sure about that.
+مانيش متأكّد منها الحكاية.
+
+# That's not how I see it.
+مانيش موافقك فيه الموضوع. / ما نشوفهاش هكاكا الحكاية.
+
+# Not necessarily
+مش بالضّرورة.
+
+# How wonderful!
+هايل ! / هايل برشا! 
+
+# Oh no.
+لا عاد.
+
+# That's terrible.
+اللطف. / يا لطيف.
+
+# Poor you.
+اللطّف عليك. /  سملّا عليك. 
+
+# I'm so sorry to hear that.
+اللطف يا ربّي. / الله غالب. / ربّي يفرّج. / ربّي معاك.
+
+# Are you free Saturday night?
+فاضي السّبت في اللّيل؟  / فاضي سامدي سوار؟ / فاضي نهار السبت في الليل؟ / فاضي ليلة نهار السّبت ؟
+
+Do you wanna see a movie? 
+تحب نتفرّجو في فيلم؟ / تحبّ تتفرّج في فيلم؟
+
+Would you like to join me for dinner?
+تحبّ تتعشّى معايا؟ /  تتعشّى معايا؟   / هيّا بسم الله للعشاء؟
+
+# Let's grab a bite to eat.
+هيا ناكلو حاجة. / هيّا ناكلو حويجة. / هيا نمشيو ناكلو.
+
+# That’s a good deal. 
+آفار باهي هذاكا.  / آفار باهي.
+
+# It was a real bargain.
+بالحقّ آفار. 
+
+# It was dirt cheap.
+بإخّ تفّ. / بلاش فلوس. / بلا فلوس.
+
+# It’s a little chilly.
+باردة شويّة.
+
+# It’s freezing.
+مڤ‎لّصة بالبرد. / باردة تقتل. / باردة glace. 
+ 
+# Make sure to bundle up.
+لفّ روحك.
+
+# It’s absolutely boiling!
+تغلي بالسّخانة ! 
+
+# I’m dead tired.
+أنا ميّت بالتعب. / متت بالتّعب.
+
+# I’m beat.
+أنا ميّت بالتعب. / متت بالتّعب.
+
+# I can hardly keep my eyes open
+بالسّيف نحلّ في عينيّا.
+
+# I’m gonna hit the sack.
+بش نمشي نرقد. / بش نمشي نتكبّ.
+
+# That’s a bit pricey.
+غالية شويّة.
+
+# I’ll have a salad.
+نحبّ سلاطة باللاهي. / أنا بش ناخو سلاطة.
+
+# That’s a rip-off
+أرناك هاذي. / هاذي arnaque.
+
+# Does this fit?
+هذا يجي قدّك ؟ / جاء قدّك هذا ؟ / جات قدّك هاذي ؟
+
+# Let's queue up now.
+هيا نشدّو الصفّ.
+
+# I hate waiting in line.
+نكرهها المستنيّة في الصفّ./ نكرهها الوقفة في الصفّ.  / نكرهو شدّان الصفّ.
+
+# Do you think this suits me?
+زعمة تواتيني هاذي؟ / تاوتيني هاذي ؟ /  يواتيني هذا زعمة؟
