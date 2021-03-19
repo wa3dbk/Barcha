@@ -3609,3 +3609,6 @@ Would you like to join me for dinner?
 
 # Do you think this suits me?
 زعمة تواتيني هاذي؟ / تاوتيني هاذي ؟ /  يواتيني هذا زعمة؟
+
+# Great product !
+برودوي هايل ! /  Produit هايل ! 
