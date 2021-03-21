@@ -79,7 +79,6 @@
 # I don't want it.
 ما حاشتيش بيها. / ما حاشتيش بيه.
 
-
 # I don't want to bother you.
 ما نحبّش نقلّقك.
 
@@ -3612,3 +3611,258 @@ Would you like to join me for dinner?
 
 # Great product !
 برودوي هايل ! /  Produit هايل ! 
+
+# I like limes.
+نحبّ اللّيم. / نحبّو اللّيم.
+
+# I like pears.
+نحبّو الأنزاص. / نحبّو الإجّاص. / نحبّ الأزاص. / نحبّ الإجّاص.
+
+# I don't like apples.
+ما نحبّش التفّاح. / ما نحبّوش التفّاح.
+
+# I don't eat grapes.
+ما ناكلوش العنب. / ما ناكلش العنب.
+
+# We bought bananas.
+شرينا بانان.
+
+# He doesn't eat oranges.
+ما ياكلش برڤدان هو. / هو ما ياكلش برڤدان.  / ما ياكلش برڤدان.
+
+# Do you like mangoes?
+تحبّو المانغو؟
+
+# Where is China ?
+فين جات الصّين؟
+
+# Where is India ?
+فين جات الهند؟
+
+# Where is Paris ?
+فين جات باريس ؟ 
+
+# He went to Paris last year.
+مشى لباريس العام إلّي فات. / مشى لباريس عمناول.
+
+# Did he like Barcelona ?
+عجبتّو برشلونة؟
+
+# Did you like the hammam ?
+عجبكم الحمّام؟
+
+# She went to France.
+مشات لفرانسا.
+
+# He saw a big red car.
+شاف كرهبة كبيرة حمرة.
+
+# I dislike grapefruit.
+ما نحبّش الpamplemousse.
+
+# Is he going to university ?
+ماشي للfac هو ؟ / ماشي للuniversité؟
+
+# Is there a lake near by?
+فمّا بحيرة قريبة؟ / فمّا lac قريبة ؟ / فمّا لاك قريبة؟
+
+# Do they like the lake ?
+عجبتهم الlac؟ / عجبتهم اللاك؟ / عجبتهم البحيرة؟
+
+# Was he sick ?
+كان مريض هو؟ / كان مريض ياخي؟ / ياخي هو كان مريض؟
+
+# Has she been to Japan ?
+مشات لليابان قبل؟ / مشات قبل هي لليابان؟ / مشات لليابان هي من قبل؟ /  ياخي  مشات قبل هي لليابان؟ / مشات لليابان قبل ياخي؟ / مشات قبل هي لليابان ياخي؟ / ياخي مشات لليابان هي من قبل؟
+
+# He saw a big blue truck.
+شاف كميونة كبيرة زرقة. /  شاف كميونة كبيرة زرقاء. / شاف كميونة كبيرة bleu.
+
+# Did he like the south ?
+عجبو الجنوب؟ / عجبو ياخي الجنوب؟
+
+# Do you think he liked the coffee shop ?
+عجبو الsalon de thè زعمة؟ / زعمة عجبتّو القهوة؟ / عجبتّو القهوة زعمة؟
+
+# Did you buy today's newspaper?
+شريت جريدة اليوم؟
+
+# Why is newspaper good for cleaning windows?
+علاش الجرايد يصلحوا لتنظيف الشّبابك ؟ / علاش الجرايد باهين لتنظيف الشّبابك؟
+
+# Did he like the school ?
+عجبتّو المدرسة؟
+
+# It's currently 50% off.
+فمّا ترخيص متاع  50%. / عاملين فيه ترخيص ب50%.  / عاملين فيها ترخيص ب50%.  / مرخّصين فيها ب50%.
+
+# The farmers market was packed today.
+المرشي معبّي اليوم.
+
+# I'm going to do the laundry later.
+بش نغسل دبشي مبعد. / بش نغسل الدّبش مبعد. / بش نغسل دبشي بعديكا. / بش نغسل الدّبش بعديكا.
+
+# I'm just going to nip to the grocery store to pick up a few things, do you want anything?
+بش نتعدّى فيسع للحانوت ناخو شويّة حاجات، تستحقّ حاجة ؟ / بش نتعدّى فيسع للحانوت ناخو شويّة حاجات، نجيبلك حاجة ؟ / بش نتعدّى فيسع ناخو حاجات مالحانوت، نجيبلك حاجة ؟
+
+# Excuse me, where can I find the cereal isle?
+فين ننجّم نلقى الrayon متاع الcéréales ؟
+
+# Excuse me, where can I find the soda?
+باللاهي فين ننجّم نلقى الڤازوز؟
+
+# Could I get two of those sandwiches?
+ننجّم ناخو زوز ساندويتشات كيما هاذوكم؟ / انجّم ناخو زوز كسكروتات كيما هاذوكم؟
+
+# It's going well, thanks.
+الحمد لله لاباس، يعيّشك.  / الحمد لله لاباس، مرسي.  / الحمد لله لاباس، merci. 
+
+# I forgot my reusable bags!
+نسيت الsac réutilisable متاعي.
+
+# We've got so many plastic bags we don't know what to do with them.
+عندنا برشا ساشيات بلاستيك مش عارفين شنوه نعملو بيهم. /  Tellement  عندنا ساشيات بلاستيك مش عارفين شنوه نعملو بيهم.
+
+# Did you get the coffee I asked for?
+خذيت القهوة إلّي قلتلك عليها؟  / خذيت القهوة إلّي قتلك عليها؟ 
+
+# Did you get potatoes?
+خذيت بطاطا؟ 
+
+# Did you get anything for me?
+خذيتلي حاجة؟ / خذيت حاجة ليّا أنا ؟
+
+# No, I forgot, I'm sorry.
+لا، نسيت، désolé. / لا، نسيت، سامحني.
+
+# I got it online.
+شريتها مالأنترنات. / شريتها en ligne.
+
+# Have you checked the price online?
+ثبّتت مالسوم en ligne ؟ / ثبّتت مالسوم في الانترنات؟
+  
+# Are you online shopping again?
+قاعد تقضي en ligne ؟ / قاعد تقضي مالأنترنات؟
+
+# Red really suits you.
+يخرج عليك الروج. / يخرج عليك الأحمر. / محلاك في الأحمر. / محلاه عليك الأحمر.
+
+# I'm going to try this on.
+بش نقيس هذا. / بش نقيس هاذي. / بش نجرّب نقيس هذا. / بش نجرّب نقيس هاذي.
+
+# There's a long line, let's come back later
+فمّا صفّ طويل، توّ نرجعو مبعد. /  فمّا صفّ طويل، أتوّ نرجعو مبعد. /   فمّا صفّ طويل، أتوّ نرجعو بعديكا.
+
+# I don't think I like this – I'll take it back tomorrow.
+ما عجبتنيش هاذي، تو نرجّعها غدوة.  / ما عجبنيش هذا، تو نرجّعو غدوة.  / ما عجبتنيش هاذي، تو نمشي نرجّعها غدوة.  / ما عجبنيش هذا، تو نمشي نرجّعو غدوة. 
+
+# It's too late to take this back!
+كهو مخّر ماعادش يرجع هذا! / مخّر كهو معادش يرجع هذا!
+
+# Can I return this if I don't like it?
+ننجّم نرجّعو هذا كان ما عجبنيش؟ / ننجّم نرجّع هذا كان ما عجبنيش؟ / ننجّم نرجّعها هاذي كان ما عجبتنيش؟ / ننجّم نرجّعها هاذي كان ما عجبتنيش؟
+
+# It's nice but it doesn't quite fit.
+مزيانة أما ما جاتش قدّي. / مزيانة أما ماهيش قدّي.  / مزيانة أما مش قياسي. / مزيان أما ما جاتش قدّي. / مزيان أما ماهيش قدّي.  / مزيان أما مش قياسي.
+
+# Do you offer a student discount?
+تعطيو ترخيص للطّلبة؟ / فما ترخيص للطّلبة؟ / فما ترخيص متاع ايتوديونات؟  / تعطيو ترخيص للايتوديونات؟
+
+# Do you have something like this but cotton?
+عندك حاجة كيما هكّا أما coton ؟ 
+
+# Do you think this looks good?
+تضهر مزيانة هاذي ؟ / يضهر مزيان هذا؟
+
+# It's a little baggy around the shoulders.
+واسع هذا بحذا الأكتاف. / هذا واسع بحذا الأكتاف.
+
+# I think you would look better in the pink one.
+نتصوّر الrose يجي أحلى عليك. 
+
+# Where are the changing rooms?
+فين les cabines d'essayage؟  / وينهم les cabines d'essayage؟ 
+
+# I'll just try it on here.
+توّ نقيسها لهنا. / تو نقيسها لنّا.
+
+# I'm not sure I can afford this.
+ما نعرفش ننجّم نشريه هذا ولّا لا ؟
+
+# Do you have anything on sale at the moment?
+عندكم أيّ حاجة soldée ؟  / عندكم أيّ حاجة فيها صولد ؟ 
+
+# We're running out of food. When do you think you'll be able to do the shopping?
+بش توفالنا الماكلة. وقتاش ناوي تقضي؟ /  عدّها وفات الماكلة عندنا. وقتاش ناوي تقضي؟  / بش توفالنا الماكلة. وقتاش تنجّم تمشي تقضي؟ /  عدّها وفات الماكلة عندنا. وقتاش تنجّم تمشي تقضي؟ 
+
+# Let's go shopping this weekend.
+هيّا نمشيو نعملو shopping الweekend هذا.  / هيّا نمشيو نعملو شوبينغ الويكاند هذا. / هيّا نمشيو نقضيو الويكاند هذا. 
+
+# No thank you, I'm just browsing.
+لا يعيّشك، نعمل في دورة وبرّه.
+
+# Yes, I'm looking for a new cotton sweater.
+ايه، نلوّج على مريول قطن جديد. / ايه، حاشتي بمريول قطن جديد.
+
+# Yes, I'm looking for something for my wife's birthday.
+ايه، نلوّج في حاجة لعيد ميلاد مرتي.
+
+# Do you have these in size 12?
+عندك هاذي taille 12 ؟ 
+
+# The United States is never hot during March, but it is usually nice in July.
+الولايات المتّحدة ماهيش سخونة في مارس، أما في العادة طقسها مزيان في جويليا.
+
+# France is usually freezing during January , and it is sometimes hot in March.
+فرانسا في العادة باردة برشا في جانفي، أما ساعات  تبدا سخونة في مارس.
+
+# They plan to visit Germany next May.
+ناوين يمشيو لألمانيا ماي الجّاي.
+
+# Italy it is usually rainy in February.
+إيطاليا في العادة ممطرة في فيفري. / في العادة المطر تبدا تصبّ على طول فيفري في إيطاليا.
+
+# He hates the rusty white car.
+يكرهها الكرهبة البيضة المصدّدة.  / يكرهها الكرهبة البيضاء المصدّدة. 
+
+# She is afraid of cockroaches
+تخاف من الصراصير. / تخاف مالخنافس. / تخاف هي من الصراصير. / هي تخاف مالخنافس.
+
+# He thinks translating between Spanish and Portuguese is difficult .
+قالّي إلّي الترجمة بين الإسبانية والبرتغاليّة صعيبة. /  قالّي إلّي الترجمة بين l'espagnol والportugais صعيبة. 
+
+# He likes a working out.
+يحبّ الsport. / يحبّ الentraînement. / يحبّ يمشي يترانى.
+
+# Spain's weather is better than Scotland's.
+طقس إسبانيا خير من طقس سكوتلندا.
+
+# How did you get your visa for Australia?
+كيفاش خذيت visa لأستراليا؟
+
+# I'm taking a cruise and stopping in Havana.
+بش نمشي في croisière ونتعدّاو بمدينة Havana. / بش نمشي في croisière ونتعدّاو على هافانا. / بش نمشي في كروازيار وناقفو في هافانا.
+
+# January and February are usually colder than March and April. 
+جانفي وفيفري في العادة أبرد من مارس وأفريل.
+
+# Holidays are coming in June.
+العطلة جاية في جوان.
+
+# Hold it up by the tail. See what it does.
+شدّها من ذيلها. شوفها شنوّه تعمل. /  شدّها من بعبوصها. شوفها شنوّه تعمل.
+
+# She’s right.
+عندها حقّ.
+
+# Why would you do this?
+علاش عملتها؟ / شقام عليك تعمل هكّا؟
+
+# It looks so scared.
+يضهر خايف برشا. / تضهر خايفة برشا.
+
+# I knew it was just a toy robot
+عرفتها إلّي هي لعبة robot.
+
+
+
