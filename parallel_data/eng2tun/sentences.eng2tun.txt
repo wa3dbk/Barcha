@@ -340,6 +340,9 @@
 # That's too much.
 لا برشا هكاكا. 
 
+# Are you here yet?
+جيتشي؟
+
 # The book is under the table.
 الكتاب تحت الطاولة.
 
