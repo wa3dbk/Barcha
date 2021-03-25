@@ -3867,5 +3867,123 @@ Would you like to join me for dinner?
 # I knew it was just a toy robot
 عرفتها إلّي هي لعبة robot.
 
+# We'll discuss that at the meeting.
+توّ نتناقشو فيها الحكاية في الإجتماع.  / توّ نتناقشو فيه الموضوع في الإجتماع.  / توّ نتناقشو فيه في الإجتماع.  / توّ نتناقشو فيها في الإجتماع. 
 
+# Your mother does indeed have hearing loss.
+أمّك بالحقّ عندها ضعف سمع.  / أمّك بالحقّ ما تسمعش بالباهي. 
+
+# It takes a lot of force to open that door.
+لازم فورسة بش يتحلّ الباب هذاكا. / لازمو فورسة بش يتحلّ الباب هذاكا. / لازم يتحلّ بالقوّة الباب هذاكا. / لازمو قوّة بش يتحلّ الباب هذاكا.
+
+# Masks must be worn in public places.
+الماسكوات لازم يتلبسوا في البلايص العمومية. / Les masques يتلبسوا obligatoirement في البلايص العمومية.
+
+# That rug comes in various shades of gray.
+الزّربية هاذيكا موجودة في برشا أنواع متاع gris.
+
+# Would you rather have a hamburger than a hot dog?
+تحبّ على هامبورغر ولّا hot dog؟
+
+# That movie always makes me laugh.
+الفيديو هذاكا ديما يضحّكني. / الvideo هذاكا ديما يضحّكني.
+
+# There are decorative rocks in the garden.
+فما حجر متاع تزيين في الجردة.
+
+# The windows don't open by design.
+الشبّاك ما يتحلّش. / الشبّاك هكاكا ما يتحلّش. 
+
+# Have you had enough coffee?
+خذيت ما يكفي مالقهوة؟ / خذيت كميّة كافية متاع قهوة؟  / خذيت ما يكفيك من القهوة؟   
+
+# I made an insurance claim for my car accident.
+طلبت تعويض لكرهبتي مالassurance بعد الaccident. / طلبت تعويض لكرهبتي من l'assurance بعد الaccident. / طلبت تعويض لكرهبتي من الآسورانس بعد الaccident.
+
+# Leave me a message if you're going to be late.
+أبعثلي ميساج كان بش توخّر. / أبعثلي message كان بش توخّر. / خلّيلي message كان بش توخّر. / خلّيلي ميساج كان بش توخّر.
+
+# Remove the cookies from the oven.
+خرّج الكوكيز مالفور. / خرّج الكوكيز من الفور. / خرّج البشكوطو مالفور.  / خرّج البشكوطو من الفور. 
+
+# The manager will look at your application.
+الmanager توّ يعمل طلّة على المطلب متاعك.  / توّ المدير يعمل طلّة على المطلب متاعك.
+
+# I miss you, when will I see you again?
+تواحشتك، وقتاش نعاود نشوفك؟
+
+# I only have one cat.
+ما عندي كان قطّوس واحد.
+
+# Our son learned how to count to ten in french.
+ولدنا تعلّم يحسب لعشرة بالفرونسي. / ولدنا تعلّم يحسب لعشرة بالfrançais.
+
+# Can you fix that?
+تنجّم تصلّحها؟ / تنجّم تصلّحو؟
+
+# Gun ownership is a controversial topic.
+الملكيّة متاع الفرودة موضوع مثير للجدل. / الملكيّة متاع السلاح موضوع مثير للجدل.
+
+# There is a train station close to my house.
+فمّا محطّة تيرنوات قريبة من داري. / فمّا محطّة تيرنوات قريبة من الدّار متاعي. / فمّا محطّة تيرنوات بحذا داري. / فمّا محطّة تيرنوات بحذا الدّار متاعي.
+
+# After the accident I was in a state of shock.
+بعد الaccident كنت في choc. / بعد الaccident كنت في حالة صدمة. / بعد الaccident كنت في حالة choc. / بعد الأكسيدون كنت في choc. / بعد الأكسيدون كنت في حالة صدمة. / بعد الأكسيدون كنت في حالة choc.
+
+# Our new corporate strategy is written here.
+الstratégie  الجديدة متاع الشركة مكتوبة هوني. / الstratégie  الجديدة متاع الشركة هاي مكتوبة هوني. / الstratégie  الجديدة متاع الشركة مكتوبة لهنا. / الstratégie  الجديدة متاع الشركة هاي مكتوبة لهنا.
+
+# I prefer little cars.
+يعجبوني الكراهب الصغار خير.
+
+# There are a thousand reasons to learn English!
+فمّا ألف سبب بش تتعلّم الanglais!
+
+# Taking a risk can be rewarding.
+المخاطرة تنجّم تنجح. / ماخذة الريسك تنجّم تنجح.
+
+# What is your current address?
+شنية الأدريسة متاعك ؟
+
+# Make sure your smoke alarm works in case of fire.
+ثبّت إلّي الألارم تخدم في حالة حريقة. / ثبّت إلّي الalarme تخدم في حالة حريقة.
+
+# The future is full of hope.
+المستقبل لكلّو أمل. / المستقبل معبّي بالأمل.
+
+# That is the wrong answer.
+هاذيكا الإجابة غالطة. / الإجابة هاذيكا غالطة.
+
+# We need to involve the police.
+لازم نعلمو الشّرطة. / لازم نعلمو البوليسيّة.
+
+# Does anyone know the answer?
+فمّا شكون يعرف الجواب؟ / فمّا شكون يعرف الإجابة؟
+
+# Some shops have security cams.
+فما حوانت عندها des caméras de surveillance.
+
+# I need to go to the bank to withdraw some money.
+لازمني نمشي للبانكة نجبد شويّة فلوس.
+
+# I can certainly help clean up.
+ننجّم نعاون في التّنظيف.
+
+# If you drive south, you will arrive to Mexico.
+كان تسوق في إتجاه الجنوب تنجّم توصل للمكسيك.
+
+# My favorite sport is soccer.
+أحسن سبور عندي هو الكورة. / أحسن سبور عندي هو الفوت. / أحسن سبور عندي هو الfoot. / أحسن سبور عندي هو الfootball.
+
+# Can you see the sign?
+تنجّم تشوفها البلاكة؟
+
+# Seek and you will find.
+أسعى توّ ربي يعطيك. / أسعى تو تلقى. / أسعى تو توصل.
+ 
+# Lobster is $20 per pound. 
+L'homard ب20 دولار الرطل.
+
+# My favorite subject is chimestry!
+ماتياري المفضلة هي الشيمي! / ماتياري المفضلة هي الchimie!
 
