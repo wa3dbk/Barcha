@@ -4008,3 +4008,43 @@ L'homard ب20 دولار الرطل.
 # That store needs a bigger sign.
 الحانوت هذاكا لازمو بلاكة ما أكبر. / الحانوت هذاكا لازمو signe ما أكبر.  /  الحانوت هذاكا لازمو بلاكة  أكبر.  / الحانوت هذاكا لازمو signe  أكبر. 
 
+# Are you there yet? 
+وصلتشي؟ / وصلت ولا لا؟ / وصلت ولا مازلت؟
+
+# Are you bored yet? 
+قلقت ولا مازلت ؟ / قلقتشي؟
+
+# Are you up yet? 
+فقتشي ؟  / فقت ولّا مازلت؟
+
+# Are you sleepy yet?
+جاكشي النّوم؟
+
+# Are you happy yet? 
+فرحتشي؟ / فرحت في لخّر؟
+
+# What do you want?
+شتحب؟
+
+# I loved you. 
+ كنت نحبّك.
+
+# Tell me how.
+ قلي كفاش. /  قلي كيفاش.
+
+# Are you working yet?
+خدمتشي ؟ / بديتشي تخدم؟
+
+# What's wrong?
+شبيك؟ / شنوه المشكل؟ 
+
+# Are you certified yet?
+سرتفتشي ؟ / سرتفنت ياخي؟
+
+# I was joking.
+كلمة قلتها بفدلكة و برا. /  نفدلك وبره. / نفدلك.
+
+# I don't want anything.
+منحبّ شيّ. / ما نحبّ شي.
+
+
