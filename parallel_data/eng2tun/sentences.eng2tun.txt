@@ -3771,6 +3771,9 @@ Would you like to join me for dinner?
 # Do you offer a student discount?
 تعطيو ترخيص للطّلبة؟ / فما ترخيص للطّلبة؟ / فما ترخيص متاع ايتوديونات؟  / تعطيو ترخيص للايتوديونات؟
 
+# Guess.
+طلّع.
+
 # Do you have something like this but cotton?
 عندك حاجة كيما هكّا أما coton ؟ 
 
@@ -4146,6 +4149,147 @@ L'homard ب20 دولار الرطل.
 # Courage and stupidity were all he had.
 ما كان عندنا كان الشجاعة والبهامة.
 
+# I was weak.
+ضعفت.
+
 # I saw cigarette butts thrown on the ground. 
 شفت بونتوات متاع سواڨر مطيّشين على القعّ. / شفت بونتوات متاع سواڨر مطيّشين في القعّ.
+
+# I have a stomach ache.
+كرشي توجع. / معدتي توجع. / بطني توجع. / كرشي توجع فيّا.
+
+# We'll need to run some tests.
+لازمنا نعملو شويّة تحاليل.
+
+# The transplant was a success. 
+الtransplantation نجحت.
+
+# I'd like to keep you here overnight for observation.
+نحبّك تقعد تبات اليوم بش ننجمو نراقبوك. / نحبّك نرقّدك ليلة بش ننجمو نراقبوك.
+
+# Does it hurt when I press here?
+توجع كي ننزل لنّا؟ / توجع كيف ننزل لهنا؟
+
+# I'm going to prescribe you some antibiotics.
+بش نعطيك انتيبيوتيك.  /  بش نعطيك antibiotiques.
+
+# Do you have any allergies?
+عندك حساسيّة؟
+
+# I swear.
+نحلف.  / والله.
+
+# Ah.
+آه.
+
+# Yep.
+إيه
+
+# Ahem.
+إحم.
+
+# I am?
+أنا ؟
+
+# Use me.
+إستعملني.
+
+# Good boy!
+صحّيت!
+
+# I can't!
+ما ننجّمش!
+
+# I guess.
+نتصوّر. / ممكن.
+
+# Open it.
+حلّها. / حلّو.
+
+# I'm sure.
+متأكّد.  / sûr أنا.
+
+# A little.
+شويّة.
+
+# Hey, you.
+أهلا.
+
+# I'm weak.
+أنا ضعيف.
+
+# It sucks.
+خايبة.
+
+# Must pee.
+لازم نمشي للتوالات.  / محصور. 
+
+# Not much.
+مش برشا.
+
+# Not mine.
+مش متاعي.
+
+# Not true.
+مش صحيح. / مش صحيحة.
+
+# Sit down.
+اقعد.
+
+# Very bad.
+خايب برشا. / خايبة برشا.
+
+# Wait wait.
+استنى استنى.
+
+# You suck.
+مخيبك. / قداكش خايب.
+
+# I have to.
+لازمني.
+
+# I hate it.
+نكرهها. / نكرهو.
+
+# I'm fine.
+لاباس عليا.
+
+# Maybe not.
+ممكن لا.
+
+# Oh my God.
+يا ربي.  / اللطف يا ربي.
+
+# Peep-peep.
+بيب بيب.
+
+# What code?
+أنو code ؟ / آنو كود؟ / أنو كود؟ / أناهو كود؟
+
+# Good night.
+على خير. / تصبح على خير. 
+
+# Be a good boy.
+اقعد عاقل.
+
+# But I gotta go.
+أما لازمني نمشي.
+
+# I am not a baby.
+مانيش بيبي. / مانيش bébé.
+
+# You got a job?
+عندك خدمة؟ / لقيت خدمة؟
+
+# Give me the rice.
+مدّلي الرّوز. / أعطيني الرّوز.
+
+# I am so sorry. I do not want to fight anymore
+سامحني. معادش نحبّ نتعارك.
+
+# Are you ok?  You seem a little out of it. 
+لاباس عليك ؟ تضهر ندراكيفاش. / لاباس عليك ؟ تضهر ندراشبيك. / لاباس ياخي ؟ تضهر ندراكيفاش. / لاباس ياخي ؟ تضهر ندراشبيك.
+
+# Can we start over? 
+ننجمو نعاودو مالأول؟  / نعاودو نبداو؟
 
