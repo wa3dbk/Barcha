@@ -2840,7 +2840,10 @@
 تكلّم!
 
 # Stand up!
-آقف!
+آقف! / قوم آقف!
+
+# He liked to play in the bathtub.
+يحبّ يلعب في البانو.
 
 # Terrific!
 رائع! / ممتاز! / هايل!
@@ -4272,6 +4275,9 @@ L'homard ب20 دولار الرطل.
 # Be a good boy.
 اقعد عاقل.
 
+# Give it to me.
+أعطيهالي. / أعطيهولي.
+
 # But I gotta go.
 أما لازمني نمشي.
 
@@ -4283,6 +4289,9 @@ L'homard ب20 دولار الرطل.
 
 # Give me the rice.
 مدّلي الرّوز. / أعطيني الرّوز.
+
+# Give me a hug.
+إيجا عنّقني.
 
 # I am so sorry. I do not want to fight anymore
 سامحني. معادش نحبّ نتعارك.
