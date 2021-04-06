@@ -76,6 +76,27 @@
 # I don't understand.
 ما فهمتش. 
 
+# No, we were there last night.
+لا كنّا لغادي البارح. / لا كنّا لغادي لبارح. / لا البارح كنّا لغادي.
+
+# I did it. It was me.
+أنا اللي عملتها.  / أنا عملتها. 
+
+# You know, we haven't actually met.
+تعرف، ما تلاقيناش. / تعرف، ما تلاقيناش أحنا أصلا.
+
+# It was such a long time ago.
+الحكاية صارت من بكري.
+
+# Sorry about that.
+ديزولي. / Désolé. / سامحني عليها الحكاية. / سامحني.
+
+# Welcome to the real world! 
+مرحبا بيك في العالم الحقيقي.
+
+# What have you done to him?
+شعملتلو؟ / شعملتلو ياخي؟ / شعملتولو؟ / شعملتولو ياخي؟
+
 # I don't want it.
 ما حاشتيش بيها. / ما حاشتيش بيه.
 
