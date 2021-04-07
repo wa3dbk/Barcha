@@ -364,6 +364,21 @@
 # Are you here yet?
 جيتشي؟
 
+# I have to give you something.
+لازمني نعطيك حاجة.
+
+# What shoe? 
+أنو صبّاط؟
+
+# We're just gonna need a little time.
+بش نستحقّو شوية وقت. / لازمنا شوية وقت.
+
+# It's no big deal.
+ماهيش مشكلة كبيرة. / مش مشكلة. / مش مشكل.
+
+# Rachel, can we talk for a sec?
+راشيل، ننجمو نحكيو دقيقة؟ / راشيل، ننجمو نحكيو لحظة؟
+
 # The book is under the table.
 الكتاب تحت الطاولة.
 
