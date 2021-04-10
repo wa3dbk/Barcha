@@ -145,6 +145,9 @@
 # I'm an American.
 أنا أمريكاني.
 
+# The policeman arrested the burglar. 
+البوليسي شدّ السارق.
+
 # I'm cleaning my room.
 هاني ننظّف في بيتي. / قاعد ننظّف في بيتي.
 
