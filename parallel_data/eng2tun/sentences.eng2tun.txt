@@ -367,6 +367,9 @@
 # Are you here yet?
 جيتشي؟
 
+# I hate you for what you did to me.
+كرهتك علّي عملتو فيّا.
+
 # I have to give you something.
 لازمني نعطيك حاجة.
 
@@ -421,8 +424,14 @@
 # You're so beautiful.
  قداكش مزيانة. / قداكش مزيان.
 
+# There's nothing between me and Mark.
+ما فما شي بيناتنا أنا ومارك. / ما فما شي بيني وبين مارك.
+
 # You're very smart.
 ياسر ذكي انتي.
+
+# I can totally do this job.
+انجّم نخدمها الخدمة هاذي. / نعرف اللي انّجم نخدمها الخدمة هاذي. 
 
 # Your things are all here.
 دبشك لكل لنّا. / دبشك لكل لهنا.
