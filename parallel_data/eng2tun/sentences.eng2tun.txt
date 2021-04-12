@@ -415,6 +415,9 @@
 # We like it very much.
 عجبتنا برشا. / عجبنا برشا.
 
+# Can I help you?
+انّجّم نعاونك؟ / ننجّم نعاونك؟
+
 # Yes, really.
 ايه، بالحقّ.
 
@@ -423,6 +426,9 @@
 
 # You're so beautiful.
  قداكش مزيانة. / قداكش مزيان.
+
+# Have you booked a table?
+ريزيرفيت طاولة؟ / ريزيرفيتوا طاولة؟
 
 # There's nothing between me and Mark.
 ما فما شي بيناتنا أنا ومارك. / ما فما شي بيني وبين مارك.
@@ -462,6 +468,9 @@
 
 # Maybe another time.
 ممكن في وقت آخر. / ممكن مبعد.
+
+# Would you follow me, please?
+تنجّم تتبّعني؟
 
 # I'm not really into it.
 مش جوّي. 
@@ -535,6 +544,9 @@
 # Can you pick me up at the mall?
 تنجم تجي تهزّني مالgrande surface ؟
 
+# What can you recommend?
+شنوه تقترح عليا؟ / شنوه تقترح علينا؟ / شنوه تقترح؟
+
 # We are going to watch a movie.
 بش نتفرّجو في فيلم.
 
@@ -561,6 +573,9 @@
 
 # Do you like blue or yellow?
 تحبّ الأزرق ولا الأصفر؟
+
+# Please bring me the bill 
+باللاهي جيبلي الفاتورة؟ / تنجم تجيبلي الفاتورة باللاهي؟ / تنجم تجيبلي الفاتورة يعيّشك؟  / باللاهي جيبلي الfacture؟ / تنجم تجيبلي الfacture باللاهي؟ / تنجم تجيبلي الfacture يعيّشك؟ 
 
 # What are you thinking of?
 فاش تخمّم؟ / فاش قاعد تخمّم؟ / فاش تخمّم انتي؟ / فاش قاعدة تخمّم؟
