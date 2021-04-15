@@ -481,6 +481,9 @@
 # Nah.
 لا. 
 
+# How I met your mother.
+كيفاش تقابلنا أنا وأمك.
+
 # That's not going to work for me.
 لا ما يساعدنيش. 
 
