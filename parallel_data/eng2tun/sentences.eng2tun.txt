@@ -547,6 +547,12 @@
 # Can you pick me up at the mall?
 تنجم تجي تهزّني مالgrande surface ؟
 
+# Where can I find ketchup? 
+فين ننجّم نلقى الكاتشاب؟
+
+# Let's at least talk about it. 
+خلّي نحكيو عليها الحكاية عالأقل. / خلّي عالأقل نحكيو فيه الموضوع.
+
 # What can you recommend?
 شنوه تقترح عليا؟ / شنوه تقترح علينا؟ / شنوه تقترح؟
 
@@ -810,6 +816,12 @@
 
 # I have three sisters.
 عندي ثلاثة خوات بنات.
+
+# Do you have milk? 
+عندك حليب ؟ / عندكم حليب ؟
+
+# Sorry, it’s out of stock.
+الله غالب ماعادش عندنا في الstock.  / الله غالب ماعادش عندنا.
 
 # When was the last time you saw them?
 وقتاش آخر مرّة ريتهم فيها؟ / وقتاش آخر مرّة ريتهم؟ / وقتاش ريتهم آخر مرّة؟
@@ -1154,6 +1166,12 @@
 # You're a good friend.
 صاب باهي انتي والله. / انتي صاحب باهي. / صاحبة باهية انتي.
 
+# Please sign here.
+صحّحلي لنّا من فضلك. / صحّح لنّا من فضلك. / صحّح لهنا يعيّشك. / صحّحلي لهنا من فضلك. / صحّحلي لهنا يعيّشك.
+
+# Please enter your PIN.
+اكتب الPIN متاعك. / حطّ الPIN متاعك.
+
 # My father is so important to me.
 بابا أهمّ شخص عندي.
 
@@ -1345,6 +1363,12 @@
 
 # Is it okay if we add a bit of sugar to the tea?
 ميسالش كان نزيدو شوية سكّر للتاي؟ / انّجّمو نزيدو شوية سكّر للتاي؟ / ميسالش كان نزيدولو شوية سكّر التاي؟ / انّجّمو نزيدولو شوية سكّر التاي؟
+
+# I started crying when I was chopping the onions. 
+بديت نبكي وقتلي كنت نقصّ في البصل. / وقتلي قصيت البصل بديت نبكي. 
+
+# After a six month period, his leg was healed and is normal again. 
+بعد مدّة ستة أشهرة، ساقو برات ورجعت عادية. / بعد مدّة ستة أشهرة، ساقو برات ورجعت نورمال.
 
 # Welcome to my office.
 مرحبا بيك في بيرويا.
@@ -1691,6 +1715,12 @@
 # The dog did not bark.
 الكلب ما نبحش.
 
+# Look at the blackboard.
+اغزر للصبورة.
+
+# Is this typewriter yours? 
+متاعك الداكتيلو هذا؟ 
+
 # I enjoy Coke. 
 نحبّ الكوكا.  / نحبّ الڤازوز.
 
@@ -1895,6 +1925,9 @@
 # I'm staying home this evening.
 بش نقعد في الدار العشية هاذي. /  بش نقعد في الدار العشويّة هاذي. / بش نشدّ الدار العشية هاذي. /  بش نشدّ الدار العشويّة هاذي. 
 
+# Don't you work in the cafeteria?
+ما تخدمش في الكافيتيريا إنتي ؟ / مش تخدم في الكافيتيريا إنتي؟
+
 # The cat stays inside.
 القطّوس يقعد الداخل. / القطّوس يقعد لداخل. /  يقعد لداخل القطّوس .
  
@@ -1912,6 +1945,12 @@
 
 # Adults pay full price, but children are free.
 الكبار يخلّصوا سوم كامل أما الصغار بلاش. / الكبار يخلّصوا كل شي أما الغشاشر بلاش.  / الكبار يخلّصوا أما الصغار لا. /  الكبار يخلّصوا أما الغشاشر لا.
+
+# He failed in his business and now is a total wreck.
+فشل في الخدمة متاعو وتوّ تحطّم. / فشل في البزنس متاعو وتوّ تحطّم.
+
+# Blackboards are not always black.
+الصبورات مش ديما كحل.
 
 # Don't worry about tomorrow.
 ما تقلّقش روحك في ما يخصّ غدوة. / في خصوص غدوة من غير ما تقلّق روحك. 
@@ -2039,6 +2078,9 @@
 # My baby niece likes to pull my hair.
 بنت خويا الصغيرة تحب تجبدلي شعري. / بنت أختي الصغيرة تحب تجبدلي شعري.
 
+# Typewriters are so noisy. 
+الداكتيلوات يعملوا برشا حسّ. / الدكتيلوات يعملوا برشا حسّ.
+
 # The best things in life are free.
 أحلى حاجات في الدنيا مجانيّين.
 
@@ -2101,6 +2143,12 @@
 
 # What's the difference between happiness and contentment?
 شنوه الفرق بين السعادة والرضا؟ / شنوه الفرق مابين السعادة والرضا؟ / الفرق شنوه بين السعادة والرضا؟ /  الفرق شنوه مابين السعادة والرضا؟
+
+# Does anybody know if the cafeteria is still open?
+فما شكون يعرف ياخي الكافيتيريا محلولة ولا لا؟
+
+# There are billions of stars in the sky.
+فما ملبارات نجوم في السماء.
 
 # I forgot to thank her for the peaches she sent us.
 نسيت بش نشكرها على الخوخ إلّي بعثتهولنا. / نسيت ما شكرتهاش على الخوخ  إلّي بعثتهولنا.
@@ -2230,6 +2278,9 @@
 
 # Could you buy me some cooking oil at the store?
 تنجم تشري شوية زيت مالحانوت ؟
+
+# Compare your translation with the one on the blackboard.
+قارن الترجمة متاعك بالترجمة إلّي في الصبورة.
 
 # Just half a liter please.
 نص إيترة وكهو باللاهي.  / Juste نص إيترة وكهو باللاهي.  / نص إيترة وكهو يعيشك.  / Juste نص إيترة وكهو يعيشك.  / بربي نص إيترة وكهو. / نص ليترة وكهو باللاهي.  / Juste نص ليترة وكهو باللاهي.  / نص ليترة وكهو يعيشك.  / Juste نص ليترة وكهو يعيشك.  / بربي نص ليترة وكهو.
@@ -2533,6 +2584,12 @@
 # He needs to study for the test.
 لازمو يحضّر للإمتحان. / لازمو يحضّر للدوفوار. /  لازمو يحضّر للdevoir. 
 
+# Don't exaggerate.
+ما تبالغش.
+
+# What is your final destination? 
+شنية الdestination finale متاعك؟
+
 # Please hang your coat on the hook.
 علّق الفيستة متاعك في المعلاق. / علّقها في المعلاق الفيستة متاعك. / علّق الكبّوط متاعك في المعلاق. / علّقو في المعلاق الكبّوط متاعك.
 
@@ -2779,17 +2836,29 @@
 # Run!
 إجري!
 
+# They are talking over a cup of coffee in the cafeteria.
+قاعدين يشربوا في قهوة ويحكيو في الكافيتيريا.
+
 # Help me!
 إيجا عاونّي!
 
 # Jump!
 نڤّز!
 
+# Nearly a thousand people participated in the demonstration.
+قرابة ألف عبد شاركوا في المظاهرة.
+
+# She intends to participate in a beauty contest.
+ناوية تشارك في مسابقة جمال.
+
 # Go on.
 واصل. / يلّا.  / كمّل.
 
 # I see.
 فهمتك.
+
+# He didn't participate in the discussion.
+ما شاركش في الdiscussion.  / ما شاركش في الحديث.
 
 # I won!
 ربحت!
@@ -2809,6 +2878,12 @@
 # I'm OK.
 لاباس عليّا.
 
+# He is accustomed to bribing anyone who gets in his way. 
+مستانس يرشي أي واحد يجي في ثنيتو.
+
+# I don't like the taste of onions. 
+ما نحبوش مطعم البصل. / ما نحبوش مطعمو البصل. / ما نحبش مطعمو البصل.
+
 # No way!
 مستحيل! / امبوسيبل!  / Impossible !
 
@@ -2826,6 +2901,15 @@
 
 # Get out!
 اخرج من هنا! / اخرج! / اخرج عليّا! / اخرج من قدّامي! 
+
+# She took advantage of my ignorance. 
+استغلت الجهل متاعي.
+
+# One billion people speak English.
+مليار شخص يحكيو بالanglais. / مليار عبد يحكيو بالanglais. / مليار شخص يحكيو anglais. / مليار عبد يحكيو anglais.
+
+# Are you attempting to bribe me?
+قاعد ترشي فيا؟ / قاعد ترشي فيا ياخي؟ / ياخي تحبّ ترشيني؟
 
 # Go away!
 ابعد عليا خليني وحدي! / خليني رايض أخطاني!
@@ -2850,6 +2934,15 @@
 
 # Welcome.
 أهلاً و سهلا! / مرحبا بيك!
+
+# Albania wants to join the European Union.
+ألبانيا تحبّ تنضمّ للإتحاد الأوروبي.
+
+# I can plead ignorance.
+ننجّم ندّعي الجهل. / انجّم ندّعي الجهل.
+
+# They were delighted at the good news.
+فرحوا بالأخبار الباهية.
 
 # Who won?
 شكون ربح؟ / شكون اللي ربح؟
@@ -2980,6 +3073,12 @@
 # I laughed.
 ضحكت.
 
+# She switched on the lamp because it was dark.
+بدّلت الأنبوبة خاطر الدنيا كانت ظلام.
+
+# He is prime minister in name, but not in reality.
+هو الوزير الأول بالإسم، أما مش في الواقع.  / هو الوزير الأول بالإسم، أما مش في الحقيقة.
+
 # I like it.
 عجبني. / عجبتني.
 
@@ -2992,11 +3091,23 @@
 # I'm alone.
 وحدي. / هاني وحدي.
 
+# The more we learn, the better we realize our ignorance. 
+على قد ما نتعلمو على قد ما نفهمو قداشنا جاهلين. / على قد ما نتعلمو على قد ما نفهمو قداش مازلنا نجهلو حاجات.
+
+# If you want to go camping with us, we'd be delighted.
+نفرحو برشا كان تحب تمشي معانا في الكامبينغ. / نفرحو برشا كان تحب تمشي معانا في الcamping.
+
 # I'm bored.
 قلقت. / قالق.
 
 # They are bored.
 قلقوا. / قالقين.
+
+# Achilles was an ancient Greek hero.
+أخيل كان بطل إغريقي. / أشيل كان بطل إغريقي.
+
+# I bought a pair of leather shoes. 
+شريت صباط جلد.
 
 # I'm broke.
 فالس. / أنا فالس.
@@ -3012,6 +3123,12 @@
 
 # It's late.
 ياسر مخّر توّ. / مخّر توّ.
+
+# Why did ancient Egyptians love jewels so much? 
+علاش المصاورة القدم كانوا يحبوا برشا المجوهرات؟
+
+# Please give me a haircut.
+قصّلي شعري باللاهي. / أعملّي قصّة باللاهي. / باللاهي قصّلي شعري. / أعملّي قصّة يعيشك. / قصّلي شعري من فضلك.
 
 # Let me go.
 خلّيني نمشي. / سيّبني.
@@ -3033,6 +3150,12 @@
 
 # He's stronger than you think.
 هو أقوى ملّي تتصوّر. / هو راهو أقوى ملّي تتصوّر. / أقوى ملّي تتصوّر هو. 
+
+# I don't like spiders and snakes.
+ما نحبّش العناكب والحنوشة.
+
+# Some people take advantage of the ignorance and helplessness of old people.
+فما عباد اللي يستغلوا الجهل والضعف متاع العباد الكبار في العمر.
 
 # Here we are!
 هانا وصلنا! / هانا جينا! / هانا لهنا! 
@@ -3184,6 +3307,12 @@
 # I remember mailing the letter.
 نتفكّر روحي بعثت الجواب.
 
+# Which branch of the armed forces were you in?
+في أنو فرع من القوات المسلحة كنت انتي ؟
+
+# I can't believe that spider is still there.
+ما نصدّقش اللي العنكبوت هذاكا مازال لغادي.
+
 # Two boats have capsized off Tunisia.
 زوز بطّوات تقلبوا في تونس. / زوز فلايك تقلبوا في تونس.
 
@@ -3243,6 +3372,12 @@
 
 # Why don't we go home?
 علاش ما نمشيوش للدّار؟ / علاش ما نروّحوش للدّار؟
+
+# Where should I put my laundry?
+فين نحط دبشي الممسخ؟ / فين نحط دبشي اللي بش يتغسل؟ / فين نحط دبشي اللي لازم يتغسل؟
+
+# I need a lamp.
+لازمني أنبوبة. / حاشتي بأنبوبة.
 
 # Why is your husband even here?
 علاش لنّا هو راجلك أصلا؟ / علاش راجلك لنّا من أصلو ؟  / علاش هو لنّا راجلك من أصلو ؟ 
@@ -3312,6 +3447,12 @@
 
 # Cut the cake with a knife.
 قصّ الخبزة بالسكّينة.
+
+# Rome has a lot of ancient buildings. 
+روما فيها برشا بنيات قدم.
+
+# Police shouldn't take bribes. 
+البوليسية ما لازمهمش يقبلوا رشوات. / البوليسية ما لازمهمش يقبلوا رشاوي. / البوليسية ما لازمهمش يقبلوا الرشاوي. / الحاكم ما لازموش يقبل رشاوي. / الحاكم ما لازموش يقبل الرشاوي.
 
 # Can you recommend a good doctor?
 تنجّم تنصحني بطبيب باهي؟
@@ -3412,6 +3553,9 @@
 # That boy is not well behaved.
 الطّفل هذاكا ماهوش متربّي.  / الطّفل هذاكا ماهوش متربّي بالباهي. 
 
+# Do you think I need a haircut? 
+زعمة لازمني حجامة؟ /  تتصوّر لازمني نحجّم؟ / شقولك لازمني حجامة؟ /   شقولك لازمني  قصّة. /  شقولك لازمني  نقصّ شعري؟
+
 # Mom and dad love drinking coffee and eating donuts.
 بابا وأمّي يحبّوا شرب القهوة وماكلة الدونات.  / بابا وأمّي يحبّوا شرب القهوة وماكلة الdonuts.  / بابا وماما يحبّوا شرب القهوة وماكلة الdonuts. 
 
@@ -3463,6 +3607,12 @@
 # The flowers smelled beautiful.
 النوّار ريحتو باهية. / النوّار ريحتو مزيانة. / النوّار ريحتو بنينة.
 
+# The minister had to resign.
+الوزير إضطرّ يستقيل.  / تلزّ يستقيل الوزير.
+
+# I need to get a haircut.
+لازمني نحجّم.
+
 # My sister likes to eat cheese during breakfast.
 أختي تحبّ ماكلة الجبن في فطور الصّباح.
 
@@ -3500,6 +3650,18 @@ He was driving me crazy so I told a joke and made him laugh.
 
 # How's life?
 شعاملة فيك الدّنيا؟
+
+# There are nine planets travelling around the sun, the earth being one of them. 
+فما تسعة كواكب قاعدين يدوروا على الشمس، وكوكوب الأرض واحد منهم. / فما تسعة كواكب قاعدين يدوروا على الشمس، والأرض وحدة منهم.
+
+# Weapons export was prohibited. 
+تصدير الأسلحة كان ممنوع. / تصدير السلاح كانوا مانعينو.  /  تصدير السلاح كان ممنوع.
+
+# Jeans are a popular clothing export.
+الدجين من أكثر الحوايج اللي تتصدّر.
+
+# Health is wealth.
+الصحّة ثروة.
 
 # I'm fine, thanks. How about you?
 الحمد لله لاباس. شعامل انتي ؟ /   الحمد لله لاباس. شنحوالك انتي ؟ / الحمد لله لاباس. وإنتي؟
@@ -3843,6 +4005,15 @@ Would you like to join me for dinner?
 # Guess.
 طلّع.
 
+# It's a leather valise.
+فاليجة جلد. / الفاليجة جلد.
+
+# They did not join unions or strike.
+ما دخلوش في إتحاد ولا عملوا إضراب. / ما دخلوش في إتحاد ولا ڤرّفوا.
+
+# Neptune is the eighth planet of the solar system.
+نبتون ثامن كوكب في الsystème solaire. / نبتون ثامن كوكب في النظام الشمسي. / Neptune ثامن كوكب في الsystème solaire. /  Neptune ثامن كوكب في النظام الشمسي.
+
 # Do you have something like this but cotton?
 عندك حاجة كيما هكّا أما coton ؟ 
 
@@ -3975,6 +4146,15 @@ Would you like to join me for dinner?
 # Leave me a message if you're going to be late.
 أبعثلي ميساج كان بش توخّر. / أبعثلي message كان بش توخّر. / خلّيلي message كان بش توخّر. / خلّيلي ميساج كان بش توخّر.
 
+# I'm afraid of spiders. 
+نخاف منهم العناكب. / نخاف مالعناكب أنا. /  نخاف مالعناكب. 
+
+# Who did the decorating?
+شكون عمل الdécoration ؟  / شكون زيّنها البلاصة؟
+
+# The minister is to visit Mexico next week.
+الوزير بش يزور المكسيك الجمعة الجاية.
+
 # Remove the cookies from the oven.
 خرّج الكوكيز مالفور. / خرّج الكوكيز من الفور. / خرّج البشكوطو مالفور.  / خرّج البشكوطو من الفور. 
 
@@ -4049,6 +4229,15 @@ Would you like to join me for dinner?
 
 # Can you see the sign?
 تنجّم تشوفها البلاكة؟
+
+# Let's cross the street. 
+هيا نشقّو الكياس.
+
+# Ethics is a branch of philosophy.
+الأخلاق فرع من فروع الفلسفة.
+
+# She decorated her room with roses.
+زيّنت بيتها بles roses. / زينت بينها بالروزات.
 
 # Seek and you will find.
 أسعى توّ ربي يعطيك. / أسعى تو تلقى. / أسعى تو توصل.
@@ -4215,6 +4404,15 @@ L'homard ب20 دولار الرطل.
 # Cats are good pets, for they are clean and are not noisy.
 القطاطس حويانات أليفة باهية على خاطرهم نظاف وما يعملوش الحسّ. / القطاطس حويانات باهية متاع دار على خاطرهم نظاف وما يعملوش الحسّ.
 
+# Tom works on Wall Street.
+طوم يخدم في والستريت.
+
+# I saw a boy crossing the street. 
+شفت طقل يشق في الكياس. / ريت طفل شاقق الكياس.
+
+# Can I at least give you a hug?
+ننجّم عالأقل نعنّقك؟ / ميسالش نعنّقك عالأقل؟
+
 # Courage and stupidity were all he had.
 ما كان عندنا كان الشجاعة والبهامة.
 
@@ -4263,6 +4461,12 @@ L'homard ب20 دولار الرطل.
 # Use me.
 إستعملني.
 
+# Can you at least try?
+تنجّم تحاول عالأقل؟ / تنجم عالأقل تحاول؟
+
+# I crossed the street. 
+شقيت الكياس. / قصّيت الكيّاس.
+
 # Good boy!
 صحّيت!
 
@@ -4308,6 +4512,12 @@ L'homard ب20 دولار الرطل.
 # Very bad.
 خايب برشا. / خايبة برشا.
 
+# Here’s your change.
+هاو الباقي متاعك. / هاو باقيك.
+
+# We export a lot of automobiles to that country.
+نصدّرو برشا كراهب للبلاد هاذيكا. / نصدّرولها برشا كراهب البلاد هاذيكا.
+
 # Wait wait.
 استنى استنى.
 
@@ -4344,6 +4554,18 @@ L'homard ب20 دولار الرطل.
 # Give it to me.
 أعطيهالي. / أعطيهولي.
 
+# Cross the street. 
+شقّ الكياس. / شقّ الطريق.
+
+# I don't have much desire for wealth.
+ما عينيش في الثروة.
+
+# Algebra is a branch of mathematics. 
+الجبر فرع مالماط.  / الalgèbre فرع من فروع الماط.
+
+# I decorated my room.
+زيّنت بيتي.
+
 # But I gotta go.
 أما لازمني نمشي.
 
@@ -4368,3 +4590,20 @@ L'homard ب20 دولار الرطل.
 # Can we start over? 
 ننجمو نعاودو مالأول؟  / نعاودو نبداو؟
 
+# Bring your wallet.
+جيب الportefeuille متاعك. / جيب البورتفوي متاعك.
+
+# Don't you think we should at least give him a call?
+ما تتصوّرش لازمنا عالأقل نكلّموه؟ / ما تتصوّرش لازمنا عالأقل نطلبوه؟
+
+# I can see some people walking across the street. 
+نشوف في عباد يشقوا في الكياس.  / نشوف في عباد يقصوا في الكياس.
+
+# I'd rather live in peaceful poverty than in wealth and fear.
+نعيش في الفقر وراحة البال خير مالي نعيش غني وفي خوف.
+
+# Sorry, we’re out of unsalted peanuts at the moment.
+لا ما عادش عندنا كاكاوية مملّحة. / الله غالب ما عادش عندنا كاكاوية مملّحة.
+
+# How would you like to pay?
+كيفاش تحبّ تخلّص؟
