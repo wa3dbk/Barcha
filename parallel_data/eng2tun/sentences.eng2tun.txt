@@ -595,6 +595,12 @@
 # This is their house.
 هاذي دارهم.
 
+# He didn't spoil us.
+ما دلّلناش.
+
+# Need a lift?
+تحبّ نوصّلك؟
+
 # What can I do for you?
 شنوه انجّم نعملّك ؟ / باش ننجم نعاونك؟ / كيفاش انجّم نعاونك؟ / ننجم نعاونك؟
 
@@ -763,6 +769,12 @@
 # Your faith will see you through tough times.
 الإيمان متاعك يخليك تتخطى الأوقات الصعيبة.
 
+# She didn't spoil us.
+ما دلّلتناش.
+
+# Can you please repeat that?
+تنجّم تعاودلي ميسالش؟ / تنجّم تعاودلي باللاهي؟ / تنجّم باللاهي تعاودلي؟
+
 # Do you want to go with us?
 تحبّ تمشي معانا؟
 
@@ -862,6 +874,12 @@
 # I can wait for you here while you shop.
 تو نستناك لهنا وانتي قاعدة تقضي. /   تو نستناك لنّا مادامك انتي تقضي. 
 
+# I like reading
+نحبّ القراية.
+
+# Let’s grab lunch.
+هيا نفطرو. / هيا نمشيو نفطرو.
+
 # I didn't mean to sound so angry.
 من صوتي ممكن نضهر متغشش أما ما كانش هذاكا قصدي. 
 
@@ -906,6 +924,18 @@
 
 # Can we talk in private?
 انجّمو نحكيو وحدنا؟
+
+# I don't mind.
+ما فماش مشكل. / ما يقلقنيش.
+
+# Don't spoil them too much. 
+ما تدلّلهمش برشا. / ما تدلّلهمش بزايد.
+
+# Don't reuse it.
+ما تعاودش تستعملو. / ما تعاودش تستعملها.  / ما تعاودوش تستعملوه. / ما تعاودوش تستعملوها.
+
+# I mean it.
+بجدّي نحكي.
 
 # Where were you last night?
 فين كنت البارح؟ / فين مشيت لبارح؟
@@ -977,6 +1007,12 @@
 
 # Can we play that game again?
 انّجمو نعاودو نلعبوها اللعبة؟ /  نعاودو نلعبوها اللعبة مرة أخرة؟
+
+# They didn't spoil us.
+ما دلّلوناش.
+
+# I know a good place nearby.
+نعرف بلاصة مزيانة وقريبة. / نعرف بلاصة قريبة باهية.
 
 # Just a few more errands and I'm done!
 عندي شوية قضيات أخرى وكهو. / شوية قضيات أخرى ونكمّل. 
@@ -1133,6 +1169,12 @@
 # I love my job.
 نحبّها خدمتي أنا. / أنا نحبّ خدمتي. / خدمتي نحبّها. /  أنا نحبّها خدمتي.
 
+# Don't lie to me.
+ما تكذبش عليا.
+
+# Don't hang out with her.
+ما تخالطهاش. / ما تخرجش معاها.
+
 # If you have a cold rub some vicks
 كانك مستبرد ادهن بشويّة فيكس.
 
@@ -1183,6 +1225,12 @@
 
 # That was such a long time ago.
 هذاكا صار من بكري. / يا حسرة.
+
+# She didn't buy it to them.
+ما شراتهالهمش. /  ما شراتهولهمش.
+
+# Don't lie to them.
+ما تكذبش عليهم.
 
 # Please provide me with a list of your services.
 باللاهي قلّي شنوما les services متاعهم. / من فضلك اعطيني ليستة الخدمات متاعهم. 
@@ -1261,6 +1309,16 @@
 
 # I'm almost done with my report.
 عدّي كمّلتو الرابور متاعي. / قريب نكمّل الrapport متاعي.
+
+# Want to order out?
+تحب نكمانديو حاجة؟
+
+# Need a ride?
+تحبّ نوصّلك؟
+
+# It took my eyes a moment to adjust to the darkness. 
+عينيا خذاو شوية وقت بش آدابتاو رواحهم للظلام.
+
 
 # Did you remember to include the summary in your report?
 ما نسيتش بش تزيد تلخيص في الرابور متاعك ماو ؟ / ماو ما نسيتش تزيد résumé في الrapport متاعك ؟
@@ -1424,6 +1482,15 @@
 # Are you going to her party tonight?
 ماشي للحفلة متاعها الليلة؟ / ماشية للحفلة متاعها اليوم في الليل؟ / ماشية للحفلة متاعها اليوم الليلة هاذي؟
 
+# Where are we meeting?
+فين نتقابلو؟ / فين بش نتقابلو؟
+
+# Where can I leave this?
+فين نخليه هذا؟ / فين نخليها هاذي؟
+
+# Let’s get a coffee sometime.
+خلينا نشوفوك نمشيو نقهوجو ساعات. / تو نوليو نمشيو نقهوجو نهار مالنهارات.
+
 # We support everyone within our small community.
 نساندو العباد لكل في الcommunauté الصغيرة متاعنا. /  في الcommunauté الصغيرة متاعنا، نساندو العباد لكل. / نساندو الناس لكل في الcommunauté الصغيرة متاعنا. /  في الcommunauté الصغيرة متاعنا، نساندو الناس لكل.
 
@@ -1570,6 +1637,12 @@
 
 # I did sense that something was not okay.
 كنت حاسس إلّي فما حاجة مش عادية. /  كنت حاسس إلّي فما حاجة مش مريڤلة. 
+
+# They didn't lie to us.
+ما كذبوش علينا.
+
+# I like reading more than you.
+نحبّ القراية أكثر منّك.
 
 # He is going to build his dream house.
 بش يبني دار الأحلام متاعو. / باش يبني الدار إلّي طول عمرو يحلم بيها.
@@ -1730,6 +1803,67 @@
 # I love walking in nature!
 نحبّ المشي في الطبيعة. 
 
+# Your fingerprints were found on the murder weapon. 
+لقاو البصمات متاعك على أداة الجريمة.
+
+# Seventy or eighty years is the normal span of a man's life. 
+سبعين ولّا ثمانين سنة طول طبيعي لعمر الإنسان.  / سبعين ولّا ثمانين سنة طول طبيعي لعمر الرجال. 
+
+# His good health enabled him to work till the age of seventy-five. 
+الصحة الباهية متاعو خلاتو ينجّم يخدم حتى لعمر خمسة وسبعين.
+
+# They had an extraordinary relationship.
+كانت عندهم علاقة هايلة. / كانت عندهم relation هايلة. / كانت عندهم relation extraordinaire.
+
+# The young girl lost her bracelet.
+الطفلة الصغيرة ضيّعت البراسلي متاعها. / الطفلة الصغيرة ضيّعت الbracelet متاعها.
+
+# The passengers were asleep in their cabins when the ship hit a huge iceberg.
+المسافرين كانوا راقدين في les cabines متاعهم وقت اللي البطّو دهم في الiceberg. / المسافرين كانوا راقدين في les cabines متاعهم وقت اللي الbateau دهم في الiceberg. / المسافرين كانوا راقدين في الكابينات متاعهم وقت اللي البطّو دهم في الآيسبرغ. / المسافرين كانوا راقدين في الكابينات متاعهم وقت اللي البطّو دهم في الiceberg.
+
+# We still have plenty of time.
+مازال عندنا برشا وقت.
+
+# What you said at the meeting today was very interesting. 
+إللي قلتو في الإجتماع البارح ياسر مهمّ.
+إللي قلتو في الإجتماع البارح ياسر intéressant.
+
+# I couldn't help but laugh.
+ترشقت بالضحك.  / شدّني الضحك.
+
+# He said he saw a shark the other day when he was swimming.
+قال شاف قرش هاك النهار وهو يعوم. / قال اللي هو شاف قرش هاك النهار وهو يعوم. / قال اللي هو شاف requin هاك النهار وهو يعوم.
+
+# The room was in complete darkness.
+البيت ظلام. / البيت لكلها ظلام.
+
+# The motor died before we got to the house.
+الموطور مات قبل ما نوصلو للدار. / الموطور برك قبل ما نوصلو للدار. / الموطور طاح panne قبل ما نوصلو للدار.
+
+# You look better without makeup.
+انتي أحلى بلاش ماكياج.
+
+# Are you wearing makeup? 
+ممكيجة؟ / ممكيج؟
+
+# Singers use microphones to make their voices louder.
+المغنّين يستعملوا الميكروات بش صوتهم يوصل أعلى.
+
+# Sharks are good swimmers. 
+الروكانات يعوموا بالباهي. / حيتان القرش يعوموا بالباهي.
+
+# The cat is sitting on the rug.
+القطوس قاعد على السجادة.
+
+# The police compared the fingerprints on the gun with those on the door. 
+البوليسية قارنوا البصمات اللي على الفرد مع البصمات اللي على الباب.
+
+# Rabbits breed quickly. 
+الأرانب يتكاثروا فيسع.
+
+# He played a key role in the movement. 
+لعب دور أساسي في الحركة.
+
 # My favorite color is blue.
 لوني المفضّل هو الأزرق. / نحبّ الأزرق أكثر لون. 
 
@@ -1790,6 +1924,51 @@
 # They are employing her on a trial basis.
 خدّموها أما مازالت في période d'essai. 
 
+# She rents the room to a student for seven hundred euros a month.
+كرات البيت لطالبة بسبعة مائة أورو في الشهر. / كرات البيت لطالبة بسبعمياة أورو في الشهر. / كرات البيت لطالبة ب700 أورو في الشهر.
+
+# The first thing that caught his eye was a fingerprint on the glass.
+أول حاجة فطنلها هي البصمة على الكاس. / أول حاجة فطنلها هي البصمة إللي على الكاس. / أول حاجة جلبت النظر متاعو هي البصمة على الكاس. / أول حاجة جلبت النظر متاعو هي البصمة إللي على الكاس.
+
+# I can understand your skepticism.
+نفهمو الإرتياب متاعك. /  نفهمهم الشكوك متاعك.
+
+# Some animals will not breed when kept in cages. 
+فما حيوانات ما تتكاثرش كي تبدا في القفوصة. / فما حيوانات ما تتكاثرش كي تبدا في قفص.
+
+# We must respect each of God's creatures and respect the environment in which we live.
+لازمنا نحترمو مخلوقات ربي لكل ونحترمو المحيط إللي نعيشو فيه.
+
+# Isn't it a beautiful day for a marathon race?
+مش هايل الطقس متاع ماراطون؟
+
+# I don't like seeing young girls with heavy makeup.
+ما نحبش نشوف البنات الصغار ببرشا ماكياج.
+
+# Heat and light are necessary for our existence.
+السخانة والضوء ضروريين للعيشة متاعنا.
+
+# The investigation concluded that the police officer had done nothing wrong.
+بعد التحقيقات خرج الاستنتاج أنو البوليسي ما عمل حتى شي غالط. / بعد التحقيقات استنتاجوا أنو البوليسي ما عمل حتى شي غالط.
+
+# Art is not a luxury, but a necessity.
+الفنّ حاجة ضرورية ماهوش رفاهية.
+
+# I inspired my students to work harder. 
+ألهمت الطلبة متاعي بش يخدموا بالباهي. / ألهمت التلامذة متاعي بش يخدموا بالباهي. / ألهمت الطلبة متاعي بش يخدموا بربّ وقلب. / ألهمت التلامذة متاعي بش يخدموا بربّ وقلب.
+
+# How can you justify your rude behavior? 
+كيفاش تنجم تبرّر قلّة التربية متاعك؟  / كيفاش تنجم تبرّرها قلّة التربية متاعك؟ 
+
+# Rats breed rapidly.
+الفيران تتكاثر فيسع. / الفيران تتكاثر فيسع فيسع.
+
+# Rugs absorb sound.
+السجادات تابسوربي الصوت.
+
+# We're the champions. 
+أحنا الأبطال.
+
 # He was an IT expert.
 كان informaticien هو. / كان informaticien. / هو كان informaticien. 
 
@@ -1834,6 +2013,15 @@
 
 # In theory, that's a good plan.
 نظريّا، plan باهي هذا. / نظريّا الplan هذا باهي.
+
+# Don't hang out with them.
+ما تخالطهمش. / ما تخرجش معاهم.
+
+# I didn't buy it to them.
+ما شريتهالهمش. / ما شريتهولهمش.
+
+# They didn't teach it to us.
+ما قرّاوهالناش.
 
 # He hasn't responded to my text yet.
 مازال ما جاوبنيش على ميساجاتي. 
@@ -2200,6 +2388,9 @@
 
 # I'm going home because my mom needs me.
 ماشي للدار على خاطر ولدي يستحقّني. / مروّح للدار على خاطر ولدي يستحقّني.  / ماشية للدار على خاطر ولدي يستحقّني. / مروّحة للدار على خاطر ولدي يستحقّني. 
+
+# He didn't buy it to them.
+ما شراهالهمش. / ما شراهلهمش.
 
 # How much is the income tax?
 قداش الimpôt sur le revenu ؟ / قدّاش الضريبة على الدخل؟
