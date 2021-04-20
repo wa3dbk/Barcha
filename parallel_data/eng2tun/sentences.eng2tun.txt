@@ -676,6 +676,51 @@
 # Please throw the trash out.
 باللاهي طيّش البوبالة. 
 
+# I am not a monster. 
+مانيش وحش.  / منيش وحش. / أنا مانيش وحش.
+
+# Where did you take your earrings off?
+فين نحيتهم البلالط متاعك؟ / وين نحيتهم البلالط متاعك؟ / فين نحيتهم البلالط متاعك إنتي؟ / وين نحيتهم البلالط متاعك إنتي؟
+
+# They concluded he was lying.
+إستنتجوا اللي هو كان يكذب. / إستنتجوا اللي هو كذب.
+
+# I bought a pair of earrings.
+شريت زوز بلالط. / شريت بلالط.
+
+# He really is over seventy.
+هو بالحقّ فوق السبعين.  / هو بالحقّ عمرو فوق السبعين.  / هو بالحقّ عمرو أكثر من سبعين. 
+
+# We believe in the existence of God.
+نأمنو بوجود ربي. / نأمنو اللي ربي موجود.
+
+# You must be flexible in your thinking.
+لازمك تكون flexible في التّخمام متاعك. / لازمك تكون فليكسيبل في التّخمام متاعك. / لازمك تكون مرن في التّخمام متاعك.
+
+# A leaf is falling.
+ورقة طايحة. / ورقة قاعدة تطيح.
+
+# The end does not necessarily justify the means. 
+الغاية ما تبررش بالضرورة الوسيلة. / الغاية مش بالضرورة تبرر الوسيلة. 
+
+# It is snowing. 
+قاعد يصبّ الثلج. / الثلج قاعد يصبّ. / الثلج يصبّ.
+
+# She uses cheap makeup. 
+تستعمل ماكياج رخيص. / تستعمل مكياج رخيص. / هي تستعمل ماكياج رخيص. / هي تستعمل مكياج رخيص.  
+
+# Put the bracelet on. 
+حطّ الbracelet.  / حطّ البراسلي.  / إلبس البراسلي. / إلبس الbracelet.
+
+# Which way is your house?
+منين دارك؟ 
+
+# Success breeds success.
+النجاح يجيب النجاح.
+
+# He led a life of luxury.
+عاش عيشة فلّ. / عاش عيشة متاع بذخ. / عاش عيشة luxe.
+
 # My puppy ran into the woods.
 الجرو متاعي هرب للغابة. 
 
@@ -849,6 +894,39 @@
 
 # I have something for you.
 عندي حاجة ليك.
+
+# The actors are wearing historical costumes. 
+الممثلين لابسين كوستيمات تاريخية. / الممثلين لابسين لبس تاريخي.
+
+# Spanish is spoken in Central and South America.
+اللغة الإسبانية مستعملة في جنوب أمريكا وفي أمريكا الوسطى.
+
+# We rented a cabin by a lake.
+كرينا كابينة بحذا الlac. / كرينا cabine بحذا الlac. / كرينا كابينة بحذا البحيرة.
+
+# When was the last time you wore your earrings? 
+وقتاش آخر مرة لبست البلالط متاعك؟ / وقتاش آخر مرة لبستهم البلالط متاعك؟ / وقتاش آخر مرة لبستهم بلالطك؟
+
+# They grow leaf lettuce in their garden.
+غارسين خسّ في الجردة متاعهم.
+
+# It was evident to all of us that he was innocent. 
+ضاهر للناس لكل اللي هو بريء. /  ضاهرة للناس لكل اللي هو ما عمل شي.
+
+# Japanese love to soak in a hot tub before bed.
+اليابانيين يحبوا يعملوا بانوا سخون في العادة قبل ما يرقدوا. / الجببنة يحبوا يعملوا بانوا سخون في العادة قبل ما يرقدوا.
+
+# Children will believe what their parents tell them. 
+الصغار يصدّقوا اللي يقولوهولهم والديهم. / الغشاشر الصغار يصدّقوا اللي يقولوهولهم والديهم.
+
+# Cockroaches are insects.
+الفرازط حشرات.
+
+# Small children often like books about monsters. 
+الغشاشر الصغار يحبوا في العادة الكتب اللي تحكي على الوحوش.
+
+# Many famous people are behind the movement.
+برشا عباد مشهورة وراء الحركة. / برشا ناس مشهورة وراء الحركة. / برشا عباد مشهورة وراء الmovement. / برشا ناس مشهورة وراء الmovement. / برشا عباد مشهورة وراها الحركة. / برشا ناس مشهورة وراها الحركة.
 
 # She's the most beautiful girl I've ever seen.
 هي أزين طفلة ريتها في حياتي. / هي أزين طفلة ريتها.
@@ -1683,6 +1761,15 @@
 # I'm scared to check what's behind that door.
 إلّي وراء الباب هذاكا مخوّفني. / خايف ملّي وراء الباب هاكا.
 
+# Why aren't you wearing the bracelet I gave you? 
+علاش ماكش لابس الbracelet اللي عطيتهولك؟ / علاش ماكش لابس البراسلي الي عطيتهولك؟
+
+# He was a burden to his parents. 
+كان عبء على والديه.  / كان عبء على بوه وأمّو. 
+
+# Education helps to mold character.
+التعليم يعاون في بناء الشخصية. / التعليم يعاون في نحت الشخصية.
+
 # I can't reach him, he won't answer his phone.
 ما نجّمت نتحصّل عليه، ما يهزّش التاليفون. / ما نجّمت نتحصّل عليه، ما هزّش عليّا التاليفون. / ما تحصّلتش عليه، ما يهزّش التاليفون. / ما تحصّلتش عليه، ما هزّش عليّا التاليفون.
 
@@ -1902,6 +1989,89 @@
 
 # The grass is green.
 الgazon أخضر. / الحشيش أخضر.
+
+
+
+# I was caught in the rain and got soaked to the skin. 
+تشدّيت في المطر وتبلّيت لكلني. / تشدّيت في المطر و لكلني تبلّيت.
+
+# Fortunately, the shark bite didn't hit any arteries or nerves. 
+جاب ربي الڤدمة متاع الrequin ما ضرّتش شريايين ولا أعصاب. / جاب ربي الڤدمة متاع الrequin ما ضربتش شريايين ولا أعصاب. / جاب ربي الڤدمة متاع الروكان ما ضرّتش شريايين ولا أعصاب. / جاب ربي الڤدمة متاع الروكان ما ضربتش شريايين ولا أعصاب. / جاب ربي الڤدمة متاع القرش ما ضرّتش شريايين ولا أعصاب. / جاب ربي الڤدمة متاع القرش ما ضربتش شريايين ولا أعصاب.
+
+# He forgot that he bought her a present.
+نسى اللي هو شرالها هدية. / نسى اللي هو خذالها هدية.
+
+# Learning a musical instrument trains the mind.
+تعلّم آلة موسيقية رياني المخّ. / تعلّم آلة موسيقية يونتراني المخّ. / تعلّم آلة موسيقية يخدّم المخّ.
+
+# Magnesium is a chemical element.
+المانييزيوم عنصر كيميائي. / المانييزيوم هو عنصر كيميائي. / المانييزيوم هو élément chimique. /  المانييزيوم élément chimique. / الmagnésium élément chimique. / الmagnésium هو élément chimique.
+
+# Two hundred fifty kilograms is an extraordinary weight even for a sumo wrestler.
+ميتين وخمسين كيلو وزن extraordinaire لمصارع سومو. / ميتين وخمسين كيلو وزن extraordinaire لمصارع sumo. / ميتين وخمسين كيلو وزن مش عادي حتى لمصارع سومو. / ميتين وخمسين كيلو وزن مش عادي حتى لمصارع sumo. / ميتين وخمسين كيلو وزن مش عادي حتى كان لمصارع سومو. / ميتين وخمسين كيلو وزن مش عادي حتى كان لمصارع sumo.
+
+# The earrings are very pretty. 
+البلالط ياسر مزيانين.
+
+# I deleted my Facebook account.
+فسخت الكونط فيسبوك متاعي. / فسخت الكونط فايسبوك متاعي. / فسخت الكونت فيسبوك متاعي. / فسخت الكونت فايسبوك متاعي. / فسخت الcompte facebook متاعي.
+
+# The separatist movement is creating conflict within the country.
+الحركة الانفصالية قاعدة تصنع في صراع داخل البلاد. / الحركة الانفصالية قاعدة تصنع في صراع وسط البلاد. / الحركة الانفصالية تصنع في صراع داخل البلاد. / الحركة الانفصالية تصنع في صراع وسط البلاد.
+
+# A fierce battle was fought by the soldiers.
+معركة ضروس تعاركوها الجنود.  / الجنود عملوا معركة كبيرة. / الجنود تعاركوا معركة كبيرة.
+
+# I needed to justify why I was earning such a large salary.
+لازمني نبرّر علاش كنت ندخّل في salaire كبير كيما هكاكا. / لازمني je justifie علاش كنت ندخّل في salaire كبير كيما هكاكا.
+
+# Frogs are such amazing creatures.
+الجران مخلوقات رائعة. / الجران مخلوقات هايلة. / الضفادع مخلوقات رائعة. / الضفادع مخلوقات هايلة.
+
+# Just between you and me, she is, in fact, a monster.
+بيناتنا، راهي هي monstre.  / بيناتنا، راهي بالحقّ monstre.  / بيناتنا، راهي بالحقّ وحش. 
+
+# He is shaking like a leaf. 
+يرڤل كي الورقة. / يرڤل كيما الورقة. / يرڤل كالورقة. 
+
+# He turned over a new leaf.
+قلب الصفحة. / قلب صفحة جديدة.
+
+# The criminal became a Christian and turned over a new leaf.
+المجرم ولّى  مسيحي وقلب الصفحة.
+
+# There are many cockroaches in the kitchen. 
+فما برشا فرازط في الكوجينة.
+
+# Compared to his father, he is shallow.
+مقارنة ببوه، هو ياسر سطحي. /  هو ياسر سطحي مقارنة ببوه.
+
+# The motor overheats.
+الموطور يسخن برشا. / الموطور سخن برشا.
+
+# The cabin was torn to pieces by the storm.
+الكابينة تدڤدڤت بعد الإعصار. /  الكابينة تدڤدڤت بالإعصار. / الكابينة مشات قطايع بعد الإعصار. / الكابينة مشات قطايع بالإعصار.
+
+# I saw a horse pulling a cart.
+شفت حصان يكركر في كريطة. / شفت حصان يجبد في كريطة. / ريت حصان يكركر في كريطة. / ريت حصان يجبد في كريطة.
+
+# He was an Olympic champion in weightlifting. 
+كان بطل أولمبي في رفع الأثقال. / كان champion olympique في رفع الأثقال. / هو كان بطل أولمبي في رفع الأثقال. / هو كان champion olympique في رفع الأثقال.
+
+# He decided to seek information elsewhere. 
+قرّر بش يلوّج عالمعلومة في بلاصة أخرى. / قرّر بش يبحث عالمعلومة في بلاصة أخرى. / قرّر بش يلوّج على المعلومة في بلاصة أخرى. / قرّر بش يبحث على المعلومة في بلاصة أخرى.
+
+# He felt his way through the darkness.
+قعد يبعبش في الظلام.
+
+# Give me the microphone.
+أعطيني الميكرو. / أعطيلي الmicro.
+
+# At the time, our country was confronted with serious economic difficulties. 
+في الوقت هذاكا، بلادنا كانت تواجه في برشا صعوبات إقتصادية.
+
+# He lives in luxury.
+يعيش عيشة luxe. /  يعيش عيشة ترف. / يعيش في الluxe. / يعيش في ترف.
 
 # He has a good memory.
 عندو ذاكرة باهية. / عندو mémoire باهية. 
