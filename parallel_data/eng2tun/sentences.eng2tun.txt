@@ -451,6 +451,56 @@ OK.
 ميسالش.
 مش مشكل.
 
+# He works hard if the payment is good.
+يخدم بقلب وربّ كان يخلص مليح.
+يخدم بالباهي كان يخلص مليح.
+يخدم بالباهي كان يخلص بالباهي.
+يخدم بالباهي كان الخلاص باهي.
+يخدم مليح كان الخلاص باهي.
+يخدم بقلب وربّ كان الخلاص باهي.
+
+# If I have the money, I always buy the necessary things.
+كان عندي فلوس، ديما نشري الحاجات الضرورية.
+
+# If you have the money, use it wisely.
+كان عندك الفلوس، إستعملها بحكمة.
+
+# Please call me if you get a chance.
+كلّمني يعيشك كي تفضى.
+كلّمني يعيشك كي يبدا عندك وقت.
+
+# If I were rich, I would travel my whole life.
+كان جيت غني راني نعدي حياتي كاملة نسافر.
+كان جيت غني راني نعدي حياتي كاملة في فواياجات.
+
+# If I had a car, I could go anywhere.
+كان جات عندي كرهبة راني انجّم نمشي فين نحب.
+كان جات عندي كرهبة راني انجّم نمشي لأي بلاصة.
+كان جات عندي كرهبة راني ننجّم نمشي لأي بلاصة.
+كان جات عندي كرهبة راني ننجّم نمشي فين نحب.
+
+# If we had not missed the train, we would have reached the city.
+كان ما فاتناش التران، كننا ننجمو نوصلولها المدينة.
+كان ما فاتناش التران، كننا ننجمو نوصلو للمدينة.
+كان ما فاتناش الtrain، كننا ننجمو نوصلولها المدينة.
+كان ما فاتناش الtrain، كننا ننجمو نوصلو للمدينة.
+
+# If he were not ill, he could come with us.
+# Wow! That’s an amazing scene.
+واو ! ملا scène !
+واو ! ملا سان !
+واو ! ملا scène هايلة !
+واو ! ملا سان هايلة !
+
+# Aw, I did not want him to come.
+اوه، ما حبيتوش يجي.
+
+# What? You never told me that!
+شنوه؟ ما قلتهاليش هاذي قبل! 
+شنيه؟ ما قلتهاليش هاذي قبل! 
+شنوه؟ ما قلتهاليش هاذي! 
+شنيه؟ ما قلتهاليش هاذي! 
+
 # That's enough.
 يزّي.
 يكفي.
@@ -629,6 +679,30 @@ OK.
 # Nah.
 لا.
 
+# Yo, Ahmed! Get in the car!
+هاي أحمد ! اركب في الكرهبة !
+هاي أحمد ! نڤّز في الكرهبة !
+يا أحمد ! اركب في الكرهبة !
+يا أحمد ! نڤّز في الكرهبة !
+
+# Hey! Will you give me that ball?
+هاي ! تعطيني الكورة هاذيكا؟
+
+# Yummy! The lasagna is really tasty.
+اممم ! اللازانيا ياسر بنينة.
+اممم ! الlasagna ياسر بنينة.
+اممم ! ياسر بنينة اللازانيا.
+اممم ! ياسر بنينة الlasagna.
+
+# Yummy! I loved your cooking.
+اممم ! ياسر عجبني تطييبك.
+اممم ! ياسر عجبني تصنيفك.
+اممم ! ياسر عجبتني ماكلتك.
+
+# Well done! Your design is beautiful.
+صحيت ! الديزاين متاعك مزيان.
+صحيت ! الdesign متاعك مزيان.
+
 # How I met your mother.
 كيفاش تقابلنا أنا وأمك.
 
@@ -638,6 +712,35 @@ OK.
 # I want to, but I'm unable to.
 ماذابيا أما ما ننجّمش.
 
+# She didn't sit on a chair
+ما قعدتش على كرسي.
+هي ما قعدتش على كرسي.
+
+# You didn't lean on him.
+انتي ما اتكيتش عليه.
+ما اتكيتش عليه.
+
+# I didn't think he was ready.
+ما ضهرليش حاضر.
+
+# He didn't act rationally.
+ما تصرّفوش بعقلانية.
+ما تصرّفوش بطريقة منطقية.
+
+# I didn't act like them.
+ما تصرّفتش كيفهم.
+
+# You didn't build that app yourself?
+ما عملتهاش وحدك الapp هاذيكا؟
+ما بروغراميتهاش وحدك الapp هاذيكا؟
+ما صنعتهاش وحدك الapp هاذيكا؟
+ما عملتهاش وحدك الapplication هاذيكا؟
+ما بروغراميتهاش وحدك الapplication هاذيكا؟
+ما صنعتهاش وحدك الapplication هاذيكا؟
+ما عملتهاش وحدك الآبليكاسيون هاذيكا؟
+ما بروغراميتهاش وحدك الآبليكاسيون هاذيكا؟
+ما صنعتهاش وحدك الآبليكاسيون هاذيكا؟
+
 # Apologies, but I can't make it.
 الله غالب مانيش بش ننجم نجي.
 سامحني ما ننجمش نجي.
@@ -645,6 +748,87 @@ OK.
 # Marvelous!
 هايل !
 هايل برشا !
+
+# They didn't break under pressure.
+ما ضعفوش تحت الضغط.
+ما انكسروش تحت الضغط.
+
+# It didn't hear any noise. 
+ما سمعتش حتى صوت.
+ما سمعش حتى صوت.
+ما سمعتش حتى حسّ.
+ما سمعش حتى حسّ.
+
+# She didn't expect him to start yelling.
+ما إنتظرتش أنو يقوم يصيح.
+ما تصوّرتوش يقوم يصيح.
+
+# I didn't find her book.
+ما لقيتش كتابها.
+ما لقيتوش كتابها.
+
+# He has a funny name.
+عندو إسم يضحّك.
+إسمو يضحّك.
+
+# He didn't write any name.
+ما كتبش حتى إسم.
+
+# I didn't lean on the chair. 
+ما اتكّيتش على الكرسي.
+ما اتكّيتش عليه الكرسي.
+
+# You didn't do your homework.
+ما خدمتش خدمتك.
+ما خدمتش خدمتك متاع الدار.
+
+# It didn't walk by itself.
+ما مشاتش وحدها.
+ما قامتش تمشي وحدها.
+
+# She didn't see any difference.
+ما شافتش حتى فرق.
+
+# I didn't wash my face.
+ما غسلتش وجهي.
+ما غسلتوش وجهي.
+
+# He didn't live past sixty.
+ما فاتش ستين سنة.
+ما عاشش أكثر من ستين سنة.
+
+# They didn't bring sweets.
+ما جابوش الحلو.
+
+# It didn't break their resolve.
+ما زعزعش العزيمة متاعهم.
+ما هزّش العزيمة متاعهم.
+ما زعزعتش العزيمة متاعهم.
+ما هزّتش العزيمة متاعهم.
+
+# You didn't sit down.
+ما قعدتش.
+ما قعدتوش.
+
+# She didn't bring her son.
+ما جابتش ولدها.
+
+# I didn't walk behind him.
+ما مشيتش وراه.
+
+# He didn't play dumb.
+ما عملش روحو بهلول.
+ما تبهللش.
+
+# I'll eat later.
+توّ ناكل مبعد.
+
+# Can you do it?
+تنجم تعملها؟
+
+# I read the whole story.
+قريت الحكاية كاملة.
+قريت القصة كاملة.
 
 # Will you be my friend?
 تحب نوليو صحاب ؟
@@ -841,6 +1025,14 @@ OK.
 أمي جاية.
 يمّا جاية.
 ماما جاية.
+
+# You didn't postpone your appointment.
+ما أجّلتش  الموعد متاعك.
+ما أجّلتش الرونديفو متاعك.
+ما أجّلتش الrendez-vous متاعك.
+
+# They didn't find fruits.
+ما لقاوش غلّة.
 
 # Can we make our projects together?
 انجّمو نعملو بروجياتنا مع بعضنا؟
@@ -1533,6 +1725,23 @@ OK.
 # This place is wonderful!
 محلاها البلاصة هاذي !
 قداش محلاها البلاصة هاذي!
+
+# He didn't see the monster.
+ما شافش الوحش.
+ما شافوش الوحش.
+
+# You took my pencil.
+خذيت الستيلو متاعي.
+خذيت ستيلويا.
+هزّيت الستيلو متاعي.
+هزّيت ستيلويا.
+
+# They didn't become friends.
+ما ولّاوش صحاب.
+ما ولّاوش أصدقاء.
+
+# She didn't rely on anyone.
+ما عمّلتش على حتّى حدّ.
 
 # She kept saying this over and over again.
 قعدت تعاود تقول في نفس الحاجة برشا مرات.
