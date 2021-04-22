@@ -194,6 +194,24 @@ Désolé.
 # The policeman arrested the burglar.
 البوليسي شدّ السارق.
 
+# Her camera costs 200 euros.
+الكاميرا متاعها تسوى ميتين أورو.
+الكاميرا متاعها بميتين أورو.
+
+# I have read this poem many times.
+قريتها القصيدة هاذي برشا مرات.
+قريت القصيدة هاذي برشا مرات.
+قريتو الpoème هذا برشا مرات.
+قريت الpoème هذا برشا مرات.
+
+# He has lived in this apartment for 15 years.
+عاش فيه البرطمان هذا خمسطاش سنة.
+عاش فيه الappartement هذا خمسطاش سنة.
+
+# Kate has been learning german for 3 years.
+كايت عندها ثلاثة سنين وهي تتعلّم في الألمانية.
+كايت عندها ثلاثة سنين وهي تتعلّم في الallemand.
+
 # I'm cleaning my room.
 هاني ننظّف في بيتي.
 قاعد ننظّف في بيتي.
@@ -663,6 +681,15 @@ OK.
 # Let's go to the park.
 هيا نمشيو للبارك.
 
+# We have been living together for four years.
+عندنا أربعة سنين عايشين مع بعضنا.
+عايشين مع بعضنا عندنا أربعة سنين.
+
+# I have already cleaned the house.
+نظّفت ديجا الدار.
+نظّفتها ديجا الدار.
+نظّفتها déjà الدار.
+
 # I have a few questions.
 عندي شوية أسئلة.
 
@@ -1062,6 +1089,59 @@ OK.
 # Can you tell me which way to go?
 تنجّم تقلّي منين لازم نمشي ؟
 
+# I didn't need your comment.
+ما كنتش مستحقّ تعليقك.
+ما كنتش مستحقّلو تعليقك.
+
+# He didn't build the whole thing by himself.
+ما بناهش لكلّو وحدو.
+ما بناهاش لكلّها وحدو.
+
+# They didn't write in English.
+ما كتبوش بالanglais. 
+ما كتبوش بالإنجليزية. 
+
+# It didn't fly.
+ما طارش.
+ما طارتش.
+
+# You didn't buy a new computer.
+ما شريتش PC جديد.
+ما شريتش أورديناتور جديد.
+ما شريتش بيسي جديد.
+ما شريتوش PC جديد.
+ما شريتوش أورديناتور جديد.
+ما شريتوش بيسي جديد.
+
+# She didn't draw a good circle.
+ما صوّرتش دائرة باهية.
+ما صوّرتش دايرة باهية.
+ما صوّرتش ساركل باهي.
+ما صوّرتش cercle باهي.
+
+# I didn't bring any snacks.
+ما جبتش حتى ماكلة خفيفة.
+ما جبتش حتى تحريشة.
+
+# He didn't call his family.
+ما طلبش دارهم.
+
+# They didn't raise their child together.
+ما كبّروش صغيرهم مع بعضهم.
+ما كبّروهش مع بعضهم صغيرهم.
+
+# It didn't kill any tree.
+ما قتلتش حتى شجرة.
+
+# She didn't bring her bag.
+ما جابتش الساك متاعها.
+ما جابتش الsac متاعها.
+ما جابتش ساكها.
+
+# You didn't rely on brute force.
+ما عمّلتوش على القوة.
+ما عمّلتش على القوة.
+
 # She's the one he's been waiting for.
 هي الشخص إلّي هو كان يستنى فيه.
 
@@ -1176,6 +1256,38 @@ OK.
 
 # I have something for you.
 عندي حاجة ليك.
+
+# It didn't crumble.
+ما تهدّتش.
+ما طاحتش.
+ما تهدّش.
+ما طاحش.
+
+# She didn't pull through.
+ما نڤّزتهاش.
+ما سلّكتهاش.
+
+# You didn't pay him enough.
+ما خلّصتوش بما يكفي.
+
+# I didn't stay in this country.
+ما قعدتش فيها البلاد هاذي.
+ما قعدتش في البلاد هاذي.
+
+# He didn't invent a new theorem.
+ما إخترعش théorème جديد.
+ما إخترعش تيورام جديد.
+ما إخترعش نظرية جديدة.
+
+# They didn't fear death.
+ما خافوش الموت.
+
+# It didn't matter to any of them.
+ما همّتش حتى حدّ فيهم.
+ما همّتش حتى حدّ منهم.
+
+# She doesn't need a husband.
+ما تستحقش راجل.
 
 # The actors are wearing historical costumes.
 الممثلين لابسين كوستيمات تاريخية.
@@ -1476,7 +1588,94 @@ OK.
 # I'm right this time.
 المرّة  هاذي أنا الصحيح.
 
-# This community program for teens is really helpful.
+# His camera costs £100.
+الكاميرا متاعو تسوى مائة باوند.
+الكاميرا متاعو بمائة باوند.
+
+# The house which belongs to prince James is in London.
+الدار متاع الأمير جيمس موجودة في لندن.
+الدار متاع الأمير جيمس في لندن.
+
+# Mongi has read the entire book.
+منجي قرى الكتاب لكلّو.
+منجي قرى الكتاب كامل.
+منجي قراه الكتاب لكلّو.
+منجي قراه الكتاب لكلّه.
+
+# Mohamed has been learning russian for 2 years.
+محمد عندو عامين وهو يتعلّم في الروسية.
+محمد عندو عامين وهو يتعلّم في اللغة الروسية.
+محمد عندو عامين وهو يتعلّم في الrusse.
+
+# I have been sleeping since 10.00 AM
+مالعشرة متاع الصباح وأنا راقد.
+من العشرة متاع الصباح وأنا راقد.
+راقد كنت مالعشرة متاع الصباح.
+راقد كنت من العشرة متاع الصباح.
+
+# Robert has been working in that shop for 6 years.
+روبار عندو ستة سنين وهو يخدم في الحانوت هاذاكا.
+روبار عندو ستة سنين وهو يخدم فيه الحانوت هذاكا.
+
+# His uncle has been working in that shop for 4 years.
+عمّو عندو أربعة سنين وهو يخدم في الحانوت هاذاكا.
+عمّو عندو أربعة سنين وهو يخدم فيه الحانوت هذاكا.
+
+# I have not cleaned the house yet.
+مازلت ما نظّفتش الدار.
+
+# Alex is leaving for Portugal tomorrow.
+آلاكس بش يسافر للبرتغال غدوة.
+
+# Ahmed is leaving for Spain tomorrow.
+أحمد بش يسافر لإسبانيا غدوة.
+
+# Ali is leaving for Italy tomorrow.
+علي بش يسافر لإيطاليا غدوة.
+علي بش يسافر للطليان غدوة.
+
+# I am going to complete my task tomorrow.
+بش نكمّل الtâche متاعي غدوة.
+بش نكمّل خدمتي غدوة.
+
+# Our bus is leaving at 6.00 PM.
+الكار متاعنا تخرج الستة متاع العشيّة.
+
+# His bus is leaving at 10.00 AM.
+الكار متاعو تخرج العشرة متاع الصّباح.
+
+# They are flying to Australia next month.
+مسافرين لأستراليا الشهر الجاي.
+مسافرين هوما لأستراليا الشهر الجاي.
+هوما مسافرين لأستراليا الشهر الجاي.
+
+# Stay close to me.
+اقعد قريبلي.
+اقعد بحذايا.
+
+# She didn't find him beautiful.
+ما لقاتوش مزيان.
+ما جاهاش مزيان.
+
+# I didn't speak with mom.
+ما حكيتش معاها أمي.
+ما حكيتش مع أمي.
+أمي ما حكيتش معاها.
+
+# You didn't play video games.
+ما لعبتش des jeux vidéos.
+ما لعبتش حتى jeux vidéos.
+
+# I didn't fear failure.
+ما كنتش نخاف مالفشل.
+ما كنتش نخاف من الفشل.
+ما خفتش الفشل.
+ما خفتش مالفشل.
+
+# They didn't think it through. 
+ما خمموش بالباهي.
+ما خمموش فيها بالباهي.
+ما خمموش في الحكاية بالباهي.
 
 # Did you hear that?
 سمعت حاجة؟
@@ -1532,12 +1731,115 @@ OK.
 # I'm going to live like there's no tomorrow.
 بش نعيش حياتي كايني عمري مانيش بش نموت.
 
+# They didn't study for the exam.
+ما حضّروش للexam.
+ما حضّروش للexamen.
+ما حضّروش للإمتحان.
+
+# She didn't try anything.
+ما جرّبت حتى شي.
+
+# I graduated last year. 
+تخرّجت عمناول.
+تخرّجت العام اللي فات.
+تخرّجت العام اللي تعدى.
+
+# I didn't build my own website.
+ما عملتوش وحدي الsite متاعي.
+ما عملتوش وحدي السيت متاعي.
+
+# You didn't do your job.
+ما خدمتش خدمتك.
+ما خدمتهاش خدمتك.
+
+# He didn't bring water.
+ما جابش ماء معاه.
+
+# You are not ambitious.
+ماكش طموح.
+ماكمش طموحين.
+
+# They didn't enjoy your company.
+ما عجبتهمش القعدة معاك.
+
+# It didn't move me.
+ما أثّرتش عليا.
+
+# She didn't like his mother.
+ما حبّتش أمو.
+ما كانتش تحبّ أمّو.
+
+# It didn't bring him any joy.
+ما جابتلوش حتى سعادة.
+ما فرّحتّوش حتى طرف.
+
+# He didn't speak in any understandable words. 
+ما حكاش بحتى كلام مفهوم.
+ما حكاش بكلام مفهوم.
+
 # You have a point.
 عندك حقّ.
 
 # I believe in you.
 أنا مأمّن بيك.
 عندي ثقة فيك.
+
+# Most of the guests have already left.
+أغلب الضيوف ديجا خرجوا.
+أغلب الضيوف ديجا مشاو.
+أغلب الضيوف ديجا روّحوا.
+
+# I will always be here for you.
+ديما بش نكون موجود كي تستحقلي.
+ديما بش نكون موجود لهنا كي تستحقلي.
+ديما بش نكون موجود كي تستحقني.
+ديما بش نكون موجود لهنا كي تستحقني.
+
+# He is playing with his brothers.
+قاعد يلعب مع خواتو.
+يلعب مع خواتو.
+يلعب مع خواتو قاعد.
+
+# The people that live on the island are very friendly.
+العباد اللي تعيش على الجزيرة ياسر محلاهم.
+العباد اللي يعيشوا على الجزيرة ياسر محلاهم.
+الناس اللي تعيش على الجزيرة ياسر محلاهم.
+
+# The man who phoned is my brother.
+الراجل اللي تلفن خويا.
+الراجل اللي تلفن هو خويا.
+خويا الراجل اللي تلفن.
+خويا هو الراجل اللي تلفن.
+السيد اللي تلفن خويا.
+السيد اللي تلفن هو خويا.
+خويا السيد اللي تلفن.
+خويا هو السيد اللي تلفن.
+الراجل اللي كلّم خويا.
+الراجل اللي كلّم هو خويا.
+خويا الراجل اللي كلّم.
+خويا هو الراجل اللي كلّم.
+السيد اللي كلّم خويا.
+السيد اللي كلّم هو خويا.
+خويا السيد اللي كلّم.
+خويا هو السيد اللي كلّم.
+
+# The woman who phoned is his aunt.
+المرا اللي كلّمت هي عمّتو.
+المرا اللي كلّمت هي خالتو.
+المرا اللي كلّمت عمّتو.
+المرا اللي كلّمت خالتو.
+المرا اللي تلفنت هي عمّتو.
+المرا اللي تلفنت هي خالتو.
+المرا اللي تلفنت عمّتو.
+المرا اللي تلفنت خالتو.
+عمّتو هي المرا اللي كلّمت.
+ خالتو هي المرا اللي كلّمت.
+عمّتو المرا اللي كلّمت.
+خالتو المرا اللي كلّمت.
+عمّتو هي المرا اللي تلفنت.
+ خالتو هي المرا اللي تلفنت.
+عمّتو المرا اللي تلفنت.
+خالتو المرا اللي تلفنت.
 
 # Just hold my hand.
 شدّ يدي.
@@ -1644,6 +1946,55 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 أنا نحبّ خدمتي.
 خدمتي نحبّها.
 أنا نحبّها خدمتي.
+
+# He didn't install this software.
+ما آنستالاش البروغرام هذا.
+ما آنستالاهش البروغرام.
+ما آنستالاش الprogramme هذا.
+ما آنستالاهش الprogramme.
+ما صبّوش البروغرام هذا.
+ما صبّوش البروغرام.
+ما صبّوش الprogramme هذا.
+ما صبّوش الprogramme.
+
+# They didn't call us.
+ما طلبوناش.
+
+# They didn't call.
+ما طلبوش.
+
+# It didn't bite me.
+ما ڤدمنيش.
+ما ڤدمتنيش.
+ما عضّنيش.
+ما عضّتنيش.
+
+# She didn't go insane.
+ما هبلتش.
+ما خجّتش.
+
+# I didn't think you would say that.
+ما تصوّرتكش بش تقول هذاكا.
+
+# He didn't type his name.
+ما كتبش إسمو.
+
+#  It didn't take them too much time to win.
+ما قعدوش برشا قبل ما ربحوا.
+ربحوا فيسع فيسع.
+ربحوا ليه ليه.
+
+# It didn't become a tradition.
+ما ولّاتش عادة.
+ما صارتش عادة.
+
+# You didn't call yesterday.
+ما طلبتش البارح.
+
+# She didn't live a good life.
+ما عاشتش عيشة باهية.
+ما عاشتش عيشة مزيانة.
+ما عاشتش بالڤدا.
 
 # Don't lie to me.
 ما تكذبش عليا.
@@ -1855,7 +2206,6 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 # It took my eyes a moment to adjust to the darkness.
 عينيا خذاو شوية وقت بش آدابتاو رواحهم للظلام.
 
-
 # Did you remember to include the summary in your report?
 ما نسيتش بش تزيد تلخيص في الرابور متاعك ماو ؟
 ماو ما نسيتش تزيد résumé في الrapport متاعك ؟
@@ -1932,6 +2282,29 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 # There's nothing we can do now.
 ما فما شي انجّمو نعملوه توّ.
 
+# I didn't laugh at you.
+ما ضحكتش عليك.
+
+# I didn't see any ghost.
+ما ريتش حتى شبح.
+ما ريتش حتى fantôme.
+
+# He didn't fear zombies.
+ما خافش منهم les zombies.
+ما خافش منهم الزونبيات.
+
+# They didn't become rich.
+ما ولّاوش غنية.
+ما استغناوش.
+
+# It didn't rely on the government.
+ما عمّلوش على الدولة.
+ما عمّلوش عليها الدولة.
+
+# She didn't call him dad.
+ما قالتلوش بابا.
+ما ناداتلوش بابا.
+
 # Three years ago, I visited Japan for the first time.
 ثلاثة سنين لتالي أوّل مرة سافرت لليابان.
 
@@ -1963,6 +2336,19 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 # I'll follow you home.
 تو نتبّعك للدار.
 هاني وراك حتى توصل للدار.
+
+# I’m going out of the city.
+خارج لبرّا مالمدينة.
+خارج مالمدينة.
+خارج لبرّا من المدينة.
+خارج من المدينة.
+خارج منها المدينة.
+
+# Yesterday I called our friend Julie, who lives in New York.
+البارح كلّمت صاحبتنا جولي إللي تعيش في نيويورك.
+
+# Tomorrow, I'll call our friend Mohsen who lives in the capital.
+غدوة بش نكلّم صاحبنا محسن إللي يعيش في العاصمة.
 
 # Every parent is trying hard and doing their best.
 الوالدين لكل قاعدين يحاولوا ويعملوا في أقصى مجهودهم.
@@ -2250,6 +2636,12 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 Probablement مازال راقد.
 مازال راقد probablement.
 
+# Yoo-hoo! Is there anyone?
+فما شكون لنا؟
+يا إمّالي الدار، فما شكون لنّا ؟
+يا إمّالي المحل، فما شكون لنّا ؟
+يا إمّالي الدار، فما شكون لهنا ؟
+يا إمّالي المحل، فما شكون لهنا ؟
 
 # Give him a break.
 وحدة وحدة عليه.
@@ -2557,8 +2949,26 @@ Probablement مازال راقد.
 إللي قلتو في الإجتماع البارح ياسر intéressant.
 
 # I couldn't help but laugh.
-ترشقت بالضحك.
+طرشقت بالضحك.
 شدّني الضحك.
+
+# She loves the chocolate that I bought.
+تحبّها الشكلاطة اللي شريتها.
+
+# We went to the village that your sister recommended.
+مشينا للقرية اللي أختك نصحت بيها.
+
+# Yahya met a woman that I had been to school with.
+يحيى عرضتو مرا قريت معاها في المدرسة.
+يحيى عرضتو مرا قريت معاها قبل في المدرسة.
+يحيى عرضتو مرا قرات معايا في المدرسة.
+يحيى عرضتو مرا قرات معايا قبل في المدرسة.
+
+# The police arrested a man that Monsef worked with.
+البوليسية شدّوا راجل خدم مع منصف.
+البوليسية وقّفوا راجل خدم مع منصف.
+الحاكم شدّ راجل خدم مع منصف.
+الحاكم وقّف راجل خدم مع منصف.
 
 # He said he saw a shark the other day when he was swimming.
 قال شاف قرش هاك النهار وهو يعوم.
@@ -2668,6 +3078,51 @@ Probablement مازال راقد.
 # He forgot that he bought her a present.
 نسى اللي هو شرالها هدية.
 نسى اللي هو خذالها هدية.
+
+# Bravo! El Hamrouni has scored a goal.
+برافو، الحمروني دقّ بونتو.
+
+# It was Msakni who scored both goals for the Tunisian team.
+المساكني هو اللي دقّهم الزوز بونتوات متاع الفريق التونسي.
+المساكني هو اللي دقّهم الزوز بونتوات متاع الéquipe التونسية.
+المساكني هو اللي دقّ زوز بونتوات لصالح الفريق التونسي.
+المساكني هو اللي دقّ زوز بونتوات لصالح الéquipe التونسية.
+
+# Well done! You have done a good job.
+صحّيت، خدمت خدمة هايلة.
+صحّيت، خدمت خدمة باهية.
+صحّيت، إنتي خدمت خدمة هايلة.
+صحّيت، إنتي خدمت خدمة باهية.
+
+# Brilliant! Your article is so helpful.
+هايل، الarticle متاعك ياسر يعاون.
+هايل، الarticle متاعك يعاون برشا.
+هايل، الأرتيكل متاعك ياسر يعاون.
+هايل، الأرتيكل متاعك يعاون برشا.
+
+# Splendid! I like your work.
+هايل برشا! عجبتني خدمتك.
+جميل جدا! عجبتني خدمتك.
+هايل! عجبتني خدمتك.
+
+# Well done! You have got the highest marks.
+صحيت ! خذيت انتي أحسن نوط.
+صحيت ! خذيت انتي أحسن نوت.
+صحيت ! خذيت انتي أحسن note.
+صحيت ! انتي خذيت أحسن نوط.
+صحيت ! انتي خذيت أحسن نوت.
+صحيت ! انتي خذيت أحسن note.
+
+# Bravo! Neymar has scored a goal.
+برافو ! نيمار دقّ بونتو.
+
+# Well done! You sang really well.
+
+# Yummy! The cake is so delicious.
+اممم ! الخبزة ڤطو ياسر بنينة.
+اممم ! الخبزة gâteau ياسر بنينة.
+اممم ! الڤطو ياسر بنين.
+اممم ! الgâteau ياسر بنين.
 
 # Learning a musical instrument trains the mind.
 تعلّم آلة موسيقية رياني المخّ.
