@@ -279,6 +279,22 @@ Désolé.
 حاشتي بتحريشة كهو.
 نحبّ نعمل تحريشة وأكهو.
 
+# It didn't take off.
+ما أقلعتش.
+
+# You didn't wear your blue hat.
+ما لبستش الطربوشة الزرقاء متاعك.
+ما لبستش الكاسكة الزرقاء متاعك.
+
+# They didn't understand me.
+ما فهمونيش.
+
+# They didn't buy enough meat.
+ما شراوش كمية كافية متاع لحم.
+
+# It didn't grow on its own.
+ما نبتتش وحدها.
+
 # Is that enough?
 هذاكا كافي ؟
 يكفي هكاكا ؟
@@ -308,6 +324,14 @@ Désolé.
 
 # I was about to leave the restaurant when my friends arrived.
 كنت بش نخرج مالريستو ياخي جاو صحابي.
+
+# I know the man who stole the watch.
+نعرفو الراجل إللي سرق المنڤالة.
+
+# He bought a very expensive car.
+شرى كرهبة ياسر غالية.
+شرى كرهبة غالية ياسر.
+شرى كرهبة غالية برشا.
 
 # Just a little.
 شوية برك.
@@ -1177,6 +1201,16 @@ OK.
 خطيبها هو اللي حبّلها.
 خطيبها حبّلها.
 
+# I’ll go if you give me the ball.
+توّ نمشي كان تعطيني الكورة.
+توّ نمشي كان تعطيلي الكورة.
+توّ نمشي كان تمدّلي الكورة.
+
+# If I feel better, I’ll certainly play.
+كان تفرهدت شوية تو نلعب.
+كان حسيت روحي تفرهدت شوية تو نلعب.
+كان حسيت روحي تفرهدت تو نلعب.
+
 # Can you give me some apples?
 تنجم تعطيني شوية تفاح؟
 
@@ -1258,6 +1292,54 @@ OK.
 # Just close your eyes.
 صكّر عينيك.
 
+# He didn't become stronger.
+ما ولّاش أقوى.
+
+# They didn't rely on history books.
+ما عمّلوش على كتب التاريخ.
+
+# They didn't ride with us.
+ما ركبوش معانا.
+
+# I postponed my surgery.
+أجّلت العمليّة متاعي. 
+أجّلت عمليّتي. 
+أجّلتها عمليّتي. 
+
+# She didn't ride the bull.
+ما ركبتش عليه الثور.
+ما ركبتش على الثور.
+
+# I didn't buy any weed.
+ما شريتش حتى زطلة.
+
+# You didn't take your time.
+ما خذيتش وقتك.
+ما خذيتوش وقتكم.
+
+# Weed is illegal in this country.
+الزطلة ممنوعة في البلاد هاذي.
+الزطلة illégale في البلاد هاذي.
+
+# They didn't use the right key.
+ما إستعملوش المفتاح الصحيح.
+
+# No, I didn't hit him.
+لا، ما ضربتوش.
+
+# She didn't avoid him.
+ما تجنّبتّوش.
+
+# Marijuana is still illegal.
+الماريوانا مازالت غير قانونية.
+مازالت غير قانونية الماريوانا.
+
+# Didn't you see me waving at you?
+ما ريتنيش نبيبيلك؟
+ما ريتنيش نبيبعلك؟
+ما شفتنيش نبيبيلك؟
+ما شفتنيش نبيبعلك؟
+
 # Did you see that?
 ريتها ؟
 ريتو ؟
@@ -1318,6 +1400,23 @@ OK.
 
 # Can I have some milk shake?
 انجّم ناخو شوية lait de poule ؟
+
+# I want to buy a phone, but I don’t have enough money.
+نحب نشري تاليفون، أما ما عنديش فلوس.
+نحب نشري بورتابل، أما ما عنديش فلوس.
+نحب نشري portable، أما ما عنديش فلوس.
+نحب نشري تاليفون، غير ما عنديش فلوس.
+نحب نشري بورتابل، غير ما عنديش فلوس.
+نحب نشري portable، غير ما عنديش فلوس.
+
+# Hedi smiles whenever he sees her.
+هادي يتبسّم كلّ ما يشوفها.
+هادي كلّ ما يشوفها يتبسّم.
+كلّ ما يشوفها هادي يتبسّم.
+
+# When I was dating Maya, I had an accident.
+وقتلي كنت مصاحب مايا، عملت آكسيدون.
+وقتلي كنت مصاحب مايا، عملت accident.
 
 # Can you look this way?
 تنجم تغزر لهنا؟
@@ -1383,6 +1482,20 @@ OK.
 # It didn't fly.
 ما طارش.
 ما طارتش.
+
+# If he goes there, he may get robbed.
+كان يمشي لغادي، ينجم يتسرق.
+كان يمشي غادي، ينجم يتسرق.
+كان يمشي غاديكا، ينجم يتسرق.
+كان يمشي لغادي، ممكن يتسرق.
+كان يمشي غادي، ممكن يتسرق.
+كان يمشي غاديكا، ممكن يتسرق.
+كان يمشي لغادي، ينجم يسرقوه.
+كان يمشي غادي، ينجم يسرقوه.
+كان يمشي غاديكا، ينجم يسرقوه.
+كان يمشي لغادي، ممكن يسرقوه.
+كان يمشي غادي، ممكن يسرقوه.
+كان يمشي غاديكا، ممكن يسرقوه.
 
 # You didn't buy a new computer.
 ما شريتش PC جديد.
@@ -1451,6 +1564,9 @@ OK.
 
 # This is the best day of my life.
 هذا أحسن نهار في حياتي.
+
+# They didn't work out.
+ما تراناوش.
 
 # I just saw a child cross the street by herself.
 ريت طفل صغير توّ شاقق الكياس وحدو.
@@ -1567,6 +1683,28 @@ OK.
 
 # She doesn't need a husband.
 ما تستحقش راجل.
+
+# I usually wake up at 6.00 AM.
+نقوم في العادة الستة متاع الصباح.
+نفيق في العادة الستة متاع الصباح.
+في العادة نقوم الستة متاع الصباح.
+في العادة نفيق الستة متاع الصباح.
+الستة متاع الصباح نفيق في العادة.
+الستة متاع الصباح نقوم في العادة.
+
+# Earth is bigger than Mercury.
+الأرض أكبر من عطارد.
+
+# He is coming here for some tips.
+بش يجي لهنا ياخو شوية نصائح.
+
+# Why do you work in that place?
+علاش تخدم في البلاصة هاذيكا؟
+علاش تخدم فيها البلاصة هاذيكا؟
+
+# Four teams are playing at this moment.
+أربعة إيكيبات تلعب توّ.
+فما أربعة إيكيبات تلعب توّ.
 
 # The actors are wearing historical costumes.
 الممثلين لابسين كوستيمات تاريخية.
