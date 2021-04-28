@@ -1166,6 +1166,15 @@ OK.
 # No, she doesn't care.
 لا، ما يهمّهاش.
 
+# Crowded supermarkets are the worst.
+أخيب حاجة هي les supermarchés المعبّية.
+أخيب حاجة هي les supermarchés المبلّعة.
+أخيب حاجة هي المرشيات المعبّية.
+أخيب حاجة هي المرشيات المبلّعة.
+
+# They are so old-fashioned !
+قداشهم ڤدم.
+
 # I didn't wear my best t-shirt.
 ما لبستش أحسن مريول نصّ عندي.
 
