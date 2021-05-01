@@ -4158,6 +4158,40 @@ Les outils متاع الطبيب لازمهم لكل يبداو نظاف.
 نستعمل الكاميرا متاع بورتابلويا.
 كاميرا البورتابل نستعملها.
 
+# She has a son who is a doctor.
+عندها ولدها طبيب.
+
+# I sent a letter which arrived three weeks later.
+بعثت جواب وصل بعد بثلاثة جمعات.
+
+# The doctor who my grandmother liked lives in our town.
+الطبيب اللي جدتي تحبو يعيش في مدينتنا.
+الطبيب اللي عزيزتي تحبو يعيش في مدينتنا.
+
+# My sister, who I live with, knows a lot about cars.
+أختي اللي عايش معاها تعرف برشا حاجات على الكراهب.
+أختي اللي عايش معاها تعرف برشا حاجات عالكراهب.
+أختي اللي أنا عايش معاها تعرف برشا حاجات على الكراهب.
+أختي اللي أنا عايش معاها تعرف برشا حاجات عالكراهب.
+
+# My bicycle, which I've had for more than ten years, is falling apart.
+البسكلة متاعي الي عندي عندها أكثر من عشرة سنين قاعدة تتهلك.
+البسكلة متاعي الي عندي عندها أكثر من عشرة سنين قاعدة تفسد.
+
+# They along with their children went to Atlanta.
+هوما وأولادهم مشاو لأطلانطا.
+هوما وأولادهم مشاو إلى أطلانطا.
+
+# In spite of being a good player, he was not selected.
+بالرغم الي هو joueur باهي، ما سالاكسيوناوهش.
+بالرغم الي هو joueur باهي، ما اختاروهش.
+
+# This article is about smartphones.
+الأرتيكل هذا على التاليفونات.
+الأرتيكل هذا على البورتابلوات.
+الarticle هذا على التاليفونات.
+الarticle هذا على البورتابلوات.
+
 # The building's structure is solid.
 الstructure متاع البنية صحيحة.
 البنية شادّة روحها.
