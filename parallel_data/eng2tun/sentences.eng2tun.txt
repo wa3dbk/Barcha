@@ -2011,6 +2011,9 @@ OK.
 على شنوه تحكي القصة؟
 شنوه موضوعها الحكاية؟
 
+# The photographer called to the Queen.
+المصوّر نادى الملكة.
+
 # I am so against domestic abuse!
 أنا ضدّ العنف الزوجي.
 
@@ -2520,6 +2523,10 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 # It didn't become a tradition.
 ما ولّاتش عادة.
 ما صارتش عادة.
+
+# The queen looked annoyed.
+الملكة ضهرت قالقة.
+ضهرت قالقة الملكة.
 
 # You didn't call yesterday.
 ما طلبتش البارح.
@@ -3203,6 +3210,10 @@ Probablement مازال راقد.
 تستنى دقيقة ميسالش ؟
 تستنى دقيقة من زمان ميسالش ؟
 
+# My mother's house, which I grew up in, is very small.
+دار أمي اللي أنا كبرت فيها ياسر صغيرة.
+دار أمي اللي أنا كبرت فيها صغيرة برشا.
+
 # This blow dryer has served me well for years.
 استمعلتو بالباهي السيشوار هذا في الأعوام إلّي فاتت.
 استمعلتو بالباهي السيشوار هذا في السنين إلّي تعدّات.
@@ -3453,6 +3464,10 @@ Probablement مازال راقد.
 السبيطار حاشتو بالعباد تعطي دمّ.
 السبيطار حاشتو بعباد تعطي دمّ.
 
+# According to the new rules, you are not right.
+حسب القواعد الجديدة ماكش على حق.
+حسب القواعد الجديدة ما عندكش حق.
+
 # Once upon a time, a princess lived in a castle.
 كان يا مكان في قديم الزمان، أميرة تعيش في قصر.
 
@@ -3631,6 +3646,9 @@ Probablement مازال راقد.
 # Bravo! El Hamrouni has scored a goal.
 برافو، الحمروني دقّ بونتو.
 
+# Nah, we are not going.
+لا ماناش ماشين.
+
 # It was Msakni who scored both goals for the Tunisian team.
 المساكني هو اللي دقّهم الزوز بونتوات متاع الفريق التونسي.
 المساكني هو اللي دقّهم الزوز بونتوات متاع الéquipe التونسية.
@@ -3792,6 +3810,11 @@ Probablement مازال راقد.
 يعيش عيشة ترف.
 يعيش في الluxe.
 يعيش في ترف.
+
+# My grandfather lives in Sfax.
+جدي يعيش في صفاقس.
+عزيزي يعيش في صفاقس.
+بابا عزيزي يعيش في صفاقس.
 
 # He has a good memory.
 عندو ذاكرة باهية.
