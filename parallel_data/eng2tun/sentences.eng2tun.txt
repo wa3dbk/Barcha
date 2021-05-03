@@ -944,6 +944,45 @@ OK.
 تحب نوليو صحاب ؟
 تحبشي نوليو أصحاب ؟
 
+# What have you ordered?
+شنوه كمانديت؟
+شنوه طلبت؟
+
+# No I'll go home when I'm ready.
+لا تو نروح للدار كي نبدا حاضر.
+لا تو نرجع للدار كي نبدا حاضر.
+لا تو نمشي للدار كي نبدا حاضر.
+
+# This is the problem.
+هذا هو المشكل.
+ 
+# No, I said what are you going to do tomorrow morning?
+لا، قلت شنوه بش نعملو غدوة الصباح؟
+
+# I can see it.
+ننجم نشوفها.
+ننجم نشوفو.
+نشوف فيه.
+نشوف فيها.
+
+# Well, she's totally not here.
+لا ماهيش لهنا جملة.
+لا ماهيش لنّا جملة.
+
+# What's the length of the front room.
+شنوه الطول متاعها البيت القدّامية.
+شنوه الطول متاعها البيت اللي لقدام.
+
+# Is Mary here?
+ماري لنّا؟
+ماري لهنّا؟
+ماري لنّا ياخي؟
+ماري لهنّا ياخي؟
+
+# Two hundred. 
+ميتين.
+مائتين.
+
 # Today is the first of November.
 اليوم أوّل نهار  في نوفمبر.
 
@@ -1148,6 +1187,81 @@ OK.
 ما طرشقتش.
 ما ترشقتش.
 
+# I've put them up there.
+حطيتهم لغادي لفوق.
+
+# Oh, by the way what's your name?
+اه، وحقة، شنوه إسمك؟
+اه، وحقة، شنوه إسمك إنتي؟
+
+# Those creatures he keeps talking about are not real.
+المخلوقات اللي قاعد يحكي عليهم ماهمش حقيقين.
+المخلوقات اللي ديما يحكي عليهم ماهمش حقيقين.
+
+# And then they colonised Australia.
+ومبعد، استعمروا استراليا.
+
+# Yeah she's only four in August.
+ايه في أوت تولي عمرها أربعة سنين.
+ايه هي في أوت تغلق أربعة سنين.
+ايه هي في أوت تغلق الأربعة سنين.
+
+# Hey, disco dude, stop the music !
+هاي، يا متاع الديسكو، وقّف الموسيقى.
+هاي، يا متاع الديسكو، سكّت الموسيقى.
+هاي، يا متاع الديسكو، سكّت الغناء.
+
+# No, you got anything extra to say?
+لا، عندك حاجة أخرى تحب تقولها؟
+
+# I think that's been worrying him more than anything else you know?
+تعرف، فيبالي الموضوع هذاكا هو اللي مقلقو أكثر من أي حاجة أخرى.
+تعرف، فيبالي الموضوع هذاكا هو اللي مقلقو أكثر من أي حاجة.
+
+# One sixty two.
+واحد اثنين وستين.
+
+# No. Perhaps I work too much.
+لا. ممكن نخدم أكثر ماللازم.
+لا. ممكن نخدم أكثر من اللازم.
+لا. ممكن نخدم برشا.
+
+# I thought you'd chickened out on me.
+مشى فيبالي اللي جبدت بيا.
+حسبتك جبدت بيا.
+استخايلتك جبدت بيا.
+
+# That was a hell of a club wasn't it?
+ملا club ولا ملا ! هو مش هكا؟
+
+# Well my dad reckons he's really nice anyway.
+بابا مصدّق اللي هو راجل باهي.
+بابا مصدّق اللي هو ناس ملاح.
+بابا قال اللي هو راجل باهي.
+في كل الأحوال بابا قال اللي هو ناس ملاح.
+
+# I wish I was fifty years younger.
+نتمنى كان جيت أصغر بخمسين سنة.
+نتمنى كان جيت أصغر خمسين سنة.
+
+# Was he insured?
+كان assuré؟
+كانت عندو assurance؟
+
+# We got some photographs of him when he was young.
+عندنا شوية تصاور متاعو وقتلي كان صغير.
+عندنا تصاور متاعو وقتلي كان صغير.
+
+# Yes, yes strange isn't it?
+ايه ، ايه، غريبة ماو؟
+
+# Najla, go on Najla !
+نجلاء، يلّا نجلاء !
+
+# Put your questions in the suggestion bow.
+حطّ أسئلتك في صندوق الاقتراحات.
+حطّوا أسئلتكم في صندوق الاقتراحات.
+
 # She didn't wear shoes.
 ما لبستش صباط.
 
@@ -1240,6 +1354,10 @@ OK.
 # They didn't find fruits.
 ما لقاوش غلّة.
 
+# I like Tom and Jerry.
+نحبهم طوم وجيري.
+يعجبوني طوم وجيري.
+
 # Can we make our projects together?
 انجّمو نعملو بروجياتنا مع بعضنا؟
 
@@ -1300,6 +1418,12 @@ OK.
 توّ نمشي كان تعطيني الكورة.
 توّ نمشي كان تعطيلي الكورة.
 توّ نمشي كان تمدّلي الكورة.
+
+# This chair costs 30 dinars.
+الكرسي هذا يسوى ثلاثين دينار.
+الكرسي هذا بثلاثين دينار.
+الكرسي هذا بثلاثين ألف.
+
 
 # If I feel better, I’ll certainly play.
 كان تفرهدت شوية تو نلعب.
@@ -1404,6 +1528,12 @@ OK.
 أجّلت العمليّة متاعي. 
 أجّلت عمليّتي. 
 أجّلتها عمليّتي. 
+
+# I used to watch Tom and Jerry when I was little.
+كنت نتفرج في طوم وجيري كي كنت صغير.
+كنت نتفرج في طوم وجيري وقتلي كنت صغير.
+كنت نتفرج فيهم طوم وجيري كي كنت صغير.
+كنت نتفرج فيهم طوم وجيري وقتلي كنت صغير.
 
 # She didn't ride the bull.
 ما ركبتش عليه الثور.
@@ -1636,6 +1766,14 @@ OK.
 # She's the one he's been waiting for.
 هي الشخص إلّي هو كان يستنى فيه.
 
+# They got killed.
+تقتلوا.
+قتلوهم.
+
+# They attempted to hide the fact that he was killed by friendly fire.
+حاولوا يخبيوا le fait أنو تقتل بنيران صديقة.
+حاولوا يخبيوا موضوع موتو بنيران صديقة.
+
 # Her grandmother is sick.
 عزيزتها مريضة.
 جدتها مريضة.
@@ -1697,6 +1835,9 @@ OK.
 
 # I want to travel and see the world.
 نحبّ نسافر ونشوف العالم.
+
+# Navy communications are sent from Wisconsin.
+الإتصالات متاع البحرية يتبعثوا من ويسكانسون.
 
 # I can't wait for this day to be over.
 وقتاش بش يوفى هالنهار.
@@ -2028,6 +2169,12 @@ OK.
 القطاطس يكرهوا les aspitareurs.
 القطاطس يكرهوا الأسبيراتورات.
 
+# Aunty Emma's husband is Moroccan. 
+راجل عمّتي إيما مغربي.
+
+# Aunty Marwa's husband is Algerian. 
+راجل عمّتي مروى دزيري.
+
 # Sharks eat fish.
 القروش ياكلوا الحوت.
 القرش ياكل الحوت.
@@ -2107,6 +2254,10 @@ OK.
 ما تجيب كان الهمّ والتخلويض.
 ما تجيب كان الهمّ والخوضة.
 
+# I told you to lock the door.
+قلتلك صكر الباب.
+قلتلك بش تصكر الباب.
+
 # Will you keep me company?
 تقعد تونّسني شوية؟
 تقعد بحذايا شوية ميسالش ؟
@@ -2156,6 +2307,10 @@ OK.
 # His uncle has been working in that shop for 4 years.
 عمّو عندو أربعة سنين وهو يخدم في الحانوت هاذاكا.
 عمّو عندو أربعة سنين وهو يخدم فيه الحانوت هذاكا.
+
+# Hannibal really existed in the past.
+حنبعل كان موجود في الماضي.
+حنبعل كان شخصية موجودة في الماضي.
 
 # I have not cleaned the house yet.
 مازلت ما نظّفتش الدار.
@@ -2217,6 +2372,35 @@ OK.
 سمعت حاجة؟
 سمعتها؟
 سمعتو؟
+
+# Here’s an informal greeting you can use when you meet new friends. 
+هاذي طريقة تسليم informelle تنجم تستعملها وقتلي تتلاقى مع صحاب جدد.
+هاذي طريقة تسليم informelle تنجم تستعملها وقتلي تتعرف على صحاب جدد.
+هاذي طريقة تسليم informelle تنجم تستعملها وقتلي تتعرف على أصحاب جدد.
+
+# If you work in customer service, you’ll use this phrase a lot.
+كان تتعامل مع كليونات، تو تستعملها برشا الجملة هاذي.
+كان تتعامل مع كليونات، تو تستعمل برشا الجملة هاذي.
+
+# Did you finish the reports?
+كمّلت الرابورات؟
+كمّلتهم الرابورات؟
+
+# Actually, I am running a bit behind, but they’ll be done by noon!
+كي تجي تشوف عندي شوية retard أما تو نكملهم مع نص النهار.
+كي تجي تشوف عندي شوية retard أما تو نكملهم نص النهار.
+هو عندي شوية retard أما تو نكملهم مع نص النهار.
+هو عندي شوية retard أما تو نكملهم نص النهار.
+كي تجي تشوف عندي شوية روتار أما تو نكملهم مع نص النهار.
+كي تجي تشوف عندي شوية روتار أما تو نكملهم نص النهار.
+هو عندي شوية روتار أما تو نكملهم مع نص النهار.
+هو عندي شوية روتار أما تو نكملهم نص النهار.
+هو عندي شوية روتار أما نص النهار يكملوا.
+
+# I'll be with you in a moment.
+دقيقة ونكون معاك.
+دقيقة ونجيك.
+دقيقة ونتلهى بيك.
 
 # I'm so sleepy.
 هابط عليا النوم.
@@ -2684,6 +2868,9 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 نقعد بعيد أنا على الحديث في السياسة.
 نبعد أنا كل مرة على الحديث في السياسة.
 
+# So Sam’s coming in tonight at 8, right?
+يعني سام جاي اليوم في الليل مع الثمنية ماو ؟
+
 # Have you ever tried this cake?
 عمرك ذقت منها الcake هاذي ؟
 ذقت منو قبل الcake هذا؟
@@ -3072,6 +3259,9 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 الطفلة هاذيكا تقرى معايا.
 الطفلة هاكي معايا في نفس الclasse.
 
+# Hannibal is a historical figure.
+حنبعل شخصية تاريخية.
+
 # I've seen that guy in school before.
 ريتو الشخص هذاكا في المدرسة قبل.
 ريت الراجل هذاكا في المدرسة قبل.
@@ -3219,6 +3409,13 @@ Probablement مازال راقد.
 استمعلتو بالباهي السيشوار هذا في السنين إلّي تعدّات.
 صلحلي برشا السيشوار هذا في السنين إلّي تعدّات.
 
+# It's not Kate, is it?
+ماهيش كايت ماو؟
+
+# You're so right.
+عندك حقّ.
+بالضبط عندك حقّ.
+
 # Let's visit the Sunday market.
 هيا نمشيو لسوق الأحد.
 خلي نمشيو لسوق الأحد.
@@ -3301,6 +3498,78 @@ Probablement مازال راقد.
 # What an exciting experience!
 تجربة رائعة !
 تجربة هايلة !
+
+# She wants more money 
+تحب على أكثر فلوس.
+
+# From now on it's no more Mr Nice Guy.
+من هنا فصاعدا ماعادش بش نكون باهي معاك.
+من هنا فصاعدا ماعادش بش نكون باهي معاكم.
+من هنا فصاعدا إنساها الgentillesse متاعي.
+من هنا فصاعدا إنساه اللطف متاعي.
+من اليوم ماعادش بش نكون باهي معاك.
+من اليوم ماعادش بش نكون باهي معاكم.
+من اليوم إنساها الgentillesse متاعي.
+من اليوم إنساه اللطف متاعي.
+
+# I have an agenda in my head you know.
+عندي agenda في مخي.
+عندي agenda في مخي كيما تعرف.
+عندي agenda في مخي ماك تعرف.
+ 
+# No it doesn't work that way.
+لا مش هكاكا تخدم.
+لا مش هكاكا تمشي.
+لا ما تخدمش هكاكا.
+لا ما تمشيش هكاكا.
+
+# He never used to sleep walk.
+عمرو ما كان يمشي وهو راقد.
+
+# Come on, there must be a nice drink in there somewhere.
+يلا راهو فما حاجة باهية تتشرب لغادي.
+يلا راهو فما عندك حاجة باهية تتشرب.
+
+# What do you mean by "I'll try to"?
+شتقصد بتوّ نحاول؟
+شتقصد بهاني بش نحاول؟
+شتقصد بتوّ نحاول؟
+شتقصد بهاني تو نحاول؟
+شتقصد بأتوّ نحاول؟
+شتقصد بأتوّ نحاول؟
+شنوه تقصد بتوّ نحاول؟
+شنوه تقصد بيها تو نحاول؟
+شتقصد بيها تو نحاول؟
+
+# Wait a second. He knows I know?
+لحظة لحظة. هو يعرف اللي أنا نعرف ؟ 
+لحظة لحظة. هو يعرف اللي أنا فيبالي ؟ 
+
+# I want the washing machine and everything else.
+نحب الmachine à laver وكل شي معاها.
+نحب الmachine à laver وكل شي.
+
+# What's the question?
+شنوه السؤال؟
+شنوا السؤال؟
+السؤال شنوه؟
+السؤال شنوا؟
+
+# No it's not worth watching.
+لا مش لازم تتفرج فيها.
+لا ما تستاهلش بش تتفرج فيها.
+لا ما تستاهلش بش الواحد يتفرج فيها.
+
+# Is he gay?
+هو gay؟
+هو homo؟
+هو homosexuel؟
+ياخي هو gay؟
+ياخي هو homo؟
+ياخي هو homosexuel؟
+
+# There is no more us, from now on it's me.
+ماعادش فما أحنا، ماليوم ما فما كان أنا.
 
 # I'm scared to check what's behind that door.
 إلّي وراء الباب هذاكا مخوّفني.
@@ -3449,6 +3718,9 @@ Probablement مازال راقد.
 # I represent my family.
 أنا نمثّل عايلتي.
 
+# Do you know?
+تعرف؟
+
 # Turn off your phone and the TV and focus on your studies!
 صكّر تاليفونك والتلفزة وركّز على قرايتك.
 
@@ -3494,6 +3766,15 @@ Probablement مازال راقد.
 كانت عندهم علاقة هايلة.
 كانت عندهم relation هايلة.
 كانت عندهم relation extraordinaire.
+
+# Yes my dear.
+ايه عزيزي.
+ايه حبيبي.
+ايه عزيزتي.
+ايه حبيبتي.
+
+# Oh don't ask.
+اه، من غير ما تسئل.
 
 # The young girl lost her bracelet.
 الطفلة الصغيرة ضيّعت البراسلي متاعها.
@@ -3804,6 +4085,10 @@ Probablement مازال راقد.
 
 # At the time, our country was confronted with serious economic difficulties.
 في الوقت هذاكا، بلادنا كانت تواجه في برشا صعوبات إقتصادية.
+
+# I cannot promise you that.
+ما ننجمش نوعدك بيها.
+ما ننجمش نوعدك بيه.
 
 # He lives in luxury.
 يعيش عيشة luxe.
@@ -4474,6 +4759,13 @@ Les outils متاع الطبيب لازمهم لكل يبداو نظاف.
 الداكتيلوات يعملوا برشا حسّ.
 الدكتيلوات يعملوا برشا حسّ.
 
+# Time to get dressed.
+هيا وقت لبسان الدبش جاء.
+هيا وقت لبسان الحوايج جاء.
+
+# That's their colour.
+هذاكا لونهم.
+
 # The best things in life are free.
 أحلى حاجات في الدنيا مجانيّين.
 
@@ -4768,6 +5060,9 @@ Les outils متاع الطبيب لازمهم لكل يبداو نظاف.
 # My sister is married to an Italian.
 أختي ماخذة طلياني.
 
+# And why is that?
+وعلاش؟
+
 # I love to teach English lessons.
 نحبّ نقرّي دروس متاع anglais.
 
@@ -4968,6 +5263,13 @@ Disponible أنا ننجم نخدم على الprojet متاعك.
 هاذي هي سيادة القانون.
 هاكي هي سيادة القانون.
 سيادة القانون هاذيكا.
+
+# The number is five three eight nine six two twelve eight.
+النومرو هو خمسة ثلاثة ثمنية تسعة تسة اثنين اثناش ثمنية.
+
+# 2020 flew by.
+ألفين وعشرين تعدّى فيسع فيسع.
+ألفين وعشرين تعدّى لفّ لفّ.
 
 # My daughter knows how to read now.
 بنتي تعلّمت تقرى.
@@ -5463,6 +5765,10 @@ taille  قدّاش المريول هذاكا ؟
 
 # Lock the gate.
 صكّر الباب.
+
+# The weekend flew by.
+الويكاند تعدّى فيسع فيسع.
+الويكاند تعدّى لفّ لفّ.
 
 # Listen up !
 اسمع !
@@ -7824,6 +8130,20 @@ sûr أنا.
 # I am not a baby.
 مانيش بيبي.
 مانيش bébé.
+
+# They made a fortune didn't they?
+استغناو ماو؟
+عملوا برشا فلوس ماو؟
+
+# Who are you really? And what were you before? What did you do? 
+شكون انتي ياخي؟ وشنوه كنت قبل؟ شنوه عملت؟
+
+# This is now a very serious situation.
+هاذي توّ حالة خطيرة برشا.
+
+# It's a two hour film.
+فيلم متاع ساعتين.
+فيلم يشدّ ساعتين.
 
 # You got a job?
 عندك خدمة؟
