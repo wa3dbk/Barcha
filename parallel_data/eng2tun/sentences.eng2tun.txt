@@ -1115,6 +1115,9 @@ OK.
 # Do you like blue or yellow?
 تحبّ الأزرق ولا الأصفر؟
 
+# I'm not a good singer.
+مانيش مغنّي باهي.
+
 # Please bring me the bill
 باللاهي جيبلي الفاتورة؟
 تنجم تجيبلي الفاتورة باللاهي؟
@@ -1200,6 +1203,9 @@ OK.
 
 # And then they colonised Australia.
 ومبعد، استعمروا استراليا.
+
+# I have three brothers and two sisters.
+عندي ثلاثة خوات أولاد وزوز خوات بنات.
 
 # Yeah she's only four in August.
 ايه في أوت تولي عمرها أربعة سنين.
@@ -1379,6 +1385,9 @@ OK.
 
 # There was a time I liked to play golf.
 كنت قبل نحبّ الgolf.
+
+# I need a new pen. 
+حاشتي بستيلو جديد.
 
 # There are so many things I want to learn.
 عندي برشا حاجات نحب نتعلّمها.
