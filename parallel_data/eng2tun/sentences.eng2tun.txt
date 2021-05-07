@@ -3812,6 +3812,40 @@ Probablement مازال راقد.
 طرشقت بالضحك.
 شدّني الضحك.
 
+# He didn't want them to tell her.
+ما حبّهمش يقولولها.
+
+# He didn't want her to hit me.
+ما حبّهاش تضربني.
+
+# I postponed all your meetings.
+أجّلت إجتماعاتك لكل.
+
+# I wanted to have breakfast with my family. 
+نحب نفطر فطور الصباح مع عائلتي.
+نحب نفطر فطور الصباح مع دارنا.
+نحب ناكل فطور الصباح مع عائلتي.
+نحب ناكل فطور الصباح مع دارنا.
+
+# It didn't matter to her. 
+ما همّهاش.
+ما همّتهاش.
+
+# His knee was hurting. 
+ركبتو وجعتو.
+
+# His feet were not that small.
+ساقيه ماهمش صغار لهاك الدرجة.
+
+# Your hand and mine are not the same size.
+يدي ويدك ماهمش نفس الكبر.
+يدي ويدك ما عندهم نفس الtaille.
+يدينا الاثنين ما عندهمش نفس الحجم.
+
+# Don't swear !
+ما تسبّش!
+ما تقولش كلام زايد!
+
 # She loves the chocolate that I bought.
 تحبّها الشكلاطة اللي شريتها.
 
@@ -3881,6 +3915,10 @@ Probablement مازال راقد.
 
 # The dog did not bark.
 الكلب ما نبحش.
+
+# I didn't want you to marry her.
+ما حبيتكش تاخوها.
+ما حبيتكش تعرس بيها.
 
 # Look at the blackboard.
 اغزر للصبورة.
