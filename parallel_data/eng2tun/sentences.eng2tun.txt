@@ -1624,6 +1624,10 @@ OK.
 # This is our home now.
 هاذي دارنا توّ.
 
+# A meteorite is falling !
+نيزك طايح.
+فما نيزك هابط.
+
 # There were many others who wanted to become king.
 كانوا فما برشا عباد آخرين يحبوا يوليو هوما الملك.
 كانوا فما برشا آخرين يحبوا يوليو هوما الملك.
