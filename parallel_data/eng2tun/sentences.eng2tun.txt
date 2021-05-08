@@ -483,6 +483,9 @@ OK.
 يعيّشك madame.
 يعيّشك مادام.
 
+# They don't like vegetables.
+ما يحبوش الخضرة.
+
 # Thank you sir.
 يعيّشك سيدي.
 يعيّشك monsieur.
@@ -1062,6 +1065,10 @@ OK.
 
 # Can you pick me up at the mall?
 تنجم تجي تهزّني مالgrande surface ؟
+
+# I'm very busy.
+لاهي برشا.
+أنا لاهي برشا.
 
 # Where can I find ketchup?
 فين ننجّم نلقى الكاتشاب؟
@@ -3146,6 +3153,41 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 # The others haven't arrived yet.
 الآخرين مازالوا ما وصلوش.
 الآخرين مازالوا ما جاوش.
+
+He should study for the test.
+لازمو يحضر للتاست.
+لازمو يقرى للتاست.
+لازم يقرالو التاست.
+
+# The employee proved her worth.
+الموظفة ورّات روحها.
+الموظفة ورّات قيمتها.
+الموظفة ضهّرت قيمتها.
+
+# Please put your umbrella by the door.
+حطّ السحابة متاعك بحذا الباب من فضلك.
+حطّ السحابة متاعك بحذا الباب يعيشك.
+
+# He ate everything in two minutes.
+كلى كل شي في دقيقتين.
+
+# There are the big rocks in the garden.
+فما ثلاثة حجرات كبيرة في الجردة.
+
+# The windows don't open at night.
+الشبابك ما يتحلوش في الليل.
+
+# Have you had enough water?
+ شربت ماء بالباهي ولا تحب تزيد؟
+شربت بما يكفي؟
+
+# Don't forget to stop at the drug store.
+ما تنساش تاقف في الفارماسي.
+ما تنساش تتعدى بالفارماسي.
+
+# I haven't eaten since yesterday.
+ما كليت شي مالبارح. 
+ما كليت حتى شي مالبارح.
 
 # I read somewhere that this house is haunted.
 قريت ندرافين إلّي الدار هاذي مسكونة.
