@@ -1523,6 +1523,9 @@ OK.
 # Which way is your house?
 منين دارك؟
 
+# This is the fourth time !
+هاذي المرة الرابعة !
+
 # Success breeds success.
 النجاح يجيب النجاح.
 
@@ -1827,6 +1830,9 @@ OK.
 
 # She didn't spoil us.
 ما دلّلتناش.
+
+# This is the seventh time !
+هاذي المرة السابعة !
 
 # Can you please repeat that?
 تنجّم تعاودلي ميسالش؟
@@ -2260,6 +2266,9 @@ OK.
 ما ولّاوش صحاب.
 ما ولّاوش أصدقاء.
 
+# This is the fifth time !
+هاذي المرة الخامسة !
+
 # She didn't rely on anyone.
 ما عمّلتش على حتّى حدّ.
 
@@ -2320,6 +2329,7 @@ OK.
 
 # I'm right this time.
 المرّة  هاذي أنا الصحيح.
+ أنا الصحيح المرّة هاذي.
 
 # His camera costs £100.
 الكاميرا متاعو تسوى مائة باوند.
@@ -2545,6 +2555,7 @@ OK.
 
 # You have a point.
 عندك حقّ.
+إنتي على حق.
 
 # I believe in you.
 أنا مأمّن بيك.
@@ -3194,6 +3205,8 @@ He should study for the test.
 
 # He ate everything in two minutes.
 كلى كل شي في دقيقتين.
+كلا كل شي في دقيقتين.
+كل شي كلاه في دقيقتين.
 
 # There are the big rocks in the garden.
 فما ثلاثة حجرات كبيرة في الجردة.
@@ -3246,6 +3259,7 @@ He should study for the test.
 
 # You left the door open.
 خليت الباب مصكّر.
+خليتو مصكّر الباب.
 
 # You must take good care of your health.
 لازم تردّ بالك على صحّتك.
