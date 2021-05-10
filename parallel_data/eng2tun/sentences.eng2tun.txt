@@ -1334,6 +1334,10 @@ OK.
 لا ما نكّدتلوش حياتو.
 لا ما فسّدتلوش حياتو.
 
+# Why not me ?
+علاش مش أنا ؟
+علاش موش أنا ؟
+
 # You didn't pet my dog.
 ما مسّحتش على الكلب متاعي.
 ما مسّحتش عليه الكلب متاعي.
@@ -1656,6 +1660,9 @@ OK.
 # Can I have some milk shake?
 انجّم ناخو شوية lait de poule ؟
 
+# Do you need coffee ? 
+حاشتك بقهوة؟
+
 # I want to buy a phone, but I don’t have enough money.
 نحب نشري تاليفون، أما ما عنديش فلوس.
 نحب نشري بورتابل، أما ما عنديش فلوس.
@@ -1772,6 +1779,9 @@ OK.
 
 # He didn't call his family.
 ما طلبش دارهم.
+ما طلبش عائلتو.
+ما طلبش عائلته.
+ما طلبش عايلتو.
 
 # They didn't raise their child together.
 ما كبّروش صغيرهم مع بعضهم.
@@ -1779,6 +1789,7 @@ OK.
 
 # It didn't kill any tree.
 ما قتلتش حتى شجرة.
+ما قتلش حتى شجرة.
 
 # She didn't bring her bag.
 ما جابتش الساك متاعها.
@@ -1825,6 +1836,12 @@ OK.
 # Do you want to go with us?
 تحبّ تمشي معانا؟
 
+# Let's discuss yesterday's news.
+خلي نحكيو في أخبار البارح.
+خلينا نحكيو في أخبار البارح.
+خلي نحكيو على أخبار البارح.
+خلينا نحكيو على أخبار البارح.
+
 # This is the best day of my life.
 هذا أحسن نهار في حياتي.
 
@@ -1843,6 +1860,7 @@ OK.
 
 # Let's go down.
 هيا نهبطو.
+هيا نمشيو اللوطة.
 
 # You may take your seats.
 تنجموا تقعدوا.
@@ -2061,6 +2079,7 @@ OK.
 
 # I like reading
 نحبّ القراية.
+نحبّها القراية.
 
 # Let’s grab lunch.
 هيا نفطرو.
@@ -2229,6 +2248,7 @@ OK.
 # He didn't see the monster.
 ما شافش الوحش.
 ما شافوش الوحش.
+ما شافوهش الوحش.
 
 # You took my pencil.
 خذيت الستيلو متاعي.
