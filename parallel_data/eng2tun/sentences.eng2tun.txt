@@ -936,6 +936,9 @@ OK.
 # I'll eat later.
 توّ ناكل مبعد.
 
+# No, never !
+لا، مستحيل !
+
 # Can you do it?
 تنجم تعملها؟
 
