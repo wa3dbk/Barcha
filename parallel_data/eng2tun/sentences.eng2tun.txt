@@ -1748,6 +1748,9 @@ OK.
 ما طارش.
 ما طارتش.
 
+# I waited for an additional hour.
+قعدت ساعة أخرى نستنّى.
+
 # If he goes there, he may get robbed.
 كان يمشي لغادي، ينجم يتسرق.
 كان يمشي غادي، ينجم يتسرق.
@@ -1870,6 +1873,12 @@ OK.
 
 # You may take your seats.
 تنجموا تقعدوا.
+
+# We use a different system.
+نستعملو سيستام مختلف.
+نستعملو système مختلف.
+نستعملو سيستام آخر.
+نستعملو système آخر.
 
 # Let's have dinner after work.
 هيا نتعشاو بعد الخدمة.
@@ -2387,6 +2396,10 @@ OK.
 
 # Our bus is leaving at 6.00 PM.
 الكار متاعنا تخرج الستة متاع العشيّة.
+
+# Throw it out.
+طيّشو.
+طيّشها.
 
 # His bus is leaving at 10.00 AM.
 الكار متاعو تخرج العشرة متاع الصّباح.
