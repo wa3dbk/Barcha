@@ -264,6 +264,11 @@ Désolé.
 # I'm not married.
 مانيش معرّس.
 
+# Aid mubarak for all of you.
+عيد مبارك ليكم لكل.
+عيدكم مبروك.
+عيدكم مبارك.
+
 # I'm not ready yet.
 مازلت مانيش حاضر.
 
@@ -389,6 +394,10 @@ Désolé.
 
 # No, thank you.
 لا، شكرا.
+
+# He didn't say no.
+ما قالش لا.
+هو ما قالش لا.
 
 # Nothing else.
 حتى شي آخر.
@@ -682,6 +691,10 @@ OK.
 
 # You're very smart.
 ياسر ذكي انتي.
+
+# They didn't say yes.
+ما قالوش إيه.
+ما قالوش نعم.
 
 # I can totally do this job.
 انجّم نخدمها الخدمة هاذي.
