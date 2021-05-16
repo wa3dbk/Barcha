@@ -325,6 +325,9 @@ Désolé.
 بنين.
 بنينة.
 
+# You are not fat.
+ماكش سمين.
+
 # I thought the clothes were cheaper.
 جاوني رخاص الحوايج.
 جاني رخيص الدبش.
@@ -620,6 +623,9 @@ OK.
 # Rachel, can we talk for a sec?
 راشيل، ننجمو نحكيو دقيقة؟
 راشيل، ننجمو نحكيو لحظة؟
+
+# Yes, I ate it.
+ايه، كليتها.
 
 # The book is under the table.
 الكتاب تحت الطاولة.
