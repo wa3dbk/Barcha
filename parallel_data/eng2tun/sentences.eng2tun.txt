@@ -6,6 +6,8 @@
 
 # Can you translate this for me?
 تنجمشي تترجملي هاذي ؟
+تنجم تترجملي هاذي ؟
+ميسالش تترجملي هاذي ؟
 
 # Don't worry.
 مش مشكل.
@@ -167,12 +169,14 @@ Désolé.
 
 # I'll call you when I leave.
 تو نكلّمك كي نخرج.
+أتو نكلّمك كي نخرج.
 
 # That’s quite reasonable.
 معقول.
 
 # I'll come back later.
 تو نرجع مبعد.
+أتو نرجع مبعد.
 
 # I'll take it.
 تو ناخوها.
@@ -196,6 +200,7 @@ Désolé.
 
 # Her camera costs 200 euros.
 الكاميرا متاعها تسوى ميتين أورو.
+الكاميرا متاعها حقّها ميتين أورو.
 الكاميرا متاعها بميتين أورو.
 
 # I have read this poem many times.
