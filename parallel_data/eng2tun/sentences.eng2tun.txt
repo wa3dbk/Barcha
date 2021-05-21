@@ -963,6 +963,10 @@ OK.
 # They didn't bring sweets.
 ما جابوش الحلو.
 
+# Nobody noticed that I didn't eat for eighteen or twenty hours at a stretch.
+حتى حدّ ما فاق اللي عندي ثمنطاش ولا عشرين ساعة ما كليت شي.
+حتى حدّ ما فاق اللي عندي ثمنطاش ولا عشرين ساعة ما كليت حتى شي.
+
 # It didn't break their resolve.
 ما زعزعش العزيمة متاعهم.
 ما هزّش العزيمة متاعهم.
@@ -1315,6 +1319,14 @@ OK.
 بابا قال اللي هو راجل باهي.
 في كل الأحوال بابا قال اللي هو ناس ملاح.
 
+# Party cadres must guard against the temptations of power, money and sex.
+الكوادر متاع الأحزاب  لازم يردّوا بالهم من إغراءات السلطة والفلوس والجنس.
+الكوادر متاع الأحزاب لازم يردّوا بالهم من إغراءات السلطة والفلوس والساكس.
+
+# I drew a straight line down the page to separate the two lists.	
+عملت سطر في وسط الصفحة بش نسيباري الزوز ليستات.
+عملت خطّ في وسط الصفحة بش نسيباري الزوز ليستات.
+
 # I wish I was fifty years younger.
 نتمنى كان جيت أصغر بخمسين سنة.
 نتمنى كان جيت أصغر خمسين سنة.
@@ -1506,6 +1518,9 @@ OK.
 الكرسي هذا بثلاثين دينار.
 الكرسي هذا بثلاثين ألف.
 
+# What more could a woman want besides the perfect family and the perfect home?
+شنوه تنجم تحب المرا بخلاف عائلة parfaite ودار parfaite؟
+شنوه تنجم تحب المرا بخلاف عائلة مثاليّة ودار مثاليّة؟
 
 # If I feel better, I’ll certainly play.
 كان تفرهدت شوية تو نلعب.
@@ -1528,6 +1543,9 @@ OK.
 وين نحيتهم البلالط متاعك؟
 فين نحيتهم البلالط متاعك إنتي؟
 وين نحيتهم البلالط متاعك إنتي؟
+
+# Over a period of twenty years, paper replaced traditional coins.
+في مدة متاع عشرين سنة، الفلوس papier عوّضت البياسات.
 
 # They concluded he was lying.
 إستنتجوا اللي هو كان يكذب.
@@ -2283,6 +2301,7 @@ OK.
 
 # I have this big crush on Brad Pitt.
 نموت عليه Brad Pitt.
+نموت عليه براد بيت.
 
 # The group sitting across our table is so noisy.
 الجماعة إلّي قاعدين قدام الطاولة متاعنا ياسر هايجين.
@@ -2337,6 +2356,53 @@ OK.
 # A great chaos broke out in the kingdom.
 الفوضى عمّت فيها المملكة.
 دخلت بعضها المملكة لكل.
+
+# Would you like to kiss me?
+تحبّ تبوسني ؟
+
+# For the first time, the idea of marriage crossed her mind.
+لأوّل مرة جاتلها فكرة العرس لبالها.
+لأوّل مرة، فكرة العرس جات في بالها.
+
+# How about going to a dance tonight?
+شقولك نمشيو نشطحو الليلة؟
+شقولك نمشيو نشطحو شوية الليلة؟
+
+# My darling little sister is growing very fast.
+أختي الصغيرة قاعدة تكبر فيسع.
+
+# He's worried since you didn't answer the phone.
+متحيّر خاطرك ما جاوبتش على التاليفون.
+متحيّر خاطرك ما جاوبتش عالتاليفون.
+
+# Hello, darling ! 
+أهلا عزيزتي !
+عسلامة عزيزتي ! 
+
+# A woman has a right to protect herself any way she can.
+المرا عندها الحقّ تحمي روحها بأي طريقة ممكنة.
+المرا عندها الحقّ تحمي روحها بأي طريقة تنجمها.
+المرا عندها الحقّ تحمي روحها بأي طريقة متاحة ليها.
+
+# He gave her a light kiss.
+عطاها بوسة خفيفة.
+
+# I was calling my friend.
+كنت نطلب في صاحبي.
+
+# What happens if I feed the cats?
+شنوه يصير كان نوكّل القطاطس؟
+
+# It's a tiny secret, one that may not alter much of anything.
+سرّ صغير هو مش بش يبدّل حتى شي.
+
+# Why don't you try calling your family again?
+علاش ما تحاولش تعاود تطلب عائلتك؟
+علاش ما تحاولش تعاود تطلب داركم؟
+
+# We can't keep falling forever, you know.
+تعرف اللي ما ننجموش نقعدو نفشلو للأبد.
+ما ننجموش نقعدو نفشلو للأبد كيما تعرف.
 
 # War does not bring anything good to the common people.
 الحرب ما تجيب حتى شي باهي للناس العادية.
@@ -2528,6 +2594,11 @@ OK.
 عمّو عندو أربعة سنين وهو يخدم في الحانوت هاذاكا.
 عمّو عندو أربعة سنين وهو يخدم فيه الحانوت هذاكا.
 
+# Have I upset you?
+غشّشتك ؟
+غشّشتك أنا؟
+تغشّشت منّي ؟
+
 # Hannibal really existed in the past.
 حنبعل كان موجود في الماضي.
 حنبعل كان شخصية موجودة في الماضي.
@@ -2695,6 +2766,10 @@ OK.
 # You didn't do your job.
 ما خدمتش خدمتك.
 ما خدمتهاش خدمتك.
+
+# I have my honor to regain.
+بش نرجّع شرفي.
+بش نرجّع الشرف متاعي.
 
 # He didn't bring water.
 ما جابش ماء معاه.
@@ -2930,6 +3005,9 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 # He didn't type his name.
 ما كتبش إسمو.
 
+# We're the guests of honor tonight.
+أحنا ضيوف الشرف الليلة.
+
 #  It didn't take them too much time to win.
 ما قعدوش برشا قبل ما ربحوا.
 ربحوا فيسع فيسع.
@@ -3028,6 +3106,10 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 
 # Don't lie to them.
 ما تكذبش عليهم.
+
+# I have the honor of finally meeting you.
+حصلّي الشرف بش قابلتك أخيرا.
+حصلّي الشرف بش نقابلك أخيرا.
 
 # Please provide me with a list of your services.
 باللاهي قلّي شنوما les services متاعهم.
@@ -3278,6 +3360,11 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 نعرفك شنوه حاسس.
 نعرفك شنوه حاسّة.
 
+# The sun and the air are God's free gifts to all
+الشمس والهواء نعمة ربّي للناس لكل.
+الشمس والهواء نعمة من عند ربّي للناس لكل.
+الشمس والهواء نعمة من عند ربّي للعباد لكل.
+
 # Let's go outside while it's still bright
 هيا نخرجو مادام الدنيا مازالت ضاوية.
 هيا نخرجو مادام مازالت ضاوية.
@@ -3469,6 +3556,9 @@ He should study for the test.
 ماشية للحفلة متاعها اليوم في الليل؟
 ماشية للحفلة متاعها اليوم الليلة هاذي؟
 
+# He wasn't completely wrong.
+ما كانش غالط.
+
 # Where are we meeting?
 فين نتقابلو؟
 فين بش نتقابلو؟
@@ -3549,6 +3639,11 @@ He should study for the test.
 هيا نشريو غلّة، أنا جيعان!
 هيّا نشريو شوية ماكلة، جعت!
 هيا نشريو غلّة، جعت أنا!
+
+# I completely understand.
+فهمتك.
+فاهمك.
+فاهمتّك.
 
 # Can I talk to you before you go home?
 انجّم نحكي معاك قبل ما تروّح للدار ؟
