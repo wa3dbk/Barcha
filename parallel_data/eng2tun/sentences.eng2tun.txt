@@ -141,6 +141,13 @@ Désolé.
 ما حاشتيش بيها.
 ما حاشتيش بيه.
 
+# Hello ! 
+أهلا !
+أهلا بيك !
+عسلامة !
+سلام !
+السلام !
+
 # I don't want to bother you.
 ما نحبّش نقلّقك.
 
@@ -558,6 +565,16 @@ OK.
 واو ! ملا scène هايلة !
 واو ! ملا سان هايلة !
 
+# Damn you !
+ربي يهلكك !
+يهلكك !
+
+# He had seen enough and was having trouble breathing.
+شاف ما فيه الكفاية ولقى صعوبة بش يتنفّس.
+شاف ما فيه الكفاية وقعد بالسيّف يتنفس.
+شاف ما يكفي وقعد بالسيّف يتنفس.
+شاف ما يكفي وقعد يتنفس بالسيّف.
+
 # Aw, I did not want him to come.
 اوه، ما حبيتوش يجي.
 
@@ -788,6 +805,12 @@ OK.
 # He is still alive.
 مازال حيّ.
 هاو مازال حيّ.
+
+# When you have eliminated the impossible, whatever is left no matter how implausible, must be true.
+كي تنحّي الimpossible، أي حاجة تقعد، حتّى كاني ماهيش plausible، لازمها تكون صحيحة.
+كي تنحّي المستحيل، أي حاجة تقعد، حتّى كاني ماهيش probable، لازمها تكون صحيحة.
+ كي تنحّي المستحيل، أي حاجة تقعد، حتّى كاني ماهيش probable، لازمها تكون هي الصحيحة.
+كي تنحّي الimpossible، أي حاجة تقعد، حتّى كاني ماهيش plausible، لازمها تكون هي الصحيحة.
 
 # His wife is so attractive !
 مرتو ياسر مزيانة !
@@ -1031,6 +1054,9 @@ OK.
 
 # What did you hear?
 شنوه سمعت؟
+
+# I wanna tell her everything.
+نحبّ نقوللها كلّ شي.
 
 # No one ever dreamed of it.
 حتى واحد لا حلم بيها.
@@ -1520,6 +1546,15 @@ OK.
 نأمنو بوجود ربي.
 نأمنو اللي ربي موجود.
 
+# The liar enjoys the feeling of power gained from putting one over on somebody.
+الكذاب يشيخ بيه الإحساس متاع القوة الي يحسّها كي يعدّيها على حدّ.
+الكذاب يشيخ بيه الإحساس متاع القوة الي يحسّها كي يعدّيها على بعد الحدّ.
+الشخص إللي يكذب يحبّ الإحساس بالقوة كي يعدّيها على بعد الحدّ.
+
+# Damn them !
+ربي يهلكهم !
+يهلكهم !
+
 # You must be flexible in your thinking.
 لازمك تكون flexible في التّخمام متاعك.
 لازمك تكون فليكسيبل في التّخمام متاعك.
@@ -1665,6 +1700,10 @@ OK.
 نيزك طايح.
 فما نيزك هابط.
 
+# If you wanna show off, then why don't you learn to play the piano?	
+كان تحبّ تورّي روحك، علاش ما تتعلّمش تعزف على البيانو؟
+كان تحبّ تورّي روحك، علاش ما تتعلّمش تضرب على البيانو؟
+
 # There were many others who wanted to become king.
 كانوا فما برشا عباد آخرين يحبوا يوليو هوما الملك.
 كانوا فما برشا آخرين يحبوا يوليو هوما الملك.
@@ -1689,6 +1728,11 @@ OK.
 عملوا الباهي؟
 صحيح اللي عملوه؟
 عندهم الحقّ فلّي عملوه؟
+
+# Put your whole heart in the good work, my child, and it cannot fail.
+حطّ قلبك لكل في الخدمة يا ولدي، وبقدرة ربي ما تخيبش.
+ولدي، حطّ قلبك لكل في الخدمة، بقدرة ربي ما تخيبش.
+ولدي، حطّ قلبك لكل في الخدمة وبقدرة ربي ما تخيبش.
 
 # Can I have some milk shake?
 انجّم ناخو شوية lait de poule ؟
@@ -1740,9 +1784,16 @@ OK.
 قصّ الضوّ.
 الضو قاصص.
 
+# Glad I could help.
+الحمد لله كي نجّمت نعاون.
+الحمد لله إللي نجّمت نعاون.
+
 # There's a man outside looking for you.
 فما راجل لبرّا قاعد يلوّج عليك.
 راجل لبرّا يلوّج عليك.
+
+# God, I'm glad you called.
+جاب ربي طلبت.
 
 # My mom is here.
 أمّي لنّا.
@@ -1750,6 +1801,10 @@ OK.
 
 # Give her these shoes.
 أعطيها الصبابط هاذم.
+
+# If your blood counts are low, you might feel tired, making it difficult to concentrate.
+كان يطيحلك الدّم، تنجم تحسّ روحك تاعب وتولي معادش تنجّم تركّز.
+كان يطيحلك الدّم، تنجم تحسّ روحك تاعب وتولي صعيب تنجّم تركّز.
 
 # The banking system uses significantly more energy than Bitcoin.
 السيستام البنكي يستهلك أكثر ببرشا طاقة مالبيتكوين.
@@ -1873,6 +1928,18 @@ OK.
 # Your faith will see you through tough times.
 الإيمان متاعك يخليك تتخطى الأوقات الصعيبة.
 
+# I did a stupid thing last night.
+عملت حاجة غبيّة البارح في الليل.
+عملت حاجة غبيّة ليلة البارح.
+عملت حاجة بهيمة البارح في الليل.
+عملت حاجة بهيمة ليلة البارح.
+عملت حاجة متاع بهامة البارح في الليل.
+عملت حاجة متاع بهامة ليلة البارح.
+
+# I have a stupid question.
+عندي سؤال غبيّ.
+عندي سؤال متاع بهامة.
+
 # She didn't spoil us.
 ما دلّلتناش.
 
@@ -1943,6 +2010,36 @@ OK.
 # I can't wait for this day to be over.
 وقتاش بش يوفى هالنهار.
 نحبو يوفي هالنهار.
+
+# Sonny boy, you forgot your bag.
+ولدي، نسيت على ساكك. 
+
+# There is nobody like him, sonny boy.
+ما فما حدّ كيفو الوليّد.
+
+# You're full of shit !
+تكذب !
+مش صحيح اللي تقول فيه !
+قاعد تخلوض !
+قاعد تمخور !
+
+# She had turned him down for a date before, but he persisted and asked her again.
+ما حبتش تخرج معاه قبل، أما شدّ صحيح وعاود سئلها بش تخرج معاه.
+ما حبتش تخرج معاه قبل، أما كبّش وعاود سئلها بش تخرج معاه.
+ما حبتش تخرج معاه في رونديفو قبل، أما شدّ صحيح وعاود سئلها بش تخرج معاه.
+
+# Since that date, he never went back.
+مالنهار هذاكا عمرو ما رجع.
+مالdate هاذيكا عمرو ما رجع.
+
+# I ran ahead to warn everybody.
+سبقت لقدّام فيسع بش نحذّر الناس لكل.
+سبقت لقدّام فيسع بش نحذّر العباد لكل.
+جريت لقدّام بش نحذّر الناس لكل.
+جريت لقدّام بش نحذّر العباد لكل.
+
+# Further evacuations are expected in the days ahead.
+بش يصيروا des évacuations آخرين في الأيام الجايّة.
 
 # My cousin goes to school here.
 ولد عمي يقرى لنّا.
@@ -2082,6 +2179,22 @@ OK.
 # Cockroaches are insects.
 الفرازط حشرات.
 الخنافس حشرات.
+
+# Boil half a cup of water, add one teaspoon of honey and then fill up with milk.
+غلّي نصّ كاس متاع ماء، زيد مغرفة صغيرة عسل ومبعد إملاه بالحليب.
+غلّي نصّ كاس متاع ماء، زيد مغرفة صغيرة عسل ومبعد عبّيه بالحليب.
+غلّي نصّ كاس ماء، زيد مغرفة صغيرة عسل ومبعد إملاه بالحليب.
+غلّي نصّ كاس ماء، زيد مغرفة صغيرة عسل ومبعد عبّيه بالحليب.
+غلّي نصّ كاس ماء، زيد مغرفة صغيرة عسل ومبعد كمّل عبّيه بالحليب.
+غلّي نصّ كاس ماء، زيد مغرفة صغيرة عسل ومبعد كمّل إملاه بالحليب.
+
+# Honey, I'm home !
+يا روحي، هاني روّحت للدار !
+يا روحي، هاني روّحت !
+حبّي، هاني روّحت !
+حبّي، هاني روّحت للدار !
+عزيزتي، هاني روّحت للدار !
+عزيزتي، هاني روّحت !
 
 # Can they find a new king without dispute?
 ينجموا يلقاو ملك باهي بلاش عرك؟
@@ -2626,6 +2739,12 @@ OK.
 ديما بش نكون موجود لهنا كي تستحقلي.
 ديما بش نكون موجود كي تستحقني.
 ديما بش نكون موجود لهنا كي تستحقني.
+
+# Are you crazy ?
+مهبول ياخي؟
+مهبول إنتي ياخي؟
+ياخي مهبول إنتي ولّا شنوّه؟
+مهبول ياخي ولّا شنوّه؟
 
 # He is playing with his brothers.
 قاعد يلعب مع خواتو.
@@ -5432,6 +5551,11 @@ Disponible أنا ننجم نخدم على الprojet متاعك.
 # Plant a seed.
 إغرس بذرة.
 
+# Bye.
+فيلامان.
+بالسلامة.
+باي.
+
 # It's probably a pig's trail.
 هاذي probablement trace متاع حلّوف.
 هاذي probablement trace متاع خنزير.
@@ -5845,6 +5969,11 @@ taille  قدّاش المريول هذاكا ؟
 # Can you turn on the computer, please?
 تنجّم تحلّ الordinateur باللاهي ؟
 
+# I'm supposed to be taking care of you.
+مالمفروض نكون لاهي بيك.
+أنا supposé نتلهى بيك.
+أنا supposé نكون لاهي بيك.
+
 # You need to type in your password.
 لازمك تكتب الmot de passe متاعك.
 
@@ -5954,6 +6083,12 @@ taille  قدّاش المريول هذاكا ؟
 
 # This is a real president.
 هذا رئيس بالحقّ.
+
+# This sounds like good news to me.
+جاني خبر باهي.
+جاني باهي الخبر.
+جاتني باهية الأخبار.
+جاتني أخبار باهية.
 
 # I'll miss all of you.
 بش نتواحشكم لكل.
@@ -6084,6 +6219,10 @@ Impossible !
 # Why me?
 علاش أنا؟
 علاه أنا؟
+
+# Whoa. What's going on?
+واه شنوه هذا؟
+أبب شنوه هذا؟
 
 # Awesome!
 هايل!
@@ -6279,6 +6418,12 @@ Impossible !
 
 # Don't lie.
 ما تكذبش.
+
+# You military men like that sort of thing.
+إنتوما جماعة الميليتار تحبّوا الحاجات هاذيكا.
+إنتوما جماعة الجيش تحبّوا الحاجات هاذيكا.
+إنتوما جماعة الmilitaire تحبّوا الحاجات هاذيكا.
+جماعة الmilitaire إنتوما تحبّوا الحاجات هاذيكا.
 
 # Forget it!
 انساها الحكاية!
@@ -6524,6 +6669,9 @@ Bonne chance.
 شنوه حطيت فيهم الصنادق؟
 شنوه حطّيت في الصنادق؟
 
+# We've had an incident a two hours ago.
+صارلنا مشكل ساعتين لتالي.
+
 # There's nothing to discuss.
 ما عندنا ما نناقشو.
 ما فمّا ما يتناقش.
@@ -6725,6 +6873,10 @@ Bonne chance.
 فين نحط دبشي الممسخ؟
 فين نحط دبشي اللي بش يتغسل؟
 فين نحط دبشي اللي لازم يتغسل؟
+
+# I've been waiting for hours.
+عندي سوايع وأنا نستنّى.
+قعدت نستنّى سوايع.
 
 # I need a lamp.
 لازمني أنبوبة.
