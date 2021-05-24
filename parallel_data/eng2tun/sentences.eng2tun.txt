@@ -1605,6 +1605,13 @@ OK.
 إلبس البراسلي.
 إلبس الbracelet.
 
+# He wasn't involved.
+ما كانش مشارك.
+
+# I was starting to like her.
+بديت نحبّها بالشوية.
+بديت نحبّها.
+
 # Which way is your house?
 منين دارك؟
 
@@ -3002,6 +3009,9 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 خدمتي نحبّها.
 أنا نحبّها خدمتي.
 
+# Emily is a french name.
+إيميلي إسم فرانساوي.
+
 # He didn't install this software.
 ما آنستالاش البروغرام هذا.
 ما آنستالاهش البروغرام.
@@ -3045,6 +3055,60 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 # It didn't become a tradition.
 ما ولّاتش عادة.
 ما صارتش عادة.
+
+# Hi there !
+أهلا !
+عسلامة !
+سلام !
+
+# You name is Jack ?
+إسمك جاك ؟
+إسمك Jack ؟
+
+# Um, I guess.
+مم، نتصوّر.
+
+# Hmm, why not?
+مم، علاش لا؟
+
+# Dr Ali is a great doctor.
+دكتور علي طبيب هايل.
+
+# Sam, where are you ?
+سام، فينك ؟
+فينك سام؟
+فينك Sam ؟
+Sam، وينك ؟
+وينك Sam ؟
+
+# Told ya.
+قلتلك.
+
+# My cat is called Leo.
+قطّوسي إسمو ليو.
+قطّوسي إسمو Leo.
+القطوس متاعي إسمو ليو.
+القطوس متاعي إسمو Leo.
+
+# Pope John Paul II was the best.
+البابا جون بول الثاني كان أحسن واحد.
+البابا Jean Paul deux كان أحسن واحد.
+
+# Julian Assange is very famous.
+جوليان آسانج مشهور برشا.
+جوليان آسانج ياسر مشهور.
+Julian Assange مشهور برشا.
+Julian Assange ياسر مشهور.
+
+# What the fuck is happening ?
+شنوه صاير ياخي؟
+شنوه صاير؟
+
+# Lady Samara is an influencer.
+لايدي سامارا influenceuse.
+
+# It's often cold during Christmas.
+في العادة تبدا الدنيا باردة مع كريسماس.
 
 # The queen looked annoyed.
 الملكة ضهرت قالقة.
@@ -3191,6 +3255,44 @@ le fait أنّي مختلفة ما يخلّيهاش بالضرورة خايبة.
 # Let's play a game.
 هيّا نلعبو.
 هيا نلعبو لعبة.
+
+# She didn't have a boyfriend.
+ما كانش عندها صاحب.
+ما كانتش مصوحبة.
+
+# He talked about you a lot.
+حكى عليك برشا.
+
+# Don't share this on Facebook.
+ما تبارتاجيهاش هاذي في فيسبوك.
+
+# The ones we suspect are often guilty.
+العباد إللي نشكّو فيهم هوما اللي في العادة يطلعوا مذنبين.
+
+# I would've helped you if I knew.
+كان جيت نعرف راني عاونتك.
+كنت نعاونك كان جيت نعرف.
+
+# Kay.
+أوكي.
+باهي.
+إيه.
+
+# What a mess !
+ملّا حالة ! 
+ملّا فوضى !
+
+# You deserve it !
+تستاهل !
+
+# No, Richard is not my boss.
+لا ريشار ماهوش عرفي.
+لا، ماهوش عرفي ريشار.
+
+# Jesus was a great guy.
+عيسى كان إنسان رائع.
+عيسى كان شخص هايل.
+عيسى كان شخص رائع.
 
 # I buy from his bakery as often as I can.
 ديما نشري مالباتيسري هاذي.
@@ -3877,10 +3979,18 @@ Probablement مازال راقد.
 تقابلنا في الجامعة.
 تعرّفنا على بعضنا في الجامعة.
 
+# I's fucking awesome !
+هايلة برشا !
+ياسر هايلة !
+حلوّة برشا !
+
 # Music is an interest of mine.
 مغروم الموسيقى.
 نحبّ الموسيقى.
 نحبّ الغناء.
+
+# Don't touch me ! 
+ما تمسّنيش !
 
 # Death is such a heavy topic for me.
 الموت موضوع ثقيل عليّا برشا.
@@ -4004,6 +4114,9 @@ Probablement مازال راقد.
 عندي ستّة كتب على البسيكولوجيا.
  عندي ستّة كتب على الpsychologie.
  عندي ستّة كتب على علم النّفس.
+
+# It's kinda true.
+تنجم تقول صحيحة.
 
 # Wow, the effect of that mascara is great!
 واو، محلاه عليك الماسكارا هذاكا!
@@ -4152,6 +4265,9 @@ Probablement مازال راقد.
 # Your fingerprints were found on the murder weapon.
 لقاو البصمات متاعك على أداة الجريمة.
 
+# I was hoping for more.
+كان عندي أمل في أكثر.
+
 # Seventy or eighty years is the normal span of a man's life.
 سبعين ولّا ثمانين سنة طول طبيعي لعمر الإنسان.
 سبعين ولّا ثمانين سنة طول طبيعي لعمر الرجال.
@@ -4259,6 +4375,9 @@ Probablement مازال راقد.
 الموطور مات قبل ما نوصلو للدار.
 الموطور برك قبل ما نوصلو للدار.
 الموطور طاح panne قبل ما نوصلو للدار.
+
+# He stopped calling last week.
+معادش يطلب مالجمعة اللي فاتت.
 
 # You look better without makeup.
 انتي أحلى بلاش ماكياج.
