@@ -3952,6 +3952,18 @@ Probablement مازال راقد.
 # It's not Kate, is it?
 ماهيش كايت ماو؟
 
+# I have five missed calls.
+عندي خمسة آبالات en absence.
+عندي cinq appels en absence.
+
+# He surprised me.
+فاجئني.
+بهّتني.
+
+# Where is his girlfriend?
+فين صاحبتو ؟
+فينها صاحبتو ؟
+
 # You're so right.
 عندك حقّ.
 بالضبط عندك حقّ.
