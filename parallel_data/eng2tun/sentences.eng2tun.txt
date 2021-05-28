@@ -3530,6 +3530,37 @@ Julian Assange ياسر مشهور.
 نعرفك شنوه حاسس.
 نعرفك شنوه حاسّة.
 
+# I'll pray for you.
+تو ندعيلك.
+
+# He didn't prove anything.
+ما ورّى حتى شي.
+ما برهن حتى شي.
+
+# Have you ever seen an angel?
+ريت مرة ملاك؟
+ريت مرة ملايكة؟
+
+# Do it self !
+أعملها وحدك !
+
+# This doesn't concern you.
+شمدخلك.
+ما تخصكش الحكاية هاذي.
+هاذي ما تخصكش.
+
+# He can't survive there. 
+ما ينجمش يعيش لغادي.
+
+# He had an affair with his secretary.
+ كان على علاقة بالسكريتيرة متاعو.
+ كان على علاقة مع السكريتيرة متاعو.
+ كان على علاقة مع الsecrétaire متاعو.
+
+# David's Star is a jewish symbol.
+نجمة داود رمز يهودي.
+نجمة داود symbole يهودي.
+
 # The sun and the air are God's free gifts to all
 الشمس والهواء نعمة ربّي للناس لكل.
 الشمس والهواء نعمة من عند ربّي للناس لكل.
