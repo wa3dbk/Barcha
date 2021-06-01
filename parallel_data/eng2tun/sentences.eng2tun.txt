@@ -770,6 +770,9 @@ OK.
 # Would you follow me, please?
 تنجّم تتبّعني؟
 
+# Sing with us.
+غنّي معانا.
+
 # I'm not really into it.
 مش جوّي.
 
@@ -1264,6 +1267,9 @@ OK.
 # You didn't provide enough information.
 ما عطيتش معلومات كافية.
 ما عطيتوش معلومات كافية.
+
+# Clap with her.
+صفّق معاها.
 
 # It didn't explode.
 ما طرشقتش.
