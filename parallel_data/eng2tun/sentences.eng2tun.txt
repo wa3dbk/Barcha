@@ -5453,6 +5453,10 @@ Les outils متاع الطبيب لازمهم لكل يبداو نظاف.
 # Did you report this to the police?
 شكيت للبوليسية؟
 
+# She can't take care of herself.
+ما تنجمش تتلهى بروحها.
+ما تنجمش تتلهى بروحها هي.
+
 # I am praying for less stress this coming new year.
 إن شاء الله العام الجاي يكون فيه أقل ستراس.
 إن شاء الله العام الجاي يكون فيه أقل stress.
