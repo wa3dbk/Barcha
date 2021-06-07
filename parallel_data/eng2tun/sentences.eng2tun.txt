@@ -1491,6 +1491,9 @@ OK.
 # I need a new pen. 
 حاشتي بستيلو جديد.
 
+# I need a new book. 
+حاشتي بكتاب جديد.
+
 # There are so many things I want to learn.
 عندي برشا حاجات نحب نتعلّمها.
 
