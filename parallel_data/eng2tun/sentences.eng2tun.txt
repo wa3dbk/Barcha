@@ -382,6 +382,7 @@ Désolé.
 
 # Let me think about it.
 خليني نخمم شويّة.
+خلي نخمم شويّة.
 
 # Let's go have a look.
 هيا نمشيو نعملو طلّة.
@@ -661,6 +662,7 @@ OK.
 # They'll be right back.
 هاو تو يرجعوا.
 هاتوّ يرجعوا.
+تو يرجعوا.
 
 # They're the same.
 هوما بيدهم.
@@ -1188,6 +1190,7 @@ OK.
 # She is very happy.
 فرحانة برشا.
 هي فرحانة برشا.
+فرحانة برشا هي.
 
 # Do you like blue or yellow?
 تحبّ الأزرق ولا الأصفر؟
@@ -1397,6 +1400,7 @@ OK.
 
 # They are so old-fashioned !
 قداشهم ڤدم.
+ياسر ڤدم.
 
 # I didn't wear my best t-shirt.
 ما لبستش أحسن مريول نصّ عندي.
@@ -1633,6 +1637,7 @@ OK.
 
 # Which way is your house?
 منين دارك؟
+دارك منين؟
 
 # This is the fourth time !
 هاذي المرة الرابعة !
