@@ -1120,6 +1120,7 @@ OK.
 # This is my brother.
 خويا هذا.
 هذا خويا.
+هذايا خويا.
 
 # I want to go with you.
 نحبّ نمشي معاك.
