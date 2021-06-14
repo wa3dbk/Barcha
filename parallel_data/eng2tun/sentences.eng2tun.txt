@@ -5552,6 +5552,7 @@ Les outils متاع الطبيب لازمهم لكل يبداو نظاف.
 
 # Don't break the law.
 ما تخرقش القانون.
+ما تخرقوش القانون.
 
 # You better learn how to follow the rules.
 من صلحتك كان تتعلّم تتبّع القواعد.
@@ -6144,6 +6145,9 @@ Juste نص ليترة وكهو يعيشك.
 أنا متواجد ننجم نخدم على الprojet متاعك.
 Disponible أنا ننجم نخدم على الprojet متاعك.
 أنا disponible ننجم نخدم على الprojet متاعك.
+
+# Her name is Jina.
+إسمها جينا.
 
 # Plant a seed.
 إغرس بذرة.
