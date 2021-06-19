@@ -1978,6 +1978,9 @@ OK.
 # She can't even stand on her own.
 ما تنجمش تاقف وحدها أصلا.
 
+# You can't rely on brute force.
+ما تنجّمش تعمّل على القوة.
+
 # I'll be right back.
 دقيقة ونرجع.
 لحظة ونرجع.
