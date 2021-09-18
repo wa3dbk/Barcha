@@ -1,0 +1,19 @@
+White أبيض blanc
+Yellow أصفر jaune
+Blue أزرق bleu
+Red أحمر rouge
+Green أخضر vert
+Black أسود أكحل noir
+Brown بني مارون marron
+Ivory عاجي ivoire
+Silver فضة فضّي argent
+Purple violet
+Gray رمادي gris
+Orange برتقالي أرنجي orange 
+Wheat قمحي
+Navy bleu-marin
+Maroon rouge-bordeaux
+Khaki كاكي kaki
+Pink وردي روز rose
+Olive زيتون
+Cyan سماوي
